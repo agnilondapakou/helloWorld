@@ -1,7 +1,9 @@
 # helloWorld
+
 Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.
 
-# List of available languages: 
+# List of available languages:
+
 1. Python
 2. Javascript
 3. Solidity
@@ -12,8 +14,10 @@ Hello world is an Open Source project for programming beginners. It consists in 
 8. Assembly
 9. HTML
 10. Dart
+11. COBOL
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,9 +26,11 @@ Hello world is an Open Source project for programming beginners. It consists in 
 - [License](#license)
 
 ## Introduction
+
 The "Hello World" project is a common first step for beginners learning a new programming language. This repository gathers implementations of the "Hello World" message in multiple languages to demonstrate different syntax and language features.
 
 ## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/agnilondapakou/helloWorld.git
@@ -32,11 +38,14 @@ The "Hello World" project is a common first step for beginners learning a new pr
 2. Navigate to the directory of the language you wish to try.
 
 ## Usage
+
 To run a "Hello World" program:
+
 1. Navigate to the specific language folder.
 2. Run the code using the appropriate compiler or interpreter.
 
 Example in Python:
+
 ```bash
 python hello.py
 ```
@@ -46,22 +55,22 @@ python hello.py
 Contributions are encouraged! Follow these steps to contribute:
 
 1. **Fork the repository**: Click the "Fork" button at the top of this page to create a copy of this repo under your GitHub account.
-2. **Clone your fork**: 
+2. **Clone your fork**:
    ```bash
    git clone https://github.com/agnilondapakou/helloWorld.git
    cd helloWorld
    ```
-3. **Create a new branch**: 
+3. **Create a new branch**:
    ```bash
    git checkout -b add-language-<language-name>
    ```
 4. **Add your "Hello World" program**: Add a folder for your language (if not present) and include your program file inside it.
-5. **Commit your changes**: 
+5. **Commit your changes**:
    ```bash
    git add .
    git commit -m "Added Hello World in <language>"
    ```
-6. **Push to your fork**: 
+6. **Push to your fork**:
    ```bash
    git push origin add-language-<language-name>
    ```
@@ -70,8 +79,10 @@ Contributions are encouraged! Follow these steps to contribute:
 Please ensure that your code adheres to the formatting conventions for the language. Check the [CONTRIBUTING.md](https://github.com/agnilondapakou/helloWorld/blob/main/CONTRIBUTING.md) for more detailed guidelines.
 
 ## Features
+
 - Collection of "Hello World" programs in various programming languages.
 - Great resource for beginners to compare basic syntax across languages.
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/agnilondapakou/helloWorld/blob/main/LICENSE) file for details.
