@@ -71,4 +71,10 @@ Our team will review your PR and provide feedback if needed. We aim to respond t
 
 ---
 
+## Code of Conduct
+
+By contributing to this project, you agree to uphold our [Code of Conduct](https://github.com/agnilondapakou/helloWorld/blob/main/CODE_OF_CONDUCT.md). Please be respectful to others and help create a welcoming environment for all contributors.
+
+---
+
 We’re excited to see your contributions! Happy coding!
