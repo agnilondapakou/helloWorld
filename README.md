@@ -37,7 +37,7 @@ Contributions are encouraged! Follow these steps to contribute:
 1. **Fork the repository**: Click the "Fork" button at the top of this page to create a copy of this repo under your GitHub account.
 2. **Clone your fork**: 
    ```bash
-   git clone https://github.com/your-username/helloWorld.git
+   git clone https://github.com/agnilondapakou/helloWorld.git
    cd helloWorld
    ```
 3. **Create a new branch**: 
