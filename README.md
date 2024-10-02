@@ -5,6 +5,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 1. Python
 2. Javascript
 3. Solidity
+4. C
 
 ## Table of Contents
 - [Introduction](#introduction)
