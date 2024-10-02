@@ -1,6 +1,10 @@
 # helloWorld
+Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.
 
-**helloWorld** is an open-source project aimed at programming beginners. It provides simple "Hello World" programs written in various programming languages to help learners understand syntax and basic structure.
+# List of available languages: 
+1. Python
+2. Javascript
+3. Solidity
 
 ## Table of Contents
 - [Introduction](#introduction)
