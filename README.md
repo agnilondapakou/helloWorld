@@ -6,6 +6,10 @@ Hello world is an Open Source project for programming beginners. It consists in 
 2. Javascript
 3. Solidity
 4. C
+5. C++
+6. C#
+7. PHP
+8. Assembly
 
 ## Table of Contents
 - [Introduction](#introduction)
