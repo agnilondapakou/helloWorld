@@ -10,6 +10,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 6. C#
 7. PHP
 8. Assembly
+9. HTML
 
 ## Table of Contents
 - [Introduction](#introduction)
