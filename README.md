@@ -19,6 +19,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 13. Java
 14. Bash
 15. Go
+16. Rust
 
 ## Table of Contents
 
