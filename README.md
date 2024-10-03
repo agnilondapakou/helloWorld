@@ -15,6 +15,8 @@ Hello world is an Open Source project for programming beginners. It consists in 
 9. HTML
 10. Dart
 11. COBOL
+12. GDScript
+13. Java
 
 ## Table of Contents
 
