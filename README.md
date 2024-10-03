@@ -17,6 +17,8 @@ Hello world is an Open Source project for programming beginners. It consists in 
 11. COBOL
 12. GDScript
 13. Java
+14. Bash
+15. Go
 
 ## Table of Contents
 
