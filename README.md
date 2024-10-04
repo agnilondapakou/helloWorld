@@ -22,6 +22,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 16. Typescript
 17. Rust
 18. Zig
+19. Swift
 
 ## Table of Contents
 
