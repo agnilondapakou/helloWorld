@@ -19,7 +19,13 @@ Hello world is an Open Source project for programming beginners. It consists in 
 13. Java
 14. Bash
 15. Go
-16. Rust
+16. Typescript
+17. Rust
+18. Zig
+19. Kotlin
+20. Swift
+21. Lua
+22. Brainfuck
 
 ## Table of Contents
 
