@@ -26,6 +26,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 20. Swift
 21. Lua
 22. Brainfuck
+23. R
 
 ## Table of Contents
 
