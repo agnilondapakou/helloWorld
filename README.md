@@ -25,6 +25,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 19. Kotlin
 20. Swift
 21. Lua
+22. R
 
 ## Table of Contents
 
