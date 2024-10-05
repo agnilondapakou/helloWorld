@@ -27,6 +27,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 21. Lua
 22. Brainfuck
 23. R
+24. Cairo
 
 ## Table of Contents
 
