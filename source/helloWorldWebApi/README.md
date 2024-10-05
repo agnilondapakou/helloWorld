@@ -10,8 +10,8 @@ To add an initial migration and update the database, run the following commands 
 
 ```bash
 dotnet ef migrations add InitialCreate
-dotnet ef database update
-
+dotnet ef database update 
+```
 ![alt text](image.png)
 
 ## JSON Request Examples
