@@ -30,6 +30,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 24. Cairo
 25. Xamarin
 26. Perl
+27. Prolog
 
 ## Table of Contents
 

@@ -1,0 +1,5 @@
+.hello-world::before {
+    content: "Hello, World!";
+    font-size: 24px;
+    color: blue;
+}
