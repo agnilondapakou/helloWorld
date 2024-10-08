@@ -33,6 +33,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 27. Prolog
 28. Ruby
 29. Azle
+30. Fortran
 
 ## Table of Contents
 
