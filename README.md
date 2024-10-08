@@ -31,7 +31,8 @@ Hello world is an Open Source project for programming beginners. It consists in 
 25. Xamarin
 26. Perl
 27. Prolog
-28. Ruby 
+28. Ruby
+29. Azle
 
 ## Table of Contents
 
