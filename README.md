@@ -37,6 +37,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 31. Fortran
 32. Mokoto
 33. MATLAB
+34. Haskell
 
 ## Table of Contents
 
