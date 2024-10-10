@@ -50,7 +50,9 @@ Hello world is an Open Source project for programming beginners. It consists in 
 39. Wolfram
 40. K
 41. J
-
+42. Smalltalk
+43. Visual Basic
+44. Q
 
 ## Table of Contents
 
