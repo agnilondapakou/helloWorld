@@ -54,6 +54,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 43. [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 44. [Q](https://code.kx.com/q/)
 45. [Icon](https://www2.cs.arizona.edu/icon/)
+46. [Daytona](https://daytona.io/)
 
 ## Table of Contents
 
