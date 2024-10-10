@@ -1,0 +1,1 @@
+SELECT 'Hello World' AS message; -- output message Hello World
