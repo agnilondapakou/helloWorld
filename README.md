@@ -1,5 +1,10 @@
 # helloWorld
 
+![GitHub contributors](https://img.shields.io/github/contributors/agnilondapakou/helloWorld)
+![GitHub stars](https://img.shields.io/github/issues/agnilondapakou/helloWorld)
+![GitHub stars](https://img.shields.io/github/stars/agnilondapakou/helloWorld)
+![GitHub forks](https://img.shields.io/github/forks/agnilondapakou/helloWorld)
+
 Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.
 
 # List of available languages:
