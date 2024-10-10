@@ -50,7 +50,6 @@ Hello world is an Open Source project for programming beginners. It consists in 
 38. Wolfram
 39. K
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
