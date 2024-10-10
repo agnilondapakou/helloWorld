@@ -53,6 +53,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 42. Smalltalk
 43. Visual Basic
 44. Q
+45. Icon
 
 ## Table of Contents
 
