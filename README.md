@@ -45,10 +45,11 @@ Hello world is an Open Source project for programming beginners. It consists in 
 34. Haskell
 35. Scheme
 36. F#
-36. SNOBOL
-37. Scala
-38. Wolfram
-39. K
+37. SNOBOL
+38. Scala
+39. Wolfram
+40. K
+41. J
 
 ## Table of Contents
 
