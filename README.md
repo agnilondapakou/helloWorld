@@ -114,6 +114,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 [Dylan](https://opendylan.org/) : basic
 
+[Racket](https://racket-lang.org/) :basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
