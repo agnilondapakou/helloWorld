@@ -105,6 +105,8 @@ Smalltalk : basic
 
 [D](https://www.d-id.com/api/) : basic
 
+[Dylan](https://opendylan.org/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
