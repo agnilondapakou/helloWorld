@@ -11,97 +11,97 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 # List of available languages:
 
-[Python](https://www.python.org/) : basic
+1. [Python](https://www.python.org/) : basic
 
-[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : basic
+2. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : basic
 
-[Solidity](https://soliditylang.org/) : basic
+3. [Solidity](https://soliditylang.org/) : basic
 
-[C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) : basic
+4. [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) : basic
 
-[C++](https://isocpp.org/) : basic
+5. [C++](https://isocpp.org/) : basic
 
-[C#](https://dotnet.microsoft.com/en-us/languages/csharp) : basic
+6. [C#](https://dotnet.microsoft.com/en-us/languages/csharp) : basic
 
-[PHP](https://www.php.net/) : basic
+7. [PHP](https://www.php.net/) : basic
 
-Assembly : basic
+8. Assembly : basic
 
-[HTML](https://html.spec.whatwg.org/) : basic
+9. [HTML](https://html.spec.whatwg.org/) : basic
 
-[Dart](https://dart.dev/) : basic
+10. [Dart](https://dart.dev/) : basic
 
-[COBOL](https://www.ibm.com/docs/en/cobol-zos) : basic
+11. [COBOL](https://www.ibm.com/docs/en/cobol-zos) : basic
 
-[GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html) : basic
+12. [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html) : basic
 
-[Java](https://www.oracle.com/java/) : basic
+13. [Java](https://www.oracle.com/java/) : basic
 
-[Bash](https://www.gnu.org/software/bash/) : basic
+14. [Bash](https://www.gnu.org/software/bash/) : basic
 
-[Go](https://go.dev/) : basic
+15. [Go](https://go.dev/) : basic
 
-[Typescript](https://www.typescriptlang.org/) : basic
+16. [Typescript](https://www.typescriptlang.org/) : basic
 
-[Rust](https://www.rust-lang.org/) : basic
+17. [Rust](https://www.rust-lang.org/) : basic
 
-[Zig](https://ziglang.org/) : basic
+18. [Zig](https://ziglang.org/) : basic
 
-[Kotlin](https://kotlinlang.org/) : basic
+19. [Kotlin](https://kotlinlang.org/) : basic
 
-[Swift](https://www.swift.org/) : basic
+20. [Swift](https://www.swift.org/) : basic
 
-[Lua](https://www.lua.org/) : basic
+21. [Lua](https://www.lua.org/) : basic
 
-Brainfuck : basic
+22. Brainfuck : basic
 
-[R](https://www.r-project.org/) : basic
+23. [R](https://www.r-project.org/) : basic
 
-[Cairo](https://www.cairo-lang.org/) : basic
+24. [Cairo](https://www.cairo-lang.org/) : basic
 
-[Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) : basic
+25. [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) : basic
 
-[Perl](https://www.perl.org/) : basic
+26. [Perl](https://www.perl.org/) : basic
 
-[Prolog](https://www.swi-prolog.org/) : basic
+27. [Prolog](https://www.swi-prolog.org/) : basic
 
-[Ruby](https://www.ruby-lang.org/en/) : basic
+28. [Ruby](https://www.ruby-lang.org/en/) : basic
 
-[Azle](https://demergent-labs.github.io/azle/) : basic
+29. [Azle](https://demergent-labs.github.io/azle/) : basic
 
-SQL : basic
+30. SQL : basic
 
-[Fortran](https://fortran-lang.org/) : basic
+31. [Fortran](https://fortran-lang.org/) : basic
 
-[Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
+32. [Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
 
-[MATLAB](https://www.mathworks.com/products/matlab.html) : basic
+33. [MATLAB](https://www.mathworks.com/products/matlab.html) : basic
 
-[Haskell](https://www.haskell.org/) : basic
+34. [Haskell](https://www.haskell.org/) : basic
 
-[Scheme](https://www.scheme.org/) : basic
+35. [Scheme](https://www.scheme.org/) : basic
 
-[F#](https://fsharp.org/) : basic
+36. [F#](https://fsharp.org/) : basic
 
-SNOBOL : basic
+37. SNOBOL : basic
 
-[Scala](https://www.scala-lang.org/) : basic
+38. [Scala](https://www.scala-lang.org/) : basic
 
-[Wolfram](https://www.wolfram.com/language/) : basic
+39. [Wolfram](https://www.wolfram.com/language/) : basic
 
-[K](https://kx.com/) : basic
+40. [K](https://kx.com/) : basic
 
-[J](https://www.jsoftware.com/#/) : basic
+41. [J](https://www.jsoftware.com/#/) : basic
 
-Smalltalk : basic
+42. Smalltalk : basic
 
-[VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) : basic
+43. [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) : basic
 
-[Q](https://code.kx.com/q/) : basic
+44. [Q](https://code.kx.com/q/) : basic
 
-[Icon](https://www2.cs.arizona.edu/icon/) : basic
+45. [Icon](https://www2.cs.arizona.edu/icon/) : basic
 
-[Daytona](https://daytona.io/) : basic
+46. [Daytona](https://daytona.io/) : basic
 
 ## Table of Contents
 
