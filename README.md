@@ -106,6 +106,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 49. [Daytona](https://daytona.io/) : basic
 
+[Pascal](https://www.freepascal.org/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
