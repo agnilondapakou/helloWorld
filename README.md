@@ -107,6 +107,8 @@ Smalltalk : basic
 
 [Dylan](https://opendylan.org/) : basic
 
+[Racket](https://racket-lang.org/) :basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
