@@ -73,7 +73,9 @@ SQL : basic
 
 [Fortran](https://fortran-lang.org/) : basic
 
-[Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
+[Motoko](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
+[AZle](https://github.com/demergent-labs) : basic
+[Soroban](https://developers.stellar.org/) : basic
 
 [MATLAB](https://www.mathworks.com/products/matlab.html) : basic
 
