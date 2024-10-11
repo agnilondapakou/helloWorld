@@ -108,6 +108,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 [Pascal](https://www.freepascal.org/) : basic
 
+[Crystal](https://www.crystalknows.com/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
