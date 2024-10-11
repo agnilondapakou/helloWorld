@@ -103,6 +103,8 @@ Smalltalk : basic
 
 [Daytona](https://daytona.io/) : basic
 
+[D](https://www.d-id.com/api/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
