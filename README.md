@@ -103,6 +103,8 @@ Smalltalk : basic
 
 [Daytona](https://daytona.io/) : basic
 
+[Crystal](https://www.crystalknows.com/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
