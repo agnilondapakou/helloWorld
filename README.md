@@ -73,35 +73,38 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 31. [Fortran](https://fortran-lang.org/) : basic
 
-32. [Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
+32. [Motoko](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
+33. [AZle](https://github.com/demergent-labs) : basic
+34. [Soroban](https://developers.stellar.org/) : basic
+35. [Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
 
-33. [MATLAB](https://www.mathworks.com/products/matlab.html) : basic
+36. [MATLAB](https://www.mathworks.com/products/matlab.html) : basic
 
-34. [Haskell](https://www.haskell.org/) : basic
+37. [Haskell](https://www.haskell.org/) : basic
 
-35. [Scheme](https://www.scheme.org/) : basic
+38. [Scheme](https://www.scheme.org/) : basic
 
-36. [F#](https://fsharp.org/) : basic
+39. [F#](https://fsharp.org/) : basic
 
-37. SNOBOL : basic
+40. SNOBOL : basic
 
-38. [Scala](https://www.scala-lang.org/) : basic
+41. [Scala](https://www.scala-lang.org/) : basic
 
-39. [Wolfram](https://www.wolfram.com/language/) : basic
+42. [Wolfram](https://www.wolfram.com/language/) : basic
 
-40. [K](https://kx.com/) : basic
+43. [K](https://kx.com/) : basic
 
-41. [J](https://www.jsoftware.com/#/) : basic
+44. [J](https://www.jsoftware.com/#/) : basic
 
-42. Smalltalk : basic
+45. Smalltalk : basic
 
-43. [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) : basic
+46. [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) : basic
 
-44. [Q](https://code.kx.com/q/) : basic
+47. [Q](https://code.kx.com/q/) : basic
 
-45. [Icon](https://www2.cs.arizona.edu/icon/) : basic
+48. [Icon](https://www2.cs.arizona.edu/icon/) : basic
 
-46. [Daytona](https://daytona.io/) : basic
+49. [Daytona](https://daytona.io/) : basic
 
 ## Table of Contents
 
