@@ -64,8 +64,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 51. [Crystal](https://www.crystalknows.com/) : basic
 52. [D](https://www.d-id.com/api/) : basic
 53. [Dylan](https://opendylan.org/) : basic
-54. [Racket](https://racket-lang.org/) :basic
-55. [Erlang](https://www.erlang.org/) :basic
+54. [Racket](https://racket-lang.org/) : basic
+55. [Erlang](https://www.erlang.org/) : basic
+56. [Julia](https://julialang.org) : basic
 
 ## Table of Contents
 
