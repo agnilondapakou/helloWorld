@@ -103,6 +103,8 @@ Smalltalk : basic
 
 [Daytona](https://daytona.io/) : basic
 
+[Pascal](https://www.freepascal.org/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
