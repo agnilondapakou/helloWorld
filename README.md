@@ -110,6 +110,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 [Crystal](https://www.crystalknows.com/) : basic
 
+[D](https://www.d-id.com/api/) : basic
+
 ## Table of Contents
 
 - [Introduction](#introduction)
