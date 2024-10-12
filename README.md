@@ -68,6 +68,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 55. [Erlang](https://www.erlang.org/) : basic
 56. [Julia](https://julialang.org) : basic
 57. [Haxe](https://haxe.org/) : basic
+58. [Elm](https://guide.elm-lang.org/) : basic
 ## Table of Contents
 
 - [Introduction](#introduction)
