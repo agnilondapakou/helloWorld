@@ -69,6 +69,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 56. [Julia](https://julialang.org) : basic
 57. [Haxe](https://haxe.org/) : basic
 58. [Elm](https://guide.elm-lang.org/) : basic
+59. [OCaml](https://ocaml.org/) : basic
 ## Table of Contents
 
 - [Introduction](#introduction)
