@@ -71,7 +71,10 @@ For those who like a challenge and want to make larger contributions, you can cr
 58. [Elm](https://guide.elm-lang.org/) : basic
 59. [OCaml](https://ocaml.org/) : basic
 60. [Elixir](https://elixir-lang.org/) : basic
-61. [Common Lisp](https://common-lisp.net/) : basic
+61. [Bhailang](https://bhailang.js.org) : basic
+62. [Lisk](https://docs.lisk.com/) : basic
+63. [Nim](https://nim-lang.org/) : basic
+64. [Common Lisp](https://common-lisp.net/) : basic
 
 ## Table of Contents
 
