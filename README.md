@@ -73,6 +73,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 60. [Elixir](https://elixir-lang.org/) : basic
 61. [Bhailang](https://bhailang.js.org) : basic
 62. [Lisk](https://docs.lisk.com/) : basic
+63. [Nim](https://nim-lang.org/) : basic 
 
 ## Table of Contents
 
