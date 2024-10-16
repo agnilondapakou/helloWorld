@@ -76,6 +76,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 63. [Nim](https://nim-lang.org/) : basic
 64. [Common Lisp](https://common-lisp.net/) : basic
 65. [Tcl](https://www.tcl.tk/about/language.html) : basic
+66. [Zig](https://ziglang.org/)
 
 ## Table of Contents
 
