@@ -75,8 +75,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 62. [Lisk](https://docs.lisk.com/) : basic
 63. [Nim](https://nim-lang.org/) : basic
 64. [Common Lisp](https://common-lisp.net/) : basic
-65. [Tcl](https://www.tcl.tk/about/language.html) : basic
-66. [PureScript](https://www.purescript.org/) : basic
+65. [Clojure](https://clojure.org/) : basic
+66. [Tcl](https://www.tcl.tk/about/language.html) : basic
+67. [PureScript](https://www.purescript.org/) : basic
 
 ## Table of Contents
 
