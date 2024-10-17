@@ -11,73 +11,76 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 # List of available languages:
 
-1. [Python](https://www.python.org/) : basic
-2. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : basic
-3. [Solidity](https://soliditylang.org/) : basic
-4. [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) : basic
-5. [C++](https://isocpp.org/) : basic
-6. [C#](https://dotnet.microsoft.com/en-us/languages/csharp) : basic
-7. [PHP](https://www.php.net/) : basic
-8. Assembly : basic
-9. [HTML](https://html.spec.whatwg.org/) : basic
-10. [Dart](https://dart.dev/) : basic
-11. [COBOL](https://www.ibm.com/docs/en/cobol-zos) : basic
-12. [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html) : basic
-13. [Java](https://www.oracle.com/java/) : basic
-14. [Bash](https://www.gnu.org/software/bash/) : basic
-15. [Go](https://go.dev/) : basic
-16. [Typescript](https://www.typescriptlang.org/) : basic
-17. [Rust](https://www.rust-lang.org/) : basic
-18. [Zig](https://ziglang.org/) : basic
-19. [Kotlin](https://kotlinlang.org/) : basic
-20. [Swift](https://www.swift.org/) : basic
-21. [Lua](https://www.lua.org/) : basic
-22. [Brainfuck](https://brainfuck.org/) : basic
-23. [R](https://www.r-project.org/) : basic
-24. [Cairo](https://www.cairo-lang.org/) : basic
-25. [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) : basic
-26. [Perl](https://www.perl.org/) : basic
-27. [Prolog](https://www.swi-prolog.org/) : basic
-28. [Ruby](https://www.ruby-lang.org/en/) : basic
-29. [Azle](https://demergent-labs.github.io/azle/) : basic
-30. [SQL](https://www.iso.org/standard/76583.html) : basic
-31. [Fortran](https://fortran-lang.org/) : basic
-32. [Motoko](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
-33. [AZle](https://github.com/demergent-labs) : basic
-34. [Soroban](https://developers.stellar.org/) : basic
-35. [Mokoto](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction) : basic
-36. [MATLAB](https://www.mathworks.com/products/matlab.html) : basic
-37. [Haskell](https://www.haskell.org/) : basic
-38. [Scheme](https://www.scheme.org/) : basic
-39. [F#](https://fsharp.org/) : basic
-40. [SNOBOL](https://www.regressive.org/snobol4/) : basic
-41. [Scala](https://www.scala-lang.org/) : basic
-42. [Wolfram](https://www.wolfram.com/language/) : basic
-43. [K](https://kx.com/) : basic
-44. [J](https://www.jsoftware.com/#/) : basic
-45. Smalltalk - [Squeak](https://squeak.org/) or [GNU](https://www.gnu.org/software/smalltalk/) : basic
-46. [VisualBasic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) : basic
-47. [Q](https://code.kx.com/q/) : basic
-48. [Icon](https://www2.cs.arizona.edu/icon/) : basic
-49. [Daytona](https://daytona.io/) : basic
-50. [Pascal](https://www.freepascal.org/) : basic
-51. [Crystal](https://www.crystalknows.com/) : basic
-52. [D](https://www.d-id.com/api/) : basic
-53. [Dylan](https://opendylan.org/) : basic
-54. [Racket](https://racket-lang.org/) : basic
-55. [Erlang](https://www.erlang.org/) : basic
-56. [Julia](https://julialang.org) : basic
-57. [Haxe](https://haxe.org/) : basic
-58. [Elm](https://guide.elm-lang.org/) : basic
-59. [OCaml](https://ocaml.org/) : basic
-60. [Elixir](https://elixir-lang.org/) : basic
-61. [Bhailang](https://bhailang.js.org) : basic
-62. [Lisk](https://docs.lisk.com/) : basic
-63. [Nim](https://nim-lang.org/) : basic
-64. [Common Lisp](https://common-lisp.net/) : basic
-65. [Clojure](https://clojure.org/) : basic
-66. [Tcl](https://www.tcl.tk/about/language.html) : basic
-67. [PureScript](https://www.purescript.org/) : basic
+## List of available languages:
+
+1. [Python](source/basic/helloworld.py) - [Python.org](https://www.python.org/)
+2. [Javascript](source/basic/helloWorld.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [Solidity](source/basic/helloworld.sol) - [Soliditylang.org](https://soliditylang.org/)
+4. [C](source/basic/helloworld.c) - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+5. [C++](source/basic/helloworld.cpp) - [isocpp.org](https://isocpp.org/)
+6. [C#](source/basic/helloworld.cs) - [Microsoft C#](https://dotnet.microsoft.com/en-us/languages/csharp)
+7. [PHP](source/basic/helloworld.php) - [PHP.net](https://www.php.net/)
+8. [Assembly](source/basic/helloworld.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+9. [HTML](source/basic/helloworld.html) - [HTML Specification](https://html.spec.whatwg.org/)
+10. [Dart](source/basic/helloworld.dart) - [Dart.dev](https://dart.dev/)
+11. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
+12. [GDScript](source/basic/helloworld.gd) - [Godot Engine](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
+13. [Java](source/basic/helloworld.java) - [Oracle Java](https://www.oracle.com/java/)
+14. [Bash](source/basic/helloworld.sh) - [GNU Bash](https://www.gnu.org/software/bash/)
+15. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
+16. [Typescript](source/basic/helloworld.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
+17. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
+18. [Zig](source/basic/helloworld.zig) - [Ziglang.org](https://ziglang.org/)
+19. [Kotlin](source/basic/helloWorld.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+20. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+21. [Lua](source/basic/helloworld.lua) - [Lua.org](https://www.lua.org/)
+22. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
+23. [R](source/basic/helloworld.R) - [R-project.org](https://www.r-project.org/)
+24. [Cairo](source/basic/helloworld.cairo) - [Cairo-lang.org](https://www.cairo-lang.org/)
+25. [Xamarin](source/basic/HelloWorld.xaml) - [Microsoft Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
+26. [Perl](source/basic/helloworld.pl) - [Perl.org](https://www.perl.org/)
+27. [Prolog](source/basic/helloworld.pro) - [SWI-Prolog](https://www.swi-prolog.org/)
+28. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
+29. [Azle](source/basic/helloworld_azle.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+30. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+31. [Fortran](source/basic/helloworld.f90) - [Fortran-lang.org](https://fortran-lang.org/)
+32. [Motoko](source/basic/helloWorld.motoko) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+33. [AZle](source/basic/helloworld.azle) - [Demergent Labs](https://github.com/demergent-labs)
+34. [Soroban](source/basic/helloworld.soroban) - [Stellar Developers](https://developers.stellar.org/)
+35. [Mokoto](source/basic/helloworld.mokoto) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+36. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
+37. [Haskell](source/basic/helloworld.hs) - [Haskell.org](https://www.haskell.org/)
+38. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
+39. [F#](source/basic/helloworld.fs) - [Fsharp.org](https://fsharp.org/)
+40. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
+41. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
+42. [Wolfram](source/basic/helloworld.wl) - [Wolfram.com](https://www.wolfram.com/language/)
+43. [K](source/basic/helloworld.k) - [Kx.com](https://kx.com/)
+44. [J](source/basic/helloworld.j) - [Jsoftware.com](https://www.jsoftware.com/#/)
+45. [Smalltalk](source/basic/helloworld.st) - Squeak or GNU - [Squeak.org](https://squeak.org/) or [GNU Smalltalk](https://www.gnu.org/software/smalltalk/)
+46. [VisualBasic](source/basic/helloworld.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+47. [Q](source/basic/helloworld.q) - [Kx.com](https://code.kx.com/q/)
+48. [Icon](source/basic/helloworld.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
+49. [Daytona](source/basic/helloworld.daytona) - [Daytona.io](https://daytona.io/)
+50. [Pascal](source/basic/helloworld.pas) - [FreePascal.org](https://www.freepascal.org/)
+51. [Crystal](source/basic/helloworld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
+52. [D](source/basic/helloworld.d) - [D-lang.org](https://www.dlang.org/)
+53. [Dylan](source/basic/helloworld.dylan) - [OpenDylan.org](https://opendylan.org/)
+54. [Racket](source/basic/helloWorld.rkt) - [Racket-lang.org](https://racket-lang.org/)
+55. [Erlang](source/basic/helloworld.erl) - [Erlang.org](https://www.erlang.org/)
+56. [Julia](source/basic/helloworld.jl) - [JuliaLang.org](https://julialang.org)
+57. [Haxe](source/basic/helloworld.hx) - [Haxe.org](https://haxe.org/)
+58. [Elm](source/basic/helloworld.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
+59. [OCaml](source/basic/helloworld.ml) - [OCaml.org](https://ocaml.org/)
+60. [Elixir](source/basic/helloworld.exs) - [Elixir-lang.org](https://elixir-lang.org/)
+61. [Bhailang](source/basic/helloworld.bhai) - [Bhailang.js.org](https://bhailang.js.org)
+62. [Lisk](source/basic/helloworld.lisk) - [Docs.lisk.com](https://docs.lisk.com/)
+63. [Nim](source/basic/helloworld.nim) - [Nim-lang.org](https://nim-lang.org/)
+64. [Common Lisp](source/basic/helloworld.lisp) - [Common-lisp.net](https://common-lisp.net/)
+65. [Clojure](source/basic/helloworld.clj) - [Clojure.org](https://clojure.org/)
+66. [Tcl](source/basic/helloworld.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
+67. [PureScript](source/basic/helloworld.purs) - [Purescript.org](https://www.purescript.org/)
+
 
 ## Table of Contents
 
