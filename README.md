@@ -76,15 +76,19 @@ For those who like a challenge and want to make larger contributions, you can cr
 63. [Nim](https://nim-lang.org/) : basic
 64. [Common Lisp](https://common-lisp.net/) : basic
 65. [Tcl](https://www.tcl.tk/about/language.html) : basic
+66. [PureScript](https://www.purescript.org/) : basic
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Features](#features)
-- [License](#license)
+- [helloWorld](#helloworld)
+- [List of available languages:](#list-of-available-languages)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Features](#features)
+  - [License](#license)
 
 ## Introduction
 
