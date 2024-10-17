@@ -79,6 +79,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 65. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
 66. [Tcl](source/basic/helloworld.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
 67. [PureScript](source/basic/HelloWorld.purs) - [Purescript.org](https://www.purescript.org/)
+68. [HolyC](source/basic/HelloWorld.HC) - [HolyC.com](https://holyc-lang.com)
 
 
 ## Table of Contents
