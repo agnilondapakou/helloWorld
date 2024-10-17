@@ -31,7 +31,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 16. [Typescript](source/basic/helloworld.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
 17. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
 18. [Zig](source/basic/helloworld.zig) - [Ziglang.org](https://ziglang.org/)
-19. [Kotlin](source/basic/helloWorld.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+19. [Kotlin](source/basic/hello.kt) - [Kotlinlang.org](https://kotlinlang.org/)
 20. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 21. [Lua](source/basic/helloworld.lua) - [Lua.org](https://www.lua.org/)
 22. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
