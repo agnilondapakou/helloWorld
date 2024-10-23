@@ -84,6 +84,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 70. [Plug](source/basic/helloworld.plug) - [PlugLanguage.org](https://pluglanguage.org)
 71. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
 72. [Falcon](source/basic/heloworld.fcn) - [Falcon-lang.org](http://www.falconpl.org/)
+73. [Janet](source/basic/hello.janet) - [Janet-lang](https://janet-lang.org/docs/index.html)
 
 
 
