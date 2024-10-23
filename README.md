@@ -87,7 +87,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 72. [Pike](source/basic/hello_world.pike) - [Pike.lysator.liu.se](https://pike.lysator.liu.se/)
 73. [Janet](source/basic/hello.janet) - [Janet-lang](https://janet-lang.org/docs/index.html)
 74. [Ada](source/basic/hello.adb) - [Ada-lang](https://ada-lang.io/)
-75. [Applescript](source/basic/helloworld.scpt) [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+75. [Applescript](source/basic/helloworld.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+76. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
 
 ## Table of Contents
 
