@@ -85,8 +85,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 70. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
 71. [Falcon](source/basic/heloworld.fcn) - [Falcon-lang.org](http://www.falconpl.org/)
 72. [Pike](source/basic/hello_world.pike) - [Pike.lysator.liu.se](https://pike.lysator.liu.se/)
-
-
+73. [Janet](source/basic/hello.janet) - [Janet-lang](https://janet-lang.org/docs/index.html)
 
 ## Table of Contents
 
