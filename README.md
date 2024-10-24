@@ -106,6 +106,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 92. [Pony](source/basic/helloworld.pony) - [Pony](https://www.ponylang.io/)
 
+93. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+94. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
+
 ## Table of Contents
 
 - [helloWorld](#helloworld)
