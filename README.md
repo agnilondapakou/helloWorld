@@ -89,6 +89,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 74. [Ada](source/basic/hello.adb) - [Ada-lang](https://ada-lang.io/)
 75. [Applescript](source/basic/helloworld.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 76. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
+77. [Python](source/basic/hello_world.py) - [Python.org](https://www.python.org/)
 
 ## Table of Contents
 
