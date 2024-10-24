@@ -104,6 +104,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 89. [Occam](source/basic/helloworld.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
 90. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
+92. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
+93. [Pug](source/basic/Hello_world.pug) - [Pug-lang](https://pugjs.org/)
+94. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 
 ## Table of Contents
 
