@@ -1,0 +1,4 @@
+PROC main()
+    SEQ
+        write.full.string("Hello, World!", 0, screen)
+:
