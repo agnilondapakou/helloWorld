@@ -89,6 +89,21 @@ For those who like a challenge and want to make larger contributions, you can cr
 74. [Ada](source/basic/hello.adb) - [Ada-lang](https://ada-lang.io/)
 75. [Applescript](source/basic/helloworld.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 76. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
+77. [ALGOL 68](source/basic/helloworld.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
+78. [BASIC](source/basic/helloworld.bas) - [Classic BASIC](https://www.vintage-basic.net/)
+79. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
+80. [Cobra](source/basic/helloworld.cobra) - [Cobra Language](http://cobra-language.com/)
+81. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
+82. [Eiffel](source/basic/helloworld.e) - [Eiffel.org](https://www.eiffel.org/)
+83. [Factor](source/basic/helloworld.factor) - [Factorcode.org](https://factorcode.org/)
+84. [FORTH](source/basic/helloworld.fth) - [Forth.org](https://www.forth.org/)
+85. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
+86. [Logo](source/basic/helloworld.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
+87. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
+88. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
+89. [Occam](source/basic/helloworld.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
+90. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
+91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 
 ## Table of Contents
 
