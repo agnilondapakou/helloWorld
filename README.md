@@ -108,6 +108,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 90. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 92. [Pony](source/basic/helloworld.pony) - [Pony](https://www.ponylang.io/)
+93. [PowerShell](source/basic/helloworld.ps1) - [PowerShell](https://learn.microsoft.com/en-us/powershell/) - 
 
 ## Table of Contents
 
