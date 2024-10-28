@@ -114,6 +114,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 96. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
 97. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
 98. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
+99. [PowerShell](source/basic/helloworld.ps1) - [PowerShell](https://learn.microsoft.com/en-us/powershell/)
 
 ## Table of Contents
 
