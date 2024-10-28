@@ -111,9 +111,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 93. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
 94. [Pug](source/basic/Hello_world.pug) - [Pug-lang](https://pugjs.org/)
 95. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
-
-93. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-94. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
+96. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+97. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
+98. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
 
 ## Table of Contents
 
