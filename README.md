@@ -108,7 +108,13 @@ For those who like a challenge and want to make larger contributions, you can cr
 90. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 92. [Pony](source/basic/helloworld.pony) - [Pony](https://www.ponylang.io/)
-93. [PowerShell](source/basic/helloworld.ps1) - [PowerShell](https://learn.microsoft.com/en-us/powershell/) - 
+93. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
+94. [Pug](source/basic/Hello_world.pug) - [Pug-lang](https://pugjs.org/)
+95. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
+96. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+97. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
+98. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
+99. [PowerShell](source/basic/helloworld.ps1) - [PowerShell](https://learn.microsoft.com/en-us/powershell/)
 
 ## Table of Contents
 
