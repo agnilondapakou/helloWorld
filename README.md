@@ -108,6 +108,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 90. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 92. [Pony](source/basic/helloworld.pony) - [Pony](https://www.ponylang.io/)
+93. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
+94. [Pug](source/basic/Hello_world.pug) - [Pug-lang](https://pugjs.org/)
+95. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 
 93. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
 
