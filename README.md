@@ -109,6 +109,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 91. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 92. [Pony](source/basic/helloworld.pony) - [Pony](https://www.ponylang.io/)
 
+93. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+
 ## Table of Contents
 
 - [helloWorld](#helloworld)
