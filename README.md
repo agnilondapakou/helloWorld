@@ -113,6 +113,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 95. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 
 93. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+94. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85))
 
 ## Table of Contents
 
