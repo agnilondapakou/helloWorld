@@ -1,0 +1,4 @@
+GET "libheader"
+BEGIN
+  WRITEF("Hello, World!\n")
+END
