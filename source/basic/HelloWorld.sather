@@ -1,0 +1,4 @@
+class HelloWorld
+    begin
+        print("Hello, World!\n")
+    end
