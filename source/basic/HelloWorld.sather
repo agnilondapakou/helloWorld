@@ -1,4 +1,5 @@
-class HelloWorld
-    begin
-        print("Hello, World!\n")
-    end
+class HELLO WORLD is
+   main is
+       #OUT + "Hello, World!\n";
+   end;
+end;
