@@ -29,9 +29,10 @@ For those who like a challenge and want to make larger contributions, you can cr
 ### B
 1. [BASIC](source/basic/helloworld.bas) - [Classic BASIC](https://www.vintage-basic.net/)
 2. [Bash](source/basic/helloworld.sh) - [GNU Bash](https://www.gnu.org/software/bash/)
-3. [Bhailang](source/HelloWorld.bhai) - [Bhailang.js.org](https://bhailang.js.org)
-4. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-5. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
+3. [Batch](source/basic/helloworld.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+4. [Bhailang](source/HelloWorld.bhai) - [Bhailang.js.org](https://bhailang.js.org)
+5. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+6. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 ### C
 1. [C](source/basic/helloworld.c) - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
