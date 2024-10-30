@@ -1,1 +1,3 @@
-print("Hello, World!")
+main() {
+Console.WriteLine("Hello, World!");
+}
