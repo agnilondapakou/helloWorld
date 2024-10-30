@@ -1,4 +1,7 @@
-GET "libheader"
-BEGIN
-  WRITEF("Hello, World!\n")
-END
+GET "libhdr"
+
+LET start() = VALOF
+{
+   WRITEF("Hello, World!*N")
+   RESULTIS 0
+}
