@@ -32,7 +32,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 3. [Bhailang](source/HelloWorld.bhai) - [Bhailang.js.org](https://bhailang.js.org)
 4. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 5. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
-
+6. [boo](source/basic/helloworld.boo) - [Boo](https://boo-language.github.io/)
 ### C
 1. [C](source/basic/helloworld.c) - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 2. [C++](source/basic/helloworld.cpp) - [isocpp.org](https://isocpp.org/)
