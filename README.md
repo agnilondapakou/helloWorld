@@ -73,10 +73,11 @@ For those who like a challenge and want to make larger contributions, you can cr
 3. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
 
 ### H
-1. [Haskell](source/basic/helloworld.hs) - [Haskell.org](https://www.haskell.org/)
-2. [Haxe](source/basic/hello.hx) - [Haxe.org](https://haxe.org/)
-3. [HolyC](source/basic/HelloWorld.HC) - [HolyC.com](https://holyc-lang.com)
-4. [HTML](source/basic/helloworld.html) - [HTML Specification](https://html.spec.whatwg.org/)
+1. [Hack](source/basic/helloworld.hack) - [The official site for the Hack programming language](https://hacklang.org/)
+2. [Haskell](source/basic/helloworld.hs) - [Haskell.org](https://www.haskell.org/)
+3. [Haxe](source/basic/hello.hx) - [Haxe.org](https://haxe.org/)
+4. [HolyC](source/basic/HelloWorld.HC) - [HolyC.com](https://holyc-lang.com)
+5. [HTML](source/basic/helloworld.html) - [HTML Specification](https://html.spec.whatwg.org/)
 
 ### I
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
