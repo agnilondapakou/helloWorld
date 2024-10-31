@@ -1,1 +1,1 @@
-RETURN "Hello, World!" AS greeting;
+RETURN 'Hello, World!' AS greeting;
