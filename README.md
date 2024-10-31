@@ -47,6 +47,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 11. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
 12. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
 13. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
+14. [coffeescript](source/basic/helloworld.coffee) - [coffeescript.org](https://coffeescript.org/)
+
 
 ### D
 1. [D](source/basic/helloworld.d) - [D-lang.org](https://www.dlang.org/)
@@ -82,6 +84,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
 2. [Idris](source/basic/hello.idr) - [Idris-lang.org](https://www.idris-lang.org/)
 3. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
+8. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)
 
 ### J
 1. [J](source/basic/hello_world.j) - [Jsoftware.com](https://www.jsoftware.com/#/)
