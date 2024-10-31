@@ -164,6 +164,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### X
 1. [Xamarin](source/basic/HelloWorld.xaml) - [Microsoft Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
+2. [Xquery](source/basic/helloworld.xquery) - [W3 Xquery](https://www.w3.org/TR/xquery-31/)
 
 ### Z
 1. [Zig](source/basic/helloworld.zig) - [Ziglang.org](https://ziglang.org/)
