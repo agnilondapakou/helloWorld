@@ -48,6 +48,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 10. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
 11. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
 12. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
+[cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ### D
 1. [D](source/basic/helloworld.d) - [D-lang.org](https://www.dlang.org/)
