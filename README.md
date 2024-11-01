@@ -152,8 +152,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 4. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
 5. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
 6. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-7. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-8. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+7. [Squirrel](source/basic/hello_world.squirrel) - [Squirrel-lang.org](https://squirrel-lang.org/)
+8. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+9. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 1. [Tcl](source/basic/helloworld.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
