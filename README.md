@@ -67,8 +67,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 1. [Factor](source/basic/helloworld.factor) - [Factorcode.org](https://factorcode.org/)
 2. [Falcon](source/basic/heloworld.fcn) - [Falcon-lang.org](http://www.falconpl.org/)
 3. [F#](source/basic/helloworld.fs) - [Fsharp.org](https://fsharp.org/)
-4. [Fortran](source/basic/hello.f90) - [Fortran-lang.org](https://fortran-lang.org/)
-5. [Futhark](source/basic/helloworld.fut) - [Futhark-lang.org](https://futhark-lang.org/)
+4. [forth](source/basic/helloworld.fth) - [Forth-standard.org](https://forth-standard.org/)
+5. [Fortran](source/basic/hello.f90) - [Fortran-lang.org](https://fortran-lang.org/)
+6. [Futhark](source/basic/helloworld.fut) - [Futhark-lang.org](https://futhark-lang.org/)
 
 ### G
 1. [GDScript](source/basic/helloworld.gd) - [Godot Engine](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
