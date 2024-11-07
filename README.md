@@ -48,7 +48,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 8. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
 9. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
 10. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
-11. [Coffeescript](source/basic/helloworld.coffee) - [Coffeescript.org](https://coffeescript.org/)
+11. [Coffeescript](source/basic/helloworld.cpp) - [Coffeescript.org](https://coffeescript.org/)
 12. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
 13. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
 14. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
