@@ -1,3 +1,5 @@
-main() {
-Console.WriteLine("Hello, World!");
+module MainModule {
+  method main() {
+    println("Hello, World!")
+  }
 }
