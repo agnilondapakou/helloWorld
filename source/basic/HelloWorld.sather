@@ -1,5 +1,5 @@
-class HELLO WORLD is
+class HELLO_WORLD is
    main is
-       #OUT + "Hello, World!\n";
+       #OUT.put("Hello, World!\n");
    end;
 end;
