@@ -67,7 +67,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 2. [Elixir](source/basic/hello_world.exs) - [Elixir-lang.org](https://elixir-lang.org/)
 3. [Elm](source/basic/helloworld.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
 4. [Erlang](source/basic/helloworld.erl) - [Erlang.org](https://www.erlang.org/)
-5. [Euphoria] (source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
+5. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
 
 ### F
 
