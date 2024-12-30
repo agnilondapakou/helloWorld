@@ -47,7 +47,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 4. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 5. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
 6. [Cairo](source/basic/helloworld.cairo) - [Cairo-lang.org](https://www.cairo-lang.org/)
-7. [Cecil](source/basic/helloworld.cecil) - [Cecil Language](https://en.wikipedia.org/wiki/Cecil_(programming_language))
+7. [Cecil](source/basic/HelloWorld.cecil) - [Cecil Language](https://en.wikipedia.org/wiki/Cecil_(programming_language))
 8. [Chapel](source/basic/helloworld.chpl) - [Chapel-lang.org](https://chapel-lang.org/)
 9. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
 10. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
