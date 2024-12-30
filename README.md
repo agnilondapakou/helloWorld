@@ -47,14 +47,15 @@ For those who like a challenge and want to make larger contributions, you can cr
 4. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 5. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
 6. [Cairo](source/basic/helloworld.cairo) - [Cairo-lang.org](https://www.cairo-lang.org/)
-7. [Chapel](source/basic/helloworld.chpl) - [Chapel-lang.org](https://chapel-lang.org/)
-8. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
-9. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
-10. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
-11. [Coffeescript](source/basic/HelloWorld.coffee) - [Coffeescript.org](https://coffeescript.org/)
-12. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
-13. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
-14. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
+7. [Cecil](source/basic/helloworld.cecil) - [Cecil Language](https://en.wikipedia.org/wiki/Cecil_(programming_language))
+8. [Chapel](source/basic/helloworld.chpl) - [Chapel-lang.org](https://chapel-lang.org/)
+9. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
+10. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
+11. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
+12. [Coffeescript](source/basic/HelloWorld.coffee) - [Coffeescript.org](https://coffeescript.org/)
+13. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
+14. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
+15. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ### D
 
