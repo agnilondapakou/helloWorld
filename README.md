@@ -196,7 +196,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### W
 
-1. [Wolfram](source/basic/helloworld.wl) - [Wolfram.com](https://www.wolfram.com/language/)
+1. [WhiteSpace](source/basic/helloworld.ws) - [WhiteSpace language](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
+2. [Wolfram](source/basic/helloworld.wl) - [Wolfram.com](https://www.wolfram.com/language/)
 
 ### X
 
