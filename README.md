@@ -18,14 +18,15 @@ For those who like a challenge and want to make larger contributions, you can cr
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
 
 ### A
-
 1. [ABAP](source/basic/HelloWorld.abap) - [SAP community](https://pages.community.sap.com/topics/abap)
-2. [Ada](source/basic/hello.adb) - [Ada-lang](https://ada-lang.io/)
-3. [ALGOL 68](source/basic/helloworld.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
-4. [Applescript](source/basic/helloworld.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
-5. [Assembly](source/basic/helloworld.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
-6. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-7. [Azle](source/basic/helloworld_azle.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+2. [ActionScript](source/basic/HelloWorld.as) - [ActionScript Language](https://en.wikipedia.org/wiki/ActionScript)
+3. [Ada](source/basic/hello.adb) - [Ada-lang](https://ada-lang.io/)
+4. [ALGOL 68](source/basic/helloworld.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
+5. [Applescript](source/basic/helloworld.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+6. [Assembly](source/basic/helloworld.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+7. [AutoIt](source/basic/helloworld.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+8. [Azle](source/basic/helloworld_azle.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+
 
 ### B
 
@@ -36,7 +37,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 5. [Bhailang](source/HelloWorld.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
 6. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
 7. [boo](source/basic/helloworld.boo) - [Boo](https://boo-language.github.io/)  
-8. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)  
+8. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
@@ -47,15 +48,16 @@ For those who like a challenge and want to make larger contributions, you can cr
 4. [Cangjie](source/basic/HelloWorld.cj) - [Cangjie-lang](https://learnxyz.in/cangjie-programming-language/)
 5. [Carbon](source/basic/HelloWorld.carbon) - [Carbon](https://docs.carbon-lang.dev/)
 6. [Cairo](source/basic/helloworld.cairo) - [Cairo-lang.org](https://www.cairo-lang.org/)
-7. [Chapel](source/basic/helloworld.chpl) - [Chapel-lang.org](https://chapel-lang.org/)
-8. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
-9. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
-10. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
-11. [Coffeescript](source/basic/HelloWorld.coffee) - [Coffeescript.org](https://coffeescript.org/)
-12. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
-13. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
-13. [Curl](source/basic/HelloWorld.curl) - [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
-14. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
+7. [Cecil](source/basic/HelloWorld.cecil) - [Cecil Language](https://en.wikipedia.org/wiki/Cecil_(programming_language))
+8. [Chapel](source/basic/helloworld.chpl) - [Chapel-lang.org](https://chapel-lang.org/)
+9. [Clojure](source/basic/hello_world.clj) - [Clojure.org](https://clojure.org/)
+10. [CLIPS](source/basic/helloworld.clp) - [CLIPS Rule Language](https://www.clipsrules.net/)
+11. [COBOL](source/basic/helloworld.cob) - [IBM COBOL](https://www.ibm.com/docs/en/cobol-zos)
+12. [Coffeescript](source/basic/HelloWorld.coffee) - [Coffeescript.org](https://coffeescript.org/)
+13. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
+14. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
+15. [Curl](source/basic/HelloWorld.curl) - [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
+16. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ### D
 
@@ -169,17 +171,19 @@ For those who like a challenge and want to make larger contributions, you can cr
 ### S
 
 1. [SAS](source/basic/helloworld.sas) -[SAS](https://www.sas.com/en_gb/training/courses/sas-programming.html)
-2. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
-3. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
-4. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
-5. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
-6. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-7. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-8. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+2. [Sather](source/basic/HelloWorld.sather) - [Sather language](https://en.wikipedia.org/wiki/Sather)
+3. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
+4. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
+5. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
+6. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
+7. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
+8. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+9. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
 1. [Tcl](source/basic/helloworld.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
+2. [Thue](source/basic/HelloWorld.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.) 
 2. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 3. [Typescript](source/basic/helloworld.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
 
@@ -188,12 +192,14 @@ For those who like a challenge and want to make larger contributions, you can cr
 1. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 2. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
 3. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](<https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)>)
-4. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
-5. [VisualBasic](source/basic/hello.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+4. [Verilog](source/basic/hello_world.v) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
+5. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
+6. [VisualBasic](source/basic/hello.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 ### W
 
-1. [Wolfram](source/basic/helloworld.wl) - [Wolfram.com](https://www.wolfram.com/language/)
+1. [WhiteSpace](source/basic/helloworld.ws) - [WhiteSpace language](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
+2. [Wolfram](source/basic/helloworld.wl) - [Wolfram.com](https://www.wolfram.com/language/)
 
 ### X
 
