@@ -56,7 +56,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 12. [Coffeescript](source/basic/HelloWorld.coffee) - [Coffeescript.org](https://coffeescript.org/)
 13. [COOL](source/basic/helloworld.cl) - [Classroom Object-Oriented Language](https://theory.stanford.edu/~aiken/software/cool/cool.html)
 14. [Crystal](source/basic/HelloWorld.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
-15. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
+15. [Curl](source/basic/HelloWorld.curl) - [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
+16. [cypher](source/basic/helloworld.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 
 ### D
 
