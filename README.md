@@ -37,7 +37,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 5. [Bhailang](source/HelloWorld.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
 6. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
 7. [boo](source/basic/helloworld.boo) - [Boo](https://boo-language.github.io/)  
-8. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)  
+8. [Brainfuck](source/basic/helloworld.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
@@ -181,6 +181,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 ### T
 
 1. [Tcl](source/basic/helloworld.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
+2. [Thue](source/basic/HelloWorld.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.) 
 2. [Turing](source/basic/helloworld.t) - [Turing-lang.io](https://turing-lang.io/)
 3. [Typescript](source/basic/helloworld.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
 
