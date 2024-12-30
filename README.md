@@ -168,13 +168,14 @@ For those who like a challenge and want to make larger contributions, you can cr
 ### S
 
 1. [SAS](source/basic/helloworld.sas) -[SAS](https://www.sas.com/en_gb/training/courses/sas-programming.html)
-2. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
-3. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
-4. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
-5. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
-6. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-7. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-8. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+2. [Sather](source/basic/HelloWorld.sather) - [Sather language](https://en.wikipedia.org/wiki/Sather)
+3. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
+4. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
+5. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
+6. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
+7. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
+8. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+9. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
