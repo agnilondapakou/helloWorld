@@ -9,8 +9,6 @@
 
 Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.
 
-For those who like a challenge and want to make larger contributions, you can create an API in a supported or unsupported programming language. You work in the apis folder and add the programming language to the list of supported programming languages, then add API at the end (e.g. Python: Basic, API).
-
 # List of available languages:
 
 ## List of available languages:
