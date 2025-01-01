@@ -123,11 +123,11 @@ For those who like a challenge and want to make larger contributions, you can cr
 ### M
 
 1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
-1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
-2. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
-3. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
-4. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
-5. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+2. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+3. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
+4. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
+5. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
+6. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
 
 ### N
 
