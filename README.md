@@ -100,7 +100,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
 2. [Idris](source/basic/hello.idr) - [Idris-lang.org](https://www.idris-lang.org/)
 3. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
-4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)[Wikipedia](https://en.wikipedia.org/wiki/Io_(programming_language))
+4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)
 
 ### J
 
@@ -123,11 +123,12 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 ### M
 
-1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
-2. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
-3. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
-4. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
-5. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+2. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
+3. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
+4. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
+5. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
+6. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
 
 ### N
 
@@ -161,10 +162,11 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 1. [R](source/basic/helloWorld.r) - [R-project.org](https://www.r-project.org/)
 2. [Racket](source/basic/helloWorld.rkt) - [Racket-lang.org](https://racket-lang.org/)
-3. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
-4. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
-5. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
-6. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
+3. [Raku](source/basic/HelloWorld.raku) - [Raku](https://docs.raku.org/)
+4. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
+5. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
+6. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
+7. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
 
 ### S
 
