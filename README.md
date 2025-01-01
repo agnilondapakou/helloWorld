@@ -161,7 +161,6 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 1. [R](source/basic/helloWorld.r) - [R-project.org](https://www.r-project.org/)
 2. [Racket](source/basic/helloWorld.rkt) - [Racket-lang.org](https://racket-lang.org/)
-2. [Raku](source/basic/HelloWorld.raku) - [Raku](https://docs.raku.org/)
 3. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
 4. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
 5. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
@@ -173,11 +172,12 @@ Hello world is an Open Source project for programming beginners. It consists in 
 2. [Sather](source/basic/HelloWorld.sather) - [Sather language](https://en.wikipedia.org/wiki/Sather)
 3. [Scala](source/basic/helloworld.scala) - [Scala-lang.org](https://www.scala-lang.org/)
 4. [Scheme](source/basic/helloworld.scm) - [Scheme.org](https://www.scheme.org/)
-5. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
-6. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
-7. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-8. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-9. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+5. [Scratch](source/basic/HelloWorld.sb3) - [Scratch](https://scratch-tutorial.readthedocs.io/fr/latest/1_intro/intro.html)
+6. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
+7. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
+8. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
+9. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+10. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
