@@ -122,8 +122,8 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### M
 
-1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
-2. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+2. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
 3. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
 4. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
 5. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
