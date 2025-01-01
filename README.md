@@ -189,7 +189,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### V
 
-1. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
+1. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/ )[Wikipedia](https://en.wikipedia.org/wiki/V_(programming_language))
 2. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
 3. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](<https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)>)
 4. [Verilog](source/basic/hello_world.v) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
