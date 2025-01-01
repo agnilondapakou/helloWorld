@@ -102,7 +102,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
 2. [Idris](source/basic/hello.idr) - [Idris-lang.org](https://www.idris-lang.org/)
 3. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
-4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)
+4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)[Wikipedia](https://en.wikipedia.org/wiki/Io_(programming_language))
 
 ### J
 
@@ -189,7 +189,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### V
 
-1. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/ )[Wikipedia](https://en.wikipedia.org/wiki/V_(programming_language))
+1. [V](source/basic/helloworld.v) - [V-lang.io](https://vlang.io/)
 2. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
 3. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](<https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)>)
 4. [Verilog](source/basic/hello_world.v) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
