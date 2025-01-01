@@ -116,15 +116,14 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### L
 
-
 1. [Lisk](source/basic/helloworld-lisk.js) - [Docs.lisk.com](https://docs.lisk.com/)
-1. [LiveScript](source/basic/HelloWorld.ls) - [Live script Wikipedia](https://en.wikipedia.org/wiki/LiveScript_(programming_language))
 2. [Logo](source/basic/helloworld.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
 3. [Lua](source/basic/helloworld.lua) - [Lua.org](https://www.lua.org/)
 
 ### M
 
 1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
+1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
 2. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
 3. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
 4. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
