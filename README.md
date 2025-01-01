@@ -99,7 +99,7 @@ For those who like a challenge and want to make larger contributions, you can cr
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
 2. [Idris](source/basic/hello.idr) - [Idris-lang.org](https://www.idris-lang.org/)
 3. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
-4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)[Wikipedia](https://en.wikipedia.org/wiki/Io_(programming_language))
+4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)
 
 ### J
 
@@ -116,7 +116,9 @@ For those who like a challenge and want to make larger contributions, you can cr
 
 ### L
 
+
 1. [Lisk](source/basic/helloworld-lisk.js) - [Docs.lisk.com](https://docs.lisk.com/)
+1. [LiveScript](source/basic/HelloWorld.ls) - [Live script Wikipedia](https://en.wikipedia.org/wiki/LiveScript_(programming_language))
 2. [Logo](source/basic/helloworld.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
 3. [Lua](source/basic/helloworld.lua) - [Lua.org](https://www.lua.org/)
 
