@@ -117,19 +117,18 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 ### L
 
-
 1. [Lisk](source/basic/helloworld-lisk.js) - [Docs.lisk.com](https://docs.lisk.com/)
-1. [LiveScript](source/basic/HelloWorld.ls) - [Live script Wikipedia](https://en.wikipedia.org/wiki/LiveScript_(programming_language))
 2. [Logo](source/basic/helloworld.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
 3. [Lua](source/basic/helloworld.lua) - [Lua.org](https://www.lua.org/)
 
 ### M
 
-1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
-2. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
-3. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
-4. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
-5. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+2. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
+3. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
+4. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
+5. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
+6. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
 
 ### N
 
