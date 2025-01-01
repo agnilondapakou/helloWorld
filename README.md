@@ -161,6 +161,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 1. [R](source/basic/helloWorld.r) - [R-project.org](https://www.r-project.org/)
 2. [Racket](source/basic/helloWorld.rkt) - [Racket-lang.org](https://racket-lang.org/)
+2. [Raku](source/basic/HelloWorld.raku) - [Raku](https://docs.raku.org/)
 3. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
 4. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
 5. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
