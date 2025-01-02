@@ -195,8 +195,9 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Vala](source/basic/helloworld.vala) - [Vala-lang](https://vala.dev/)
 3. [VBScript](source/basic/helloworld.vbs) - [Microsoft VBScript](<https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)>)
 4. [Verilog](source/basic/hello_world.v) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
-5. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
-6. [VisualBasic](source/basic/hello.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+5. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
+6. [VIM](source/basic/helloworld.vim) - [Vim-lang](https://www.vim.org/)
+7. [VisualBasic](source/basic/hello.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 ### W
 
