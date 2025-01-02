@@ -1,13 +1,14 @@
-![1](https://github.com/user-attachments/assets/b51944b7-d8b2-4564-b951-7dd9646f938e)
+![image](https://github.com/user-attachments/assets/5d611e2c-7fcd-443a-b780-b3fd916bdc5d)
 
-# helloWorld
+
+# Hello World Documentation
 
 ![GitHub contributors](https://img.shields.io/github/contributors/agnilondapakou/helloWorld)
-![GitHub stars](https://img.shields.io/github/issues/agnilondapakou/helloWorld)
+![GitHub issues](https://img.shields.io/github/issues/agnilondapakou/helloWorld)
 ![GitHub stars](https://img.shields.io/github/stars/agnilondapakou/helloWorld)
 ![GitHub forks](https://img.shields.io/github/forks/agnilondapakou/helloWorld)
 
-Hello world is an Open Source project for programming beginners. It consists in providing a program that returns the “Hello World” message in the programming language you know.
+A modern web interface showcasing "Hello World" examples in various programming languages. This project provides an interactive way to explore different programming languages and their basic syntax.
 
 # List of available languages:
 
@@ -100,7 +101,7 @@ Hello world is an Open Source project for programming beginners. It consists in 
 1. [Icon](source/basic/hello_world.icn) - [Icon.cs.arizona.edu](https://www2.cs.arizona.edu/icon/)
 2. [Idris](source/basic/hello.idr) - [Idris-lang.org](https://www.idris-lang.org/)
 3. [INTERCAL](source/basic/helloworld.i) - [INTERCAL](https://www.tutorialspoint.com/intercal/)
-4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)[Wikipedia](https://en.wikipedia.org/wiki/Io_(programming_language))
+4. [io](source/basic/helloworld.io) - [Iolanguage.org](https://iolanguage.org/)
 
 ### J
 
@@ -123,11 +124,12 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 ### M
 
-1. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
-2. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
-3. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
-4. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
-5. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+1. [Maple](source/basic/HelloWorld.mpl) - [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+2. [MATLAB](source/basic/helloworld.m) - [MathWorks](https://www.mathworks.com/products/matlab.html)
+3. [Mercury](source/basic/helloworld.m) - [Mercurylang.org](https://mercurylang.org/)
+4. [Miranda](source/basic/helloworld.m) - [Miranda](https://miranda.org.uk/)
+5. [Modula-2](source/basic/helloworld.mod) - [Modula-2.info](https://www.modula2.org/)
+6. [Motoko](source/basic/helloworld.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
 
 ### N
 
@@ -161,10 +163,11 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 1. [R](source/basic/helloWorld.r) - [R-project.org](https://www.r-project.org/)
 2. [Racket](source/basic/helloWorld.rkt) - [Racket-lang.org](https://racket-lang.org/)
-3. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
-4. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
-5. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
-6. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
+3. [Raku](source/basic/HelloWorld.raku) - [Raku](https://docs.raku.org/)
+4. [ReasonML](source/basic/helloWorld.re) - [ReasonML](https://reasonml.github.io/)
+5. [Red](source/basic/helloworld.red) - [red-lang.org](https://www.red-lang.org/)
+6. [Ruby](source/basic/helloworld.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
+7. [Rust](source/basic/helloworld.rs) - [Rust-lang.org](https://www.rust-lang.org/)
 
 ### S
 
@@ -175,8 +178,9 @@ Hello world is an Open Source project for programming beginners. It consists in 
 5. [Smalltalk](source/basic/hello.st) - [Squeak.org](https://squeak.org/)
 6. [SNOBOL](source/basic/helloworld.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
 7. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-8. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-9. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
+8. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
+9. [SQL](source/basic/helloWorld.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+10. [Swift](source/basic/helloworld.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
@@ -208,76 +212,255 @@ Hello world is an Open Source project for programming beginners. It consists in 
 
 1. [Zig](source/basic/helloworld.zig) - [Ziglang.org](https://ziglang.org/)
 
-## Table of Contents
+## Features
 
-- [helloWorld](#helloworld)
-- [List of available languages:](#list-of-available-languages)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Features](#features)
-  - [License](#license)
+- 🌙 Dark theme with violet accents
+- 🔍 Real-time search functionality
+- 📝 Alphabetical filtering
+- 💫 Smooth animations and transitions
+- 📱 Responsive design
+- 🔗 Direct links to official documentation
+- 🎨 Modern gradient effects
 
-## Introduction
-
-The "Hello World" project is a common first step for beginners learning a new programming language. This repository gathers implementations of the "Hello World" message in multiple languages to demonstrate different syntax and language features.
-
-## Installation
+## Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/agnilondapakou/helloWorld.git
    ```
-2. Navigate to the directory of the language you wish to try.
+2. Open `index.html` in your browser to view the project.
 
-## Usage
+## Programming Languages Documentation
 
-To run a "Hello World" program:
+Visit our interactive documentation website to explore all available programming languages:
 
-1. Navigate to the specific language folder.
-2. Run the code using the appropriate compiler or interpreter.
+🔗 [Hello World Documentation Site](https://helloworld-os.netlify.app/)
 
-Example in Python:
+The website features:
 
-```bash
-python hello.py
-```
+- Interactive search
+- Alphabetical filtering
+- Dark theme interface
+- Direct links to official documentation
+- Brief descriptions of each language
+
+## Technical Details
+
+### Frontend Components
+
+#### HTML Structure
+
+- Responsive container layout
+- Search input field
+- Alphabetical filter buttons
+- Dynamic language cards grid
+- Error message handling
+
+#### CSS Features
+
+- Custom dark theme variables
+- Gradient animations
+- Card hover effects
+- Responsive design breakpoints
+- Custom scrollbar styling
+
+#### JavaScript Functionality
+
+- Real-time search filtering
+- Alphabetical sorting
+- Dynamic card creation
+- Error handling
+- External link handling
 
 ## Contributing
 
-Contributions are encouraged! Follow these steps to contribute:
+Follow these steps to contribute a new Hello World example:
 
-1. **Fork the repository**: Click the "Fork" button at the top of this page to create a copy of this repo under your GitHub account.
-2. **Clone your fork**:
+### Step 1: Setup (One-time)
+1. Fork the repository on GitHub
+   - Go to https://github.com/agnilondapakou/helloWorld
+   - Click the "Fork" button in the top right
+   - Wait for the fork to complete
+
+2. Clone your fork locally
    ```bash
-   git clone https://github.com/agnilondapakou/helloWorld.git
+   git clone https://github.com/YOUR-USERNAME/helloWorld.git
    cd helloWorld
    ```
-3. **Create a new branch**:
-   ```bash
-   git checkout -b add-language-<language-name>
-   ```
-4. **Add your "Hello World" program**: Add a folder for your language (if not present) and include your program file inside it.
-5. **Commit your changes**:
-   ```bash
-   git add .
-   git commit -m "Added Hello World in <language>"
-   ```
-6. **Push to your fork**:
-   ```bash
-   git push origin add-language-<language-name>
-   ```
-7. **Create a Pull Request**: Go to your fork on GitHub and click the "Compare & pull request" button to submit your changes.
 
-Please ensure that your code adheres to the formatting conventions for the language. Check the [CONTRIBUTING.md](https://github.com/agnilondapakou/helloWorld/blob/main/CONTRIBUTING.md) for more detailed guidelines.
+3. Add the upstream repository
+   ```bash
+   git remote add upstream https://github.com/agnilondapakou/helloWorld.git
+   ```
 
-## Features
+### Step 2: Create a New Branch
+1. Update your main branch
+   ```bash
+   git checkout main
+   git pull upstream main
+   ```
 
-- Collection of "Hello World" programs in various programming languages.
-- Great resource for beginners to compare basic syntax across languages.
+2. Create a new branch for your language
+   ```bash
+   git checkout -b add-LANGUAGE-example
+   # Example: git checkout -b add-python-example
+   ```
+
+### Step 3: Add Your Hello World Program
+1. Create a new file in `source/basic/` following the naming convention:
+   - Lowercase: `helloworld.{extension}`
+   - Or PascalCase: `HelloWorld.{extension}`
+   
+   Example:
+   ```bash
+   # For Python
+   touch source/basic/helloworld.py
+   ```
+
+2. Write your Hello World program:
+   ```python
+   # Example for Python
+   # Simple Hello World program in Python
+   print("Hello World")
+   ```
+
+### Step 4: Update Documentation
+1. Open `docs/script.js`
+
+2. Add your language information in the `languages` array:
+   ```javascript
+   {
+       name: 'Python',  // Language name
+       description: 'High-level programming language for general-purpose programming',
+       link: 'https://www.python.org/'  // Official documentation
+   }
+   ```
+
+### Step 5: Test Your Changes
+1. Test your Hello World program:
+   - Run the program
+   - Verify it prints "Hello World"
+   - Check for any errors
+
+2. Test the documentation site:
+   - Open `docs/index.html` in a browser
+   - Verify your language appears
+   - Test the search and filtering
+
+### Step 6: Commit Your Changes
+1. Add your changes:
+   ```bash
+   git add source/basic/helloworld.py
+   git add docs/script.js
+   ```
+
+2. Commit with a descriptive message:
+   ```bash
+   git commit -m "Add Hello World example in Python"
+   ```
+
+3. Push to your fork:
+   ```bash
+   git push origin add-python-example
+   ```
+
+### Step 7: Create Pull Request
+1. Go to your fork on GitHub
+
+2. Click "Pull Request"
+
+3. Fill in the PR details:
+   - Title: "Add Hello World in [Language]"
+   - Description:
+     - Brief explanation of the language
+     - Any special considerations
+     - Reference to official documentation
+
+4. Submit the pull request
+
+### Guidelines
+
+#### Hello World Implementation
+- Keep it simple (just print "Hello World")
+- Use standard language features
+- Avoid external dependencies
+- Include basic comments
+- Follow language conventions
+
+#### File Structure
+```
+source/basic/
+├── helloworld.py     # Python example
+├── HelloWorld.java   # Java example
+├── helloworld.cpp    # C++ example
+└── helloworld.js     # JavaScript example
+```
+
+#### Code Style
+- Use consistent indentation
+- Add appropriate comments
+- Follow language-specific best practices
+- Test thoroughly before submitting
+
+Need help? Feel free to open an issue or ask questions in the discussions!
+
+## Development
+
+### Local Setup
+
+1. Clone the repository
+2. No build process required
+3. Open `index.html` in a browser
+
+### Making Changes
+
+- Modify `styles.css` for theme changes
+- Update `script.js` for functionality
+- Edit `index.html` for structure changes
+
+## Testing
+
+- Test across different browsers
+- Verify mobile responsiveness
+- Check all external links
+- Validate search functionality
+- Test alphabetical filtering
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/agnilondapakou/helloWorld/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Contributors to language examples
+- Documentation resource providers
+- Open source community
+
+## Support
+
+- Create an issue for bugs
+- Submit feature requests
+- Join discussions
+
+## Contact
+
+For questions or suggestions, please open an issue in the GitHub repository.
+
+## Changelog
+
+### Latest Version
+
+- Added dark theme
+- Implemented gradient effects
+- Enhanced mobile responsiveness
+- Added alphabetical filtering
+- Improved search functionality
+
+## Roadmap
+
+- [ ] Add language categories
+- [ ] Implement syntax highlighting
+- [ ] Add code examples preview
+- [ ] Create language comparison tool
+- [ ] Add offline support
