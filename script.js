@@ -215,6 +215,11 @@ const languages = [
         link: 'https://www.r-project.org/'
     },
     {
+        name: 'Ring',
+        description: 'Langage de programmation statistique',
+        link: 'https://www.r-project.org/'
+    },
+    {
         name: 'Ruby',
         description: 'Langage de programmation orienté objet',
         link: 'https://www.ruby-lang.org/en/'
