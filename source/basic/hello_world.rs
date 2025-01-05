@@ -1,12 +1,5 @@
-#![no_std]
-
-use soroban_sdk::{contractimpl, Env};
-
-pub struct HelloContract;
-
-#[contractimpl]
-impl HelloContract {
-    pub fn hello(env: Env) -> &'static str {
-        "Hello, World!"
-    }
+// The main function is the entry point of the program
+fn main() {
+    // Print "Hello, World!" to the console
+    println!("Hello, World!");
 }
