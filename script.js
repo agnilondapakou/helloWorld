@@ -130,6 +130,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/Fortran'
     },
     {
+        name: 'GML',
+        description: 'Langage de script pour GameMaker',
+        link: 'https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm'
+    },
+    {
         name: 'Go',
         description: 'Langage de programmation système',
         link: 'https://golang.org/'
