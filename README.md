@@ -122,6 +122,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [Lisk](source/basic/hello_world-lisk.js) - [Docs.lisk.com](https://docs.lisk.com/)
 2. [Logo](source/basic/hello_world.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
 3. [Lua](source/basic/hello_world.lua) - [Lua.org](https://www.lua.org/)
+4. [Lol](source/basic/Hello_World.lol) - [Lol.org](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
 
 ### M
 

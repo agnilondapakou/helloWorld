@@ -628,6 +628,11 @@ const languages = [
         name: 'VIM',
         description: 'Langage de script pour l\'éditeur Vim',
         link: 'https://www.vim.org/'
+    },
+    {
+        name: 'LOL',
+        description: 'LOLCODE is an esoteric programming language',
+        link: 'https://gist.github.com/sharmaeklavya2/8a0e2581baf969be0f64'
     }
 ];
 
