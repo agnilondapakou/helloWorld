@@ -77,11 +77,11 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 1. [Factor](source/basic/hello_world.factor) - [Factorcode.org](https://factorcode.org/)
 2. [Falcon](source/basic/hello_world.fcn) - [Falcon-lang.org](http://www.falconpl.org/)
-3. [F#](source/basic/hello_world.fs) - [Fsharp.org](https://fsharp.org/)
-4. [forth](source/basic/hello_world.fth) - [Forth-standard.org](https://forth-standard.org/)
-5. [Fortran](source/basic/hello_world.f90) - [Fortran-lang.org](https://fortran-lang.org/)
-6. [Futhark](source/basic/hello_world.fut) - [Futhark-lang.org](https://futhark-lang.org/)
-7. [Fantom](source/basic/hello_world.fan) - [Fantom-lang.org](https://fantom.org/)
+3. [Fantom](source/basic/hello_world.fan) - [Fantom-lang.org](https://fantom.org/)
+4. [F#](source/basic/hello_world.fs) - [Fsharp.org](https://fsharp.org/)
+5. [forth](source/basic/hello_world.fth) - [Forth-standard.org](https://forth-standard.org/)
+6. [Fortran](source/basic/hello_world.f90) - [Fortran-lang.org](https://fortran-lang.org/)
+7. [Futhark](source/basic/hello_world.fut) - [Futhark-lang.org](https://futhark-lang.org/)
 
 ### G
 
