@@ -130,6 +130,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/Fortran'
     },
     {
+        name: 'Fantom',
+        description: 'Programming language for multi-platform applications (JVM, .NET, JavaScript)',
+        link: 'https://fantom.org/'
+    },
+    {
         name: 'GML',
         description: 'Langage de script pour GameMaker',
         link: 'https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm'
