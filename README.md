@@ -184,6 +184,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 8. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
 9. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
 10. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+11. [Simula](source/basic/hello_world.sim) - [Simula language](https://en.wikipedia.org/wiki/Simula)
 
 ### T
 
