@@ -178,12 +178,13 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Sather](source/basic/hello_world.sather) - [Sather language](https://en.wikipedia.org/wiki/Sather)
 3. [Scala](source/basic/hello_world.scala) - [Scala-lang.org](https://www.scala-lang.org/)
 4. [Scheme](source/basic/hello_world.scm) - [Scheme.org](https://www.scheme.org/)
-5. [Smalltalk](source/basic/hello_world.st) - [Squeak.org](https://squeak.org/)
-6. [SNOBOL](source/basic/hello_world.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
-7. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-8. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
-9. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-10. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+5. [Simula](source/basic/hello_world.sim) - [Simula language](https://en.wikipedia.org/wiki/Simula)
+6. [Smalltalk](source/basic/hello_world.st) - [Squeak.org](https://squeak.org/)
+7. [SNOBOL](source/basic/hello_world.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
+8. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
+9. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
+10. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+11. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
@@ -213,6 +214,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Xquery](source/basic/hello_world.xquery) - [W3 Xquery](https://www.w3.org/TR/xquery-31/)
 
 ### Y
+
 1. [YAML](source/basic/hello_world.yaml) - [Yaml.org](https://yaml.org/)
 
 ### Z

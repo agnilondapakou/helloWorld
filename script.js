@@ -615,6 +615,11 @@ const languages = [
         link: 'https://www.iso.org/standard/76583.html'
     },
     {
+        name: 'Simula',
+        description: 'Early object-oriented programming language',
+        link: 'https://en.wikipedia.org/wiki/Simula'
+    },
+    {
         name: 'Tcl',
         description: 'Tool Command Language',
         link: 'https://www.tcl.tk/about/language.html'
