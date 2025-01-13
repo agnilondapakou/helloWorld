@@ -212,6 +212,9 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [Xamarin](source/basic/hello_world.xaml) - [Microsoft Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
 2. [Xquery](source/basic/hello_world.xquery) - [W3 Xquery](https://www.w3.org/TR/xquery-31/)
 
+### Y
+1. [YAML](source/basic/hello_world.yaml) - [Yaml.org](https://yaml.org/)
+
 ### Z
 
 1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)

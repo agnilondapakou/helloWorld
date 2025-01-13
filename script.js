@@ -638,6 +638,11 @@ const languages = [
         name: 'LOL',
         description: 'LOLCODE is an esoteric programming language',
         link: 'https://gist.github.com/sharmaeklavya2/8a0e2581baf969be0f64'
+    },
+    {
+        name: 'YAML',
+        description: 'A simple data serialization language',
+        link: 'https://yaml.org/'
     }
 ];
 
