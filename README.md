@@ -29,14 +29,15 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### B
 
-1. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
-2. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
-3. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
-4. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
-5. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
-6. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
-7. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-8. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+1. [B](source/basic/hello_world.b) - [B](https://www.bell-labs.com/usr/dmr/www/bintro.html)
+2. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
+3. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
+4. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+5. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
+6. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
+7. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
+8. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
+9. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
