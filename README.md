@@ -207,6 +207,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 1. [WhiteSpace](source/basic/hello_world.ws) - [WhiteSpace language](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
 2. [Wolfram](source/basic/hello_world.wl) - [Wolfram.com](https://www.wolfram.com/language/)
+2. [Wren](source/basic/hello_world.wren) - [Wren.io](https://wren.io/)
 
 ### X
 
