@@ -110,6 +110,11 @@ const languages = [
         link: 'https://dart.dev/'
     },
     {
+        name: 'E',
+        description: 'Object oriented programming language',
+        link: 'http://www.erights.org/'
+    },
+     {
         name: 'Delphi',
         description: 'Object oriented programming Language created by Borland ',
         link: 'https://learndelphi.org/'
