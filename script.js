@@ -105,6 +105,11 @@ const languages = [
         link: 'https://dart.dev/'
     },
     {
+        name: 'E',
+        description: 'Object oriented programming language',
+        link: 'http://www.erights.org/'
+    },
+    {
         name: 'Eiffel',
         description: 'Langage de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/Eiffel_(programming_language)'
