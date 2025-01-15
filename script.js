@@ -648,6 +648,11 @@ const languages = [
         name: 'YAML',
         description: 'A simple data serialization language',
         link: 'https://yaml.org/'
+    },
+    {
+        name: 'Wren',
+        description: 'Lightweight scripting language for embedding in applications',
+        link: 'https://wren.io/'
     }
 ];
 

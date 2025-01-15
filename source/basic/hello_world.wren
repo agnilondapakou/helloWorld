@@ -1,0 +1,2 @@
+
+System.print("Hello, world!")
