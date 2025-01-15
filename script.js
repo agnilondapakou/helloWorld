@@ -40,6 +40,11 @@ const languages = [
         link: 'https://demergent-labs.github.io/azle/'
     },
     {
+        name: 'B',
+        description: 'Programming language developed at Bell Labs & Predecessor to C',
+        link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'
+    },
+    {
         name: 'BASIC',
         description: 'Langage de programmation classique pour débutants',
         link: 'https://www.vintage-basic.net/'
@@ -108,6 +113,11 @@ const languages = [
         name: 'E',
         description: 'Object oriented programming language',
         link: 'http://www.erights.org/'
+    },
+     {
+        name: 'Delphi',
+        description: 'Object oriented programming Language created by Borland ',
+        link: 'https://learndelphi.org/'
     },
     {
         name: 'Eiffel',
