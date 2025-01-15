@@ -265,6 +265,11 @@ const languages = [
         link: 'https://ziglang.org/'
     },
     {
+        name: 'Zsh',
+        description: 'Unix shell and scripting language',
+        link: 'https://zsh.sourceforge.io/'
+    },
+    {
         name: 'Cangjie',
         description: 'Langage de programmation basé sur les caractères chinois',
         link: 'https://learnxyz.in/cangjie-programming-language/'
