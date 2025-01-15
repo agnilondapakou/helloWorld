@@ -67,11 +67,12 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### E
 
-1. [Eiffel](source/basic/hello_world.e) - [Eiffel.org](https://www.eiffel.org/)
-2. [Elixir](source/basic/hello_world.exs) - [Elixir-lang.org](https://elixir-lang.org/)
-3. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
-4. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
-5. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
+1. [E](source/basic/hello_world(E).e) - [erights.org](http://www.erights.org/)
+2. [Eiffel](source/basic/hello_world.e) - [Eiffel.org](https://www.eiffel.org/)
+3. [Elixir](source/basic/hello_world.exs) - [Elixir-lang.org](https://elixir-lang.org/)
+4. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
+5. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
+6. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
 
 ### F
 
