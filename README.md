@@ -64,7 +64,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [D](source/basic/hello_world.d) - [D-lang.org](https://www.dlang.org/)
 2. [Dart](source/basic/hello_world.dart) - [Dart.dev](https://dart.dev/)
 3. [Daytona](source/basic/hello_world(daytona).io) - [Daytona.io](https://daytona.io/)
-4. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
+4. [Delphi](source/basic/hello_world.dpr) - [learndelphi.org](https://learndelphi.org/)
+5. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
 
 ### E
 

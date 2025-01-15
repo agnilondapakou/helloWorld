@@ -110,6 +110,11 @@ const languages = [
         link: 'https://dart.dev/'
     },
     {
+        name: 'Delphi',
+        description: 'Object oriented programming Language created by Borland ',
+        link: 'https://learndelphi.org/'
+    },
+    {
         name: 'Eiffel',
         description: 'Langage de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/Eiffel_(programming_language)'
