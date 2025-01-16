@@ -114,7 +114,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Janet](source/basic/hello_world.janet) - [Janet-lang](https://janet-lang.org/docs/index.html)
 3. [Java](source/basic/hello_world.java) - [Oracle Java](https://www.oracle.com/java/)
 4. [Javascript](source/basic/hello_world.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-5. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
+5. [JavaServer Pages](source/basic/hello_world.jsp) - [JavaServer Pages Oracle](https://www.oracle.com/java/technologies/jspt.html)
+6. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
 
 ### K
 
