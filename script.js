@@ -190,6 +190,11 @@ const languages = [
         link: 'https://kotlinlang.org/'
     },
     {
+        name: 'KornShell',
+        description: 'Unix shell and scripting language',
+        link: 'http://kornshell.com/'
+    },
+    {
         name: 'Lisp',
         description: 'Langage de programmation fonctionnel historique',
         link: 'https://common-lisp.net/'
