@@ -29,14 +29,15 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### B
 
-1. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
-2. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
-3. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
-4. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
-5. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
-6. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
-7. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-8. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+1. [B](source/basic/hello_world.b) - [B](https://www.bell-labs.com/usr/dmr/www/bintro.html)
+2. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
+3. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
+4. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+5. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
+6. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
+7. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
+8. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
+9. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
@@ -63,15 +64,17 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [D](source/basic/hello_world.d) - [D-lang.org](https://www.dlang.org/)
 2. [Dart](source/basic/hello_world.dart) - [Dart.dev](https://dart.dev/)
 3. [Daytona](source/basic/hello_world(daytona).io) - [Daytona.io](https://daytona.io/)
-4. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
+4. [Delphi](source/basic/hello_world.dpr) - [learndelphi.org](https://learndelphi.org/)
+5. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
 
 ### E
 
-1. [Eiffel](source/basic/hello_world.e) - [Eiffel.org](https://www.eiffel.org/)
-2. [Elixir](source/basic/hello_world.exs) - [Elixir-lang.org](https://elixir-lang.org/)
-3. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
-4. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
-5. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
+1. [E](source/basic/hello_world(E).e) - [erights.org](http://www.erights.org/)
+2. [Eiffel](source/basic/hello_world.e) - [Eiffel.org](https://www.eiffel.org/)
+3. [Elixir](source/basic/hello_world.exs) - [Elixir-lang.org](https://elixir-lang.org/)
+4. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
+5. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
+6. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
 
 ### F
 
@@ -221,6 +224,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### Z
 
 1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
+2. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
 
 ## Features
 
