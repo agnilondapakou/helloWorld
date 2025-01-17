@@ -702,8 +702,14 @@ const languages = [
     {
         name: 'Oberon',
         description: 'Programming language from the Pascal family',
-        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html'  // Official documentation
-    }  
+        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
+    },
+    {
+        name: 'OpenCL',
+        description: 'Programming language for parallel programming',
+        link: 'https://www.khronos.org/opencl/'  
+    }
+    
     
 ];
 
