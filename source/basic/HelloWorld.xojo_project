@@ -1,0 +1,5 @@
+# This is a simple Xojo program that displays "Hello, world!"
+
+Sub Process_Open()
+  MsgBox "Hello, world!"
+End Sub
