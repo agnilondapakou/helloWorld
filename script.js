@@ -708,8 +708,12 @@ const languages = [
         name: 'OpenCL',
         description: 'Programming language for parallel programming',
         link: 'https://www.khronos.org/opencl/'  
+    },
+    {
+        name: 'Pico',
+        description: 'Minimal programming language',
+        link: 'http://pico.vub.ac.be/'
     }
-    
     
 ];
 
