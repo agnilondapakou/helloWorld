@@ -678,7 +678,13 @@ const languages = [
         name: 'ChucK',  
         description: 'Strongly-timed, concurrent audio programming language',
         link: 'https://chuck.cs.princeton.edu/'  
+    },
+    {
+        name: 'COBOLScript',
+        description: 'Scripting variant of COBOL',
+        link: 'https://sites.google.com/view/cobolscripting'  
     }
+    
     
 ];
 
