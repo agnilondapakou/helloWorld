@@ -688,6 +688,11 @@ const languages = [
         name: 'LiveCode',
         description: 'Visual, high-level programming language',
         link: 'https://livecode.com/'  
+    },
+    {
+        name: 'Monkey X',
+        description: 'Programming language for game development',
+        link: 'https://monkeycoder.co.nz/'  
     }
     
 ];
