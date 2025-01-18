@@ -713,7 +713,12 @@ const languages = [
         name: 'Pico',
         description: 'Minimal programming language',
         link: 'http://pico.vub.ac.be/'
-    }
+    },
+    {
+        name: 'PL/I',
+        description: 'Programming language designed for data processing and scientific computation',
+        link: 'https://www.ibm.com/products/pli-compiler-zos'
+    },
     
 ];
 
