@@ -58,6 +58,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 14. [Crystal](source/basic/hello_world.cr) - [CrystalKnows.com](https://www.crystalknows.com/)
 15. [Curl](source/basic/hello_world.curl) - [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
 16. [cypher](source/basic/hello_world.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
+17. [ChucK](source/basic/helloworld.ck) - [ChucK](https://chuck.cs.princeton.edu/) 
+18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
 
 ### D
 
@@ -127,6 +129,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Logo](source/basic/hello_world.logo) - [UCBLogo](https://people.eecs.berkeley.edu/~bh/logo.html)
 3. [Lua](source/basic/hello_world.lua) - [Lua.org](https://www.lua.org/)
 4. [Lol](source/basic/Hello_World.lol) - [Lol.org](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
+5. [LiveCode](source/basic/helloworld.livecode) - [LiveCode](https://livecode.com/)  
 
 ### M
 
@@ -136,6 +139,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Miranda](source/basic/hello_world.m) - [Miranda](https://miranda.org.uk/)
 5. [Modula-2](source/basic/hello_world.mod) - [Modula-2.info](https://www.modula2.org/)
 6. [Motoko](source/basic/hello_world.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+7. [Monkey X](source/basic/helloworld.monkey) - [Monkey X](https://monkeycoder.co.nz/)  
+8. [MQL](source/basic/helloworld.mq5) - [MQL](https://www.mql5.com/)  
 
 ### N
 
@@ -146,6 +151,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 2. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
 3. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
+4. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
+5. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/)
 
 ### P
 
@@ -160,6 +167,9 @@ A modern web interface showcasing "Hello World" examples in various programming 
 9. [Prolog](source/basic/hello_world.pl) - [GNU Prolog](https://www.gprolog.org/)
 10. [Pug](source/basic/hello_world.pug) - [Pug-lang](https://pugjs.org/)
 11. [Python](source/basic/hello_world.py) - [Python.org](https://www.python.org/)
+12. [Pico](source/basic/helloworld.pico) - [Pico](http://pico.vub.ac.be/)
+13. [PL/I](source/basic/helloworld.pli) - [PL/I](https://www.ibm.com/products/pli-compiler-zos)
+14. [Processing](source/basic/helloworld.pde) - [Processing](https://processing.org/)
 
 ### Q
 
@@ -174,6 +184,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 5. [Red](source/basic/hello_world.red) - [red-lang.org](https://www.red-lang.org/)
 6. [Ruby](source/basic/hello_world.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
 7. [Rust](source/basic/hello_world.rs) - [Rust-lang.org](https://www.rust-lang.org/)
+8. [Rebol](source/basic/helloworld.reb) - [Rebol](http://www.rebol.com/)
 
 ### S
 
@@ -188,6 +199,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 9. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
 10. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
 11. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+12. [Spin](source/basic/helloworld.spin) - [Spin](https://parallax.com/downloads/spin-programming-language/)
 
 ### T
 
