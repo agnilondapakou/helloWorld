@@ -723,7 +723,12 @@ const languages = [
         name: 'Processing',
         description: 'Visual arts-focused programming language and environment',
         link: 'https://processing.org/' 
-    }    
+    },
+    {
+        name: 'Rebol',
+        description: 'Relative Expression-Based Object Language for lightweight scripting',
+        link: 'http://www.rebol.com/' 
+    }
     
 ];
 
