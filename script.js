@@ -673,6 +673,11 @@ const languages = [
         name: 'Wren',
         description: 'Lightweight scripting language for embedding in applications',
         link: 'https://wren.io/'
+    },
+    {
+        name: 'ChucK',  
+        description: 'Strongly-timed, concurrent audio programming language',
+        link: 'https://chuck.cs.princeton.edu/'  
     }
 ];
 
