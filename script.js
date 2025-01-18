@@ -728,7 +728,12 @@ const languages = [
         name: 'Rebol',
         description: 'Relative Expression-Based Object Language for lightweight scripting',
         link: 'http://www.rebol.com/' 
-    }
+    },
+    {
+        name: 'SPIN',
+        description: 'Programming language for Propeller microcontrollers',
+        link: 'https://parallax.com/downloads/spin-programming-language/' 
+    }    
     
 ];
 
