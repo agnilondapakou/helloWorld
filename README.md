@@ -169,6 +169,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 11. [Python](source/basic/hello_world.py) - [Python.org](https://www.python.org/)
 12. [Pico](source/basic/helloworld.pico) - [Pico](http://pico.vub.ac.be/)
 13. [PL/I](source/basic/helloworld.pli) - [PL/I](https://www.ibm.com/products/pli-compiler-zos)
+14. [Processing](source/basic/helloworld.pde) - [Processing](https://processing.org/)
 
 ### Q
 

@@ -718,6 +718,11 @@ const languages = [
         name: 'PL/I',
         description: 'Programming language designed for data processing and scientific computation',
         link: 'https://www.ibm.com/products/pli-compiler-zos'
+    },
+    {
+        name: 'Processing',
+        description: 'Visual arts-focused programming language and environment',
+        link: 'https://processing.org/' 
     }
 
 ];
