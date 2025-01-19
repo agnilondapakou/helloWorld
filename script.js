@@ -683,6 +683,11 @@ const languages = [
         name: 'COBOLScript',
         description: 'Scripting variant of COBOL',
         link: 'https://sites.google.com/view/cobolscripting'  
+    },
+    {
+        name: 'LiveCode',
+        description: 'Visual, high-level programming language',
+        link: 'https://livecode.com/'  
     }
 
 ];
