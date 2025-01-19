@@ -25,6 +25,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
 7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
 8. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+9. [APL](source/basic/hello_world.apl) - [APL Wiki](https://aplwiki.com/)
+
 
 
 ### B

@@ -40,6 +40,11 @@ const languages = [
         link: 'https://demergent-labs.github.io/azle/'
     },
     {
+        name: 'APL',
+        description: 'Array-oriented programming language',
+        link: 'https://www.dyalog.com/apl.htm'
+    },    
+    {
         name: 'BASIC',
         description: 'Langage de programmation classique pour débutants',
         link: 'https://www.vintage-basic.net/'
