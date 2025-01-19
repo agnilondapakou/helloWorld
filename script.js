@@ -589,6 +589,11 @@ const languages = [
         description: 'Langage de requête XML',
         link: 'https://www.w3.org/TR/xquery-31/'
     },
+     {
+        name: 'Xojo',
+        description: 'Build Native, Cross-Platform Apps',
+        link: 'https://www.xojo.com'
+    },
     {
         name: 'COOL',
         description: 'Classroom Object-Oriented Language',
