@@ -192,7 +192,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### T
 
 1. [Tcl](source/basic/hello_world.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
-2. [Thue](source/basic/hello_world.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.) 
+2. [Thue](source/basic/hello_world.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.)
+3. [Transact-SQL](source/basic/HelloWorld.sql) - [massstreet.net](https://learn.massstreet.net/transact-sql/basic/hello-world.html)
 2. [Turing](source/basic/hello_world.t) - [Turing-lang.io](https://turing-lang.io/)
 3. [Typescript](source/basic/hello_world.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
 
