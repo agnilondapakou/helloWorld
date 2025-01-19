@@ -269,6 +269,11 @@ const languages = [
         description: 'Langage de programmation client-side',
         link: 'https://www.typescriptlang.org/'
     },
+      {
+        name: 'Transact-SQL',
+        description: 'Microsoft SQL Server',
+        link: 'https://learn.massstreet.net/transact-sql/basic/hello-world.html'
+    },
     {
         name: 'Visual Basic',
         description: 'Langage de programmation classique pour débutants',
