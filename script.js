@@ -698,6 +698,11 @@ const languages = [
         name: 'MQL',
         description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
         link: 'https://www.mql5.com/'  
+    },
+    {
+        name: 'Oberon',
+        description: 'Programming language from the Pascal family',
+        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
     }
 
 ];

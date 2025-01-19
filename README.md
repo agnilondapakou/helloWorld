@@ -151,6 +151,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 2. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
 3. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
+4. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
 
 ### P
 
