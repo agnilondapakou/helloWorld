@@ -430,6 +430,11 @@ const languages = [
         link: 'https://janet-lang.org/'
     },
     {
+        name: 'JavaServer Pages',
+        description: 'A server-side programming technology',
+        link: 'https://www.oracle.com/java/technologies/jspt.html'
+    },
+    {
         name: 'K',
         description: 'Langage de programmation array',
         link: 'https://kx.com/'
