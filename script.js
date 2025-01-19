@@ -545,6 +545,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/SPARK_(programming_language)'
     },
     {
+        name: 'Stata',
+        description: 'A programming Language for Statistical language',
+        link: 'https://www.stata.com/'
+    },
+    {
         name: 'Thue',
         description: 'Langage de programmation ésotérique',
         link: 'https://esolangs.org/wiki/Thue'
