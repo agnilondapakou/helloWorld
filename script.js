@@ -35,6 +35,11 @@ const languages = [
         link: 'https://www.autoitscript.com/site/autoit/'
     },
     {
+        name: 'Awk',
+        description: 'A Text-processing programming language',
+        link: 'http://www.awklang.org/'
+    },
+    {
         name: 'Azle',
         description: 'Framework de développement moderne',
         link: 'https://demergent-labs.github.io/azle/'
