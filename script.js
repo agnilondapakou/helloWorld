@@ -693,6 +693,11 @@ const languages = [
         name: 'Monkey X',
         description: 'Programming language for game development',
         link: 'https://monkeycoder.co.nz/'  
+    },
+    {
+        name: 'MQL',
+        description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
+        link: 'https://www.mql5.com/'  
     }
 
 ];
