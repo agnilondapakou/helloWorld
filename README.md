@@ -59,6 +59,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 15. [Curl](source/basic/hello_world.curl) - [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
 16. [cypher](source/basic/hello_world.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 17. [ChucK](source/basic/helloworld.ck) - [ChucK](https://chuck.cs.princeton.edu/) 
+18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
 
 ### D
 
