@@ -340,6 +340,11 @@ const languages = [
         link: 'https://daytona.io/'
     },
     {
+        name: 'Dragon',
+        description: 'Plateforme de développement cloud',
+        link: 'https://dragon-lang.org/'
+    },
+    {
         name: 'Dylan',
         description: 'Langage de programmation dynamique',
         link: 'https://opendylan.org/'
