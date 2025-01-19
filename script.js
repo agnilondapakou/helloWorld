@@ -510,6 +510,11 @@ const languages = [
         link: 'https://www.red-lang.org/'
     },
     {
+        name: 'Rockstar',
+        description: 'Langage de programmation full-stack',
+        link: 'https://codewithrockstar.com/'
+    },
+    {
         name: 'Sather',
         description: 'Langage orienté objet inspiré d\'Eiffel',
         link: 'https://en.wikipedia.org/wiki/Sather'
