@@ -119,7 +119,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### K
 
 1. [K](source/basic/hello_world.k) - [Kx.com](https://kx.com/)
-2. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+2. [KornShell](source/basic/hello_world.ksh) - [Kornshell.com](http://kornshell.com/)
+3. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
 
 ### L
 
