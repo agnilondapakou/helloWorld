@@ -710,10 +710,16 @@ const languages = [
         link: 'https://chuck.cs.princeton.edu/'  
     },
     {
+        name: 'COBOLScript',
+        description: 'Scripting variant of COBOL',
+        link: 'https://sites.google.com/view/cobolscripting'  
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
     }
+
 ];
 
 function createAlphabetFilter() {
