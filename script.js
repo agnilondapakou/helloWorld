@@ -750,6 +750,11 @@ const languages = [
         link: 'https://www.ibm.com/products/pli-compiler-zos'
     },
     {
+        name: 'Processing',
+        description: 'Visual arts-focused programming language and environment',
+        link: 'https://processing.org/' 
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
