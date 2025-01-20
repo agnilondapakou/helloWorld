@@ -715,6 +715,11 @@ const languages = [
         link: 'https://sites.google.com/view/cobolscripting'  
     },
     {
+        name: 'LiveCode',
+        description: 'Visual, high-level programming language',
+        link: 'https://livecode.com/'  
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
