@@ -570,6 +570,11 @@ const languages = [
         link: 'https://vala.dev/'
     },
     {
+        name: 'VB.NET',
+        description: 'Programming language developed by Microsoft',
+        link: 'https://learn.microsoft.com/en-us/dotnet/visual-basic/'
+    },
+    {
         name: 'VBScript',
         description: 'Langage de script Microsoft',
         link: 'https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)'
