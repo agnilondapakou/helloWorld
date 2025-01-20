@@ -670,6 +670,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/Simula'
     },
     {
+        name: 'TADS',
+        description: 'Programming language developed by High Energy Software',
+        link: 'https://www.tads.org/index.htm'
+    },
+    {
         name: 'Tcl',
         description: 'Tool Command Language',
         link: 'https://www.tcl.tk/about/language.html'
