@@ -24,7 +24,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 5. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 6. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
 7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-8. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
+9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
 
 
 ### B
@@ -67,7 +68,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Dart](source/basic/hello_world.dart) - [Dart.dev](https://dart.dev/)
 3. [Daytona](source/basic/hello_world(daytona).io) - [Daytona.io](https://daytona.io/)
 4. [Delphi](source/basic/hello_world.dpr) - [learndelphi.org](https://learndelphi.org/)
-5. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
+5. [Dragon](source/basic/hello_world.dragon) - [dragon-lang.org](https://dragon-lang.org/)
+6. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
 
 ### E
 
@@ -116,12 +118,14 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Janet](source/basic/hello_world.janet) - [Janet-lang](https://janet-lang.org/docs/index.html)
 3. [Java](source/basic/hello_world.java) - [Oracle Java](https://www.oracle.com/java/)
 4. [Javascript](source/basic/hello_world.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-5. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
+5. [JavaServer Pages](source/basic/hello_world.jsp) - [JavaServer Pages Oracle](https://www.oracle.com/java/technologies/jspt.html)
+6. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
 
 ### K
 
 1. [K](source/basic/hello_world.k) - [Kx.com](https://kx.com/)
-2. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+2. [KornShell](source/basic/hello_world.ksh) - [Kornshell.com](http://kornshell.com/)
+3. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
 
 ### L
 
@@ -194,12 +198,14 @@ A modern web interface showcasing "Hello World" examples in various programming 
 8. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
 9. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
 10. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-11. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+11. [Stata](source/basic/hello_world.do) - [Stata.com](https://www.stata.com/)
+12. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 
 1. [Tcl](source/basic/hello_world.tcl) - [Tcl.tk](https://www.tcl.tk/about/language.html)
-2. [Thue](source/basic/hello_world.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.) 
+2. [Thue](source/basic/hello_world.thue) - [Thue language](https://esolangs.org/wiki/Thue#:~:text=Thue%20is%20an%20esoteric%20programming,version%20of%20a%20Turing%20tarpit.)
+3. [Transact-SQL](source/basic/HelloWorld.sql) - [massstreet.net](https://learn.massstreet.net/transact-sql/basic/hello-world.html)
 2. [Turing](source/basic/hello_world.t) - [Turing-lang.io](https://turing-lang.io/)
 3. [Typescript](source/basic/hello_world.ts) - [TypeScriptlang.org](https://www.typescriptlang.org/)
 
@@ -222,7 +228,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### X
 
 1. [Xamarin](source/basic/hello_world.xaml) - [Microsoft Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
-2. [Xquery](source/basic/hello_world.xquery) - [W3 Xquery](https://www.w3.org/TR/xquery-31/)
+2. [Xojo](source/basic/HelloWorld.xojo_project) - [Xojo.com](https://www.xojo.com/)
+3. [Xquery](source/basic/hello_world.xquery) - [W3 Xquery](https://www.w3.org/TR/xquery-31/)
 
 ### Y
 
