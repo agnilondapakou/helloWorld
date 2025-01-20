@@ -1,1 +1,2 @@
-display('Hello World', eoln)
+display('Hello World');
+display(eoln);
