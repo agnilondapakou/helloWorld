@@ -35,6 +35,11 @@ const languages = [
         link: 'https://www.autoitscript.com/site/autoit/'
     },
     {
+        name: 'Awk',
+        description: 'A Text-processing programming language',
+        link: 'http://www.awklang.org/'
+    },
+    {
         name: 'Azle',
         description: 'Framework de développement moderne',
         link: 'https://demergent-labs.github.io/azle/'
@@ -190,6 +195,11 @@ const languages = [
         link: 'https://kotlinlang.org/'
     },
     {
+        name: 'KornShell',
+        description: 'Unix shell and scripting language',
+        link: 'http://kornshell.com/'
+    },
+    {
         name: 'Lisp',
         description: 'Langage de programmation fonctionnel historique',
         link: 'https://common-lisp.net/'
@@ -268,6 +278,11 @@ const languages = [
         name: 'TypeScript',
         description: 'Langage de programmation client-side',
         link: 'https://www.typescriptlang.org/'
+    },
+      {
+        name: 'Transact-SQL',
+        description: 'Microsoft SQL Server',
+        link: 'https://learn.massstreet.net/transact-sql/basic/hello-world.html'
     },
     {
         name: 'Visual Basic',
@@ -425,6 +440,11 @@ const languages = [
         link: 'https://janet-lang.org/'
     },
     {
+        name: 'JavaServer Pages',
+        description: 'A server-side programming technology',
+        link: 'https://www.oracle.com/java/technologies/jspt.html'
+    },
+    {
         name: 'K',
         description: 'Langage de programmation array',
         link: 'https://kx.com/'
@@ -530,6 +550,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/SPARK_(programming_language)'
     },
     {
+        name: 'Stata',
+        description: 'A programming Language for Statistical language',
+        link: 'https://www.stata.com/'
+    },
+    {
         name: 'Thue',
         description: 'Langage de programmation ésotérique',
         link: 'https://esolangs.org/wiki/Thue'
@@ -568,6 +593,11 @@ const languages = [
         name: 'Xquery',
         description: 'Langage de requête XML',
         link: 'https://www.w3.org/TR/xquery-31/'
+    },
+     {
+        name: 'Xojo',
+        description: 'Build Native, Cross-Platform Apps',
+        link: 'https://www.xojo.com'
     },
     {
         name: 'COOL',
@@ -713,6 +743,11 @@ const languages = [
         name: 'Pico',
         description: 'Minimal programming language',
         link: 'http://pico.vub.ac.be/'
+    },
+    {
+        name: 'Dragon',
+        description: 'A multi-paradigm, general-purpose programming language ',
+        link: 'https://dragon-lang.org/'
     }
 
 ];
