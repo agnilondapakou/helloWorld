@@ -80,6 +80,11 @@ const languages = [
         link: 'https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview'
     },
     {
+        name: 'Blaz',
+        description: 'Programming language for Data Analytics',
+        link: 'https://github.com/vladimirdabic/Blaze'
+    },
+    {
         name: 'Boo',
         description: 'Langage orienté objet pour .NET',
         link: 'https://boo-language.github.io/'
