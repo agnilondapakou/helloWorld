@@ -1,2 +1,2 @@
-PUB Main
+PUB Main()
   debug("Hello World")
