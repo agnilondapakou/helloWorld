@@ -143,6 +143,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Miranda](source/basic/hello_world.m) - [Miranda](https://miranda.org.uk/)
 5. [Modula-2](source/basic/hello_world.mod) - [Modula-2.info](https://www.modula2.org/)
 6. [Motoko](source/basic/hello_world.mo) - [Internet Computer](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)
+7. [Monkey X](source/basic/helloworld.monkey) - [Monkey X](https://monkeycoder.co.nz/) 
 
 ### N
 

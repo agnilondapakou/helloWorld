@@ -720,6 +720,11 @@ const languages = [
         link: 'https://livecode.com/'  
     },
     {
+        name: 'Monkey X',
+        description: 'Programming language for game development',
+        link: 'https://monkeycoder.co.nz/'  
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
