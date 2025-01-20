@@ -760,6 +760,10 @@ const languages = [
         link: 'http://www.rebol.com/' 
     },
     {
+        name: 'SPIN',
+        description: 'Programming language for Propeller microcontrollers',
+        link: 'https://parallax.com/downloads/spin-programming-language/' 
+    }   
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
