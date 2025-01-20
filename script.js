@@ -735,6 +735,11 @@ const languages = [
         link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
     },
     {
+        name: 'OpenCL',
+        description: 'Programming language for parallel programming',
+        link: 'https://www.khronos.org/opencl/' 
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
