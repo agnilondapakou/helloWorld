@@ -705,6 +705,11 @@ const languages = [
         link: 'https://wren.io/'
     },
     {
+        name: 'ChucK',  
+        description: 'Strongly-timed, concurrent audio programming language',
+        link: 'https://chuck.cs.princeton.edu/'  
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
