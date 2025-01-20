@@ -1,0 +1,3 @@
+REBOL []
+alert
+"Hello World"

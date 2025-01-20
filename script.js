@@ -755,6 +755,11 @@ const languages = [
         link: 'https://processing.org/' 
     },
     {
+        name: 'Rebol',
+        description: 'Relative Expression-Based Object Language for lightweight scripting',
+        link: 'http://www.rebol.com/' 
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
