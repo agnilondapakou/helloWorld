@@ -190,6 +190,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [Ruby](source/basic/hello_world.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
 7. [Rust](source/basic/hello_world.rs) - [Rust-lang.org](https://www.rust-lang.org/)
 8. [Rebol](source/basic/helloworld.reb) - [Rebol](http://www.rebol.com/)
+9. [Rockstar](source/basic/helloworld.rks) - [Rockstar](http://www.rebol.com/)
 
 ### S
 
