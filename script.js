@@ -703,6 +703,11 @@ const languages = [
         name: 'Wren',
         description: 'Lightweight scripting language for embedding in applications',
         link: 'https://wren.io/'
+    },
+    {
+        name: 'Dragon',
+        description: 'A multi-paradigm, general-purpose programming language ',
+        link: 'https://dragon-lang.org/'
     }
 ];
 
