@@ -745,6 +745,11 @@ const languages = [
         link: 'http://pico.vub.ac.be/'
     },
     {
+        name: 'PL/I',
+        description: 'Programming language designed for data processing and scientific computation',
+        link: 'https://www.ibm.com/products/pli-compiler-zos'
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
