@@ -725,6 +725,11 @@ const languages = [
         link: 'https://monkeycoder.co.nz/'  
     },
     {
+        name: 'MQL',
+        description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
+        link: 'https://www.mql5.com/'
+    },
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
