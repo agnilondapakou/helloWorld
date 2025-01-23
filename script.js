@@ -823,6 +823,11 @@ const languages = [
         name: 'Kipple',
         description: 'Kipple is a minimalistic esoteric programming language with a set of stacks, four operators, and a single control structure.',
         link: 'https://www.pvv.ntnu.no/~runeberg/kipple/index.html'
+    },
+    {
+        name: 'GolfScript',
+        description: 'GolfScript is a stack oriented esoteric programming language aimed at solving problems (holes) in as few keystrokes as possible.',
+        link: 'https://www.golfscript.com/golfscript/index.html'
     }
 ];
 

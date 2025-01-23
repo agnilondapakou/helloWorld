@@ -101,6 +101,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [GML](source/basic/helloWorld.gml) - [GameMaker](https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm)
 3. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
 4. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
+5. [GolfScript](source/basic/helloworld.gs) - [GolfScript](https://www.golfscript.com/golfscript/index.html)
 
 ### H
 
