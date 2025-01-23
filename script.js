@@ -788,8 +788,37 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'COW',
+        description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
+        link: 'https://bigzaphod.github.io/COW/'
+    },
+    {
+        name: 'OAK',
+        description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
+        link: 'https://oaklang.org/'
+    },
+    {
+        name: 'Befunge 93',
+        description: 'Befunge 93 is a two-dimensional esoteric programming language with the goal of being as difficult to compile as possible.',
+        link: 'https://catseye.tc/article/Languages.md#befunge-93'
+    },
+    {
+        name: 'False',
+        description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
+        link: 'https://strlen.com/files/lang/false/false.txt'
+    },
+    {
+        name: 'Velato',
+        description: 'Velato is an esoteric programming language that uses MIDI files as source code. Programs in Velato are defined by the pitch and order of notes.',
+        link: 'http://velato.net/'
+    },
+    {
+        name: 'ArnoldC',
+        description: 'ArnoldC is an esoteric programming language created with Scala by Lauri Hartikka.',
+        link: 'https://banhawy.github.io/ArnoldC-Technical-Documentation/'
     }
-
 ];
 
 function createAlphabetFilter() {
