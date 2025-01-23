@@ -788,7 +788,13 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'COW',
+        description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
+        link: 'https://bigzaphod.github.io/COW/'
     }
+
 
 ];
 
