@@ -873,6 +873,11 @@ const languages = [
         name: 'Agony',
         description: 'An esoteric programming language and It is based on, most of the time backwards compatible with Brainfuck.',
         link: 'https://esolangs.org/wiki/Agony'
+    },
+    {
+        name: 'Aheui',
+        description: 'Aheui (아희 in Korean language) is the first esoteric programming language ever to be designed for Hangul, the Korean alphabet, designed by User:Puzzlet Chung.',
+        link: 'https://esolangs.org/wiki/Aheui#:~:text=Aheui%20(%EC%95%84%ED%9D%AC%20in%20Korean%20language,26%20stacks%20and%20one%20queue.'
     }
 ];
 

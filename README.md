@@ -32,6 +32,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 13.[Aceto](source/basic/helloworld.act) - [Aceto](https://esolangs.org/wiki/Aceto)
 14.[Agda](source/basic/helloworld.agd) - [Agda](https://agda.readthedocs.io/en/latest/overview.html)
 15.[Agony](source/basic/helloworld.agn) - [Agony](https://esolangs.org/wiki/Agony)
+16.[Aheui](source/basic/helloworld.ah) - [Aheui](https://esolangs.org/wiki/Aheui#:~:text=Aheui%20(%EC%95%84%ED%9D%AC%20in%20Korean%20language,26%20stacks%20and%20one%20queue.)
 
 ### B
 
