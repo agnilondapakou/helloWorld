@@ -843,10 +843,13 @@ const languages = [
         name: 'Seed',
         description: 'Seed is a language based on random seeds. Actually, programs only contain two instructions: length and random seed, separated by a space.',
         link: 'https://esolangs.org/wiki/Seed'
+    },
+    {
+        name: 'NASM',
+        description: 'NASM (netwide assembler), is an assembler and disassembler for the Intel x86 architecture.',
+        link: 'https://cratecode.com/info/nasm'
     }
 ];
-
-
 
 function createAlphabetFilter() {
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');

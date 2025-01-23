@@ -158,6 +158,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### N
 
 1. [Nim](source/basic/hello_world.nim) - [Nim-lang.org](https://nim-lang.org/)
+2. [NASM](source/basic/helloworld.nasm) - [NASM](https://cratecode.com/info/nasm)
 
 ### O
 
