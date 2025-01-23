@@ -828,8 +828,15 @@ const languages = [
         name: 'GolfScript',
         description: 'GolfScript is a stack oriented esoteric programming language aimed at solving problems (holes) in as few keystrokes as possible.',
         link: 'https://www.golfscript.com/golfscript/index.html'
+    },
+    {
+        name: 'Jelly',
+        description: 'The Jelly programming language was created to code Siri Shortcuts in a text base language. ',
+        link: 'https://docs.jellycuts.com/Getting_Started/language_overview.html'
     }
 ];
+
+
 
 function createAlphabetFilter() {
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');

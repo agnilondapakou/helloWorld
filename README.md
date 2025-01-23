@@ -126,6 +126,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Javascript](source/basic/hello_world.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 5. [JavaServer Pages](source/basic/hello_world.jsp) - [JavaServer Pages Oracle](https://www.oracle.com/java/technologies/jspt.html)
 6. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
+7. [Jelly](source/basic/helloworld.jl) - [Jelly](https://docs.jellycuts.com/Getting_Started/language_overview.html)
 
 ### K
 
