@@ -26,6 +26,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
 8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
 9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+10.[ArnoldC](source/basic/helloworld.arnl) - [ArnoldC](https://banhawy.github.io/ArnoldC-Technical-Documentation/)
 
 
 ### B

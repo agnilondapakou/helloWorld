@@ -813,8 +813,12 @@ const languages = [
         name: 'Velato',
         description: 'Velato is an esoteric programming language that uses MIDI files as source code. Programs in Velato are defined by the pitch and order of notes.',
         link: 'http://velato.net/'
+    },
+    {
+        name: 'ArnoldC',
+        description: 'ArnoldC is an esoteric programming language created with Scala by Lauri Hartikka.',
+        link: 'https://banhawy.github.io/ArnoldC-Technical-Documentation/'
     }
-
 ];
 
 function createAlphabetFilter() {
