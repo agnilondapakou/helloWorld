@@ -858,6 +858,11 @@ const languages = [
         name: 'ABC',
         description: 'Interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC.',
         link: 'https://homepages.cwi.nl/~steven/abc/'
+    },
+    {
+        name: 'Aceto',
+        description: 'An esoteric programming language made by L3viathan, designed according to the wishes of @sarnthil. The name has no meaning other than being a reference to OIL.',
+        link: 'https://esolangs.org/wiki/Aceto'
     }
 ];
 
