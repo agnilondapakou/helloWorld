@@ -788,8 +788,12 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Gambas',
+        description: 'An object-oriented dialect of the BASIC programming language',
+        link: 'https://gambas.sourceforge.net/'
     }
-
 ];
 
 function createAlphabetFilter() {
