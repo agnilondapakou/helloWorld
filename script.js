@@ -788,8 +788,12 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'NASM',
+        description: 'An open-source assembler for x86 and x86-64 architectures ',
+        link: 'https://cratecode.com/info/nasm'
     }
-
 ];
 
 function createAlphabetFilter() {
