@@ -868,6 +868,11 @@ const languages = [
         name: 'Agda',
         description: 'Agda is a dependently typed programming language. It is an extension of Martin-Löfs type theory and is the latest in the tradition of languages developed in the programming logic group at Chalmers.',
         link: 'https://agda.readthedocs.io/en/latest/overview.html'
+    },
+    {
+        name: 'Agony',
+        description: 'An esoteric programming language and It is based on, most of the time backwards compatible with Brainfuck.',
+        link: 'https://esolangs.org/wiki/Agony'
     }
 ];
 
