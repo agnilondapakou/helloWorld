@@ -883,6 +883,11 @@ const languages = [
         name: 'Alchemist',
         description: 'Alchemist is a non-deterministic programming language based on chemical reaction networks. A program is a (multi-)set of rules of the form LHS -> RHS, where the LHS consists of simple atoms separated by + and the RHS consists of atoms separated by +.',
         link: 'https://esolangs.org/wiki/Alchemist'
+    },
+    {
+        name: 'ATS',
+        description: 'ATS is a statically typed programming language that unifies implementation with formal specification.',
+        link: 'https://ats-lang.sourceforge.net/'
     }
 ];
 
