@@ -778,10 +778,16 @@ const languages = [
         name: 'SPIN',
         description: 'Programming language for Propeller microcontrollers',
         link: 'https://parallax.com/downloads/spin-programming-language/' 
-    }   
+    },
+    {   
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
+    },
+    {
+        name: 'Rockstar',
+        description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
+        link: 'https://codewithrockstar.com/'
     }
 
 ];
