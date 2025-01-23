@@ -853,6 +853,11 @@ const languages = [
         name: 'A Pear Tree',
         description: 'The trivial derivative of Perl created by User:ais523 in 2016, mostly as a joke. It aims to mildly modify the language to make it more suitable for writing polyglots particularly with Python 3.',
         link: 'https://esolangs.org/wiki/A_Pear_Tree'
+    },
+    {
+        name: 'ABC',
+        description: 'Interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC.',
+        link: 'https://homepages.cwi.nl/~steven/abc/'
     }
 ];
 
