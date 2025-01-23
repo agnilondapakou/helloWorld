@@ -878,6 +878,11 @@ const languages = [
         name: 'Aheui',
         description: 'Aheui (아희 in Korean language) is the first esoteric programming language ever to be designed for Hangul, the Korean alphabet, designed by User:Puzzlet Chung.',
         link: 'https://esolangs.org/wiki/Aheui#:~:text=Aheui%20(%EC%95%84%ED%9D%AC%20in%20Korean%20language,26%20stacks%20and%20one%20queue.'
+    },
+    {
+        name: 'Alchemist',
+        description: 'Alchemist is a non-deterministic programming language based on chemical reaction networks. A program is a (multi-)set of rules of the form LHS -> RHS, where the LHS consists of simple atoms separated by + and the RHS consists of atoms separated by +.',
+        link: 'https://esolangs.org/wiki/Alchemist'
     }
 ];
 
