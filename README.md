@@ -26,6 +26,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
 8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
 9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+10.[ArnoldC](source/basic/helloworld.arnl) - [ArnoldC](https://banhawy.github.io/ArnoldC-Technical-Documentation/)
 
 
 ### B
@@ -39,7 +40,9 @@ A modern web interface showcasing "Hello World" examples in various programming 
 7. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 8. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
 9. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-10. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+10.[Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+11.[Befunge 93](source/basic/helloworld.bfg) - [Befunge](https://catseye.tc/article/Languages.md#befunge-93)
+12.[Brain-Flak](source/basic/helloworld.brflk) - [Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak)
 
 
 ### C
@@ -62,6 +65,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 16. [cypher](source/basic/hello_world.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 17. [ChucK](source/basic/helloworld.ck) - [ChucK](https://chuck.cs.princeton.edu/) 
 18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
+19. [COW](source/basic/helloworld.cow) - [COW](https://bigzaphod.github.io/COW/)  
 
 ### D
 
@@ -90,6 +94,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 5. [forth](source/basic/hello_world.fth) - [Forth-standard.org](https://forth-standard.org/)
 6. [Fortran](source/basic/hello_world.f90) - [Fortran-lang.org](https://fortran-lang.org/)
 7. [Futhark](source/basic/hello_world.fut) - [Futhark-lang.org](https://futhark-lang.org/)
+8. [False](source/basic/helloworld.fls) - [False](https://strlen.com/files/lang/false/false.txt)
 
 ### G
 
@@ -97,6 +102,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [GML](source/basic/helloWorld.gml) - [GameMaker](https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm)
 3. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
 4. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
+5. [GolfScript](source/basic/helloworld.gs) - [GolfScript](https://www.golfscript.com/golfscript/index.html)
 
 ### H
 
@@ -121,12 +127,14 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Javascript](source/basic/hello_world.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 5. [JavaServer Pages](source/basic/hello_world.jsp) - [JavaServer Pages Oracle](https://www.oracle.com/java/technologies/jspt.html)
 6. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
+7. [Jelly](source/basic/helloworld.jl) - [Jelly](https://docs.jellycuts.com/Getting_Started/language_overview.html)
 
 ### K
 
 1. [K](source/basic/hello_world.k) - [Kx.com](https://kx.com/)
 2. [KornShell](source/basic/hello_world.ksh) - [Kornshell.com](http://kornshell.com/)
 3. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+4. [Kipple](source/basic/helloworld.kpl) - [Kipple](https://www.pvv.ntnu.no/~runeberg/kipple/index.html)
 
 ### L
 
@@ -158,6 +166,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 3. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
 4. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
 5. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/)
+6. [OAK](source/basic/helloworld.oak) - [OAK](https://oaklang.org/)  
 
 ### P
 
@@ -228,6 +237,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
 7. [VIM](source/basic/hello_world.vim) - [Vim-lang](https://www.vim.org/)
 8. [VisualBasic](source/basic/hello_world.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+8. [Velato](source/basic/helloworld.vlt) - [Velato](http://velato.net/)
 
 ### W
 
