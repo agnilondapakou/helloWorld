@@ -798,6 +798,11 @@ const languages = [
         name: 'OAK',
         description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
         link: 'https://oaklang.org/'
+    },
+    {
+        name: 'Befunge 93',
+        description: 'Befunge 93 is a two-dimensional esoteric programming language with the goal of being as difficult to compile as possible.',
+        link: 'https://catseye.tc/article/Languages.md#befunge-93'
     }
 
 

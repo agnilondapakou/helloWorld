@@ -39,7 +39,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 7. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 8. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
 9. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-10. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+10.[Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+11.[Befunge 93](source/basic/helloworld.bfg) - [Befunge](https://catseye.tc/article/Languages.md#befunge-93)
 
 
 ### C
