@@ -818,6 +818,11 @@ const languages = [
         name: 'ArnoldC',
         description: 'ArnoldC is an esoteric programming language created with Scala by Lauri Hartikka.',
         link: 'https://banhawy.github.io/ArnoldC-Technical-Documentation/'
+    },
+    {
+        name: 'Kipple',
+        description: 'Kipple is a minimalistic esoteric programming language with a set of stacks, four operators, and a single control structure.',
+        link: 'https://www.pvv.ntnu.no/~runeberg/kipple/index.html'
     }
 ];
 
