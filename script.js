@@ -863,6 +863,11 @@ const languages = [
         name: 'Aceto',
         description: 'An esoteric programming language made by L3viathan, designed according to the wishes of @sarnthil. The name has no meaning other than being a reference to OIL.',
         link: 'https://esolangs.org/wiki/Aceto'
+    },
+    {
+        name: 'Agda',
+        description: 'Agda is a dependently typed programming language. It is an extension of Martin-Löfs type theory and is the latest in the tradition of languages developed in the programming logic group at Chalmers.',
+        link: 'https://agda.readthedocs.io/en/latest/overview.html'
     }
 ];
 

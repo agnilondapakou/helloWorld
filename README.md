@@ -30,6 +30,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 11. [A Pear Tree](source/basic/helloworld.prtr) - [A Pear Tree](https://esolangs.org/wiki/A_Pear_Tree)
 12.[ABC](source/basic/helloworld.arnl) - [ABC](https://homepages.cwi.nl/~steven/abc/)
 13.[Aceto](source/basic/helloworld.act) - [Aceto](https://esolangs.org/wiki/Aceto)
+14.[Agda](source/basic/helloworld.agd) - [Agda](https://agda.readthedocs.io/en/latest/overview.html)
 
 ### B
 
