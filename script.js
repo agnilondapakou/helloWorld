@@ -808,6 +808,11 @@ const languages = [
         name: 'False',
         description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
         link: 'https://strlen.com/files/lang/false/false.txt'
+    },
+    {
+        name: 'Velato',
+        description: 'Velato is an esoteric programming language that uses MIDI files as source code. Programs in Velato are defined by the pitch and order of notes.',
+        link: 'http://velato.net/'
     }
 
 ];

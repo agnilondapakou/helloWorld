@@ -232,6 +232,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
 7. [VIM](source/basic/hello_world.vim) - [Vim-lang](https://www.vim.org/)
 8. [VisualBasic](source/basic/hello_world.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+8. [Velato](source/basic/helloworld.vlt) - [Velato](http://velato.net/)
 
 ### W
 
