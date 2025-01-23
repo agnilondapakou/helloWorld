@@ -838,6 +838,11 @@ const languages = [
         name: 'Brain-Flak',
         description: 'Stack-based esoteric language designed by Programming Puzzles and Code-Golf user, DJMcMayhem. The name is a cross between "brainfuck", which was a big inspiration for the language, and "flak-overstow", since the language is confusing and stack-based.',
         link: 'https://github.com/DJMcMayhem/Brain-Flak'
+    },
+    {
+        name: 'Seed',
+        description: 'Seed is a language based on random seeds. Actually, programs only contain two instructions: length and random seed, separated by a space.',
+        link: 'https://esolangs.org/wiki/Seed'
     }
 ];
 

@@ -217,6 +217,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 12. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
 13. [Stata](source/basic/hello_world.do) - [Stata.com](https://www.stata.com/)
 14. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+15. [Seed](source/basic/helloworld.seed) - [Seed](https://esolangs.org/wiki/Seed)
 
 ### T
 
