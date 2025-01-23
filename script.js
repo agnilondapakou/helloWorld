@@ -833,6 +833,11 @@ const languages = [
         name: 'Jelly',
         description: 'The Jelly programming language was created to code Siri Shortcuts in a text base language. ',
         link: 'https://docs.jellycuts.com/Getting_Started/language_overview.html'
+    },
+    {
+        name: 'Brain-Flak',
+        description: 'Stack-based esoteric language designed by Programming Puzzles and Code-Golf user, DJMcMayhem. The name is a cross between "brainfuck", which was a big inspiration for the language, and "flak-overstow", since the language is confusing and stack-based.',
+        link: 'https://github.com/DJMcMayhem/Brain-Flak'
     }
 ];
 
