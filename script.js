@@ -11,7 +11,7 @@ const languages = [
     },
     {
         name: 'Ada',
-        description: 'Langage de programmation structuré pour systèmes embarqués',
+        description: 'Structured programming language for embedded systems',
         link: 'https://ada-lang.io/'
     },
     {
