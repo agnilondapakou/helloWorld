@@ -247,8 +247,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### Z
 1. [Zennode](source/basic//hello_world.zn) - [Zennode](https://archive.org/details/zennode?utm_source=chatgpt.com)
-1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
-2. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
+2. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
+3. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
 
 ## Features
 
