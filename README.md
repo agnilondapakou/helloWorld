@@ -35,12 +35,13 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
 3. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
 4. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
-5. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
-6. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
-7. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-8. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
-9. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-10. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+5. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)
+6. [Befunge 93](source/basic/helloworld.bfg) - [Befunge](https://catseye.tc/article/Languages.md#befunge-93)
+7. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
+8. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+9. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
+10. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
+10.[Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
@@ -155,12 +156,12 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### O
 
-1. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-2. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
-3. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
-4. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
-5. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/)
-6. [OAK](source/basic/helloworld.oak) - [OAK](https://oaklang.org/)  
+1. [OAK](source/basic/helloworld.oak) - [OAK](https://oaklang.org/) 
+2. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+3. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
+4. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
+5. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
+6. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/) 
 
 ### P
 
