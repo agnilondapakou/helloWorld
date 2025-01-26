@@ -45,6 +45,11 @@ const languages = [
         link: 'https://demergent-labs.github.io/azle/'
     },
     {
+        name: 'APL',
+        description: 'Array-oriented programming language',
+        link: 'https://www.dyalog.com/apl.htm'
+    },
+    {
         name: 'B',
         description: 'Programming language developed at Bell Labs & Predecessor to C',
         link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'

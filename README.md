@@ -21,11 +21,12 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [ActionScript](source/basic/hello_world.as) - [ActionScript Language](https://en.wikipedia.org/wiki/ActionScript)
 3. [Ada](source/basic/hello_world.adb) - [Ada-lang](https://ada-lang.io/)
 4. [ALGOL 68](source/basic/hello_world.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
-5. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
-6. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
-7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
-9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+5. [APL](source/basic/hello_world.apl) - [APL Wiki](https://aplwiki.com/)
+6. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+7. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+8. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+9. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
+10. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
 
 
 ### B
