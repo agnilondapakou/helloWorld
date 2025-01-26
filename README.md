@@ -246,7 +246,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 1. [YAML](source/basic/hello_world.yaml) - [Yaml.org](https://yaml.org/)
 
 ### Z
-
+1. [Zennode](source/basic//hello_world.zn) - [Zennode](https://archive.org/details/zennode?utm_source=chatgpt.com)
 1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
 2. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
 
