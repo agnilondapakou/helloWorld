@@ -798,6 +798,11 @@ const languages = [
         name: 'COW',
         description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
         link: 'https://bigzaphod.github.io/COW/'
+    },
+    {
+        name: 'OAK',
+        description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
+        link: 'https://oaklang.org/'
     }
 
 
