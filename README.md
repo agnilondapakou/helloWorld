@@ -63,6 +63,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 16. [cypher](source/basic/hello_world.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 17. [ChucK](source/basic/helloworld.ck) - [ChucK](https://chuck.cs.princeton.edu/) 
 18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
+19. [COW](source/basic/helloworld.cow) - [COW](https://bigzaphod.github.io/COW/)  
 
 ### D
 
