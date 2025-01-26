@@ -11,7 +11,7 @@ const languages = [
     },
     {
         name: 'Ada',
-        description: 'Langage de programmation structuré pour systèmes embarqués',
+        description: 'Structured programming language for embedded systems',
         link: 'https://ada-lang.io/'
     },
     {
@@ -35,6 +35,11 @@ const languages = [
         link: 'https://www.autoitscript.com/site/autoit/'
     },
     {
+        name: 'Awk',
+        description: 'A Text-processing programming language',
+        link: 'http://www.awklang.org/'
+    },
+    {
         name: 'Azle',
         description: 'Framework de développement moderne',
         link: 'https://demergent-labs.github.io/azle/'
@@ -43,7 +48,12 @@ const languages = [
         name: 'APL',
         description: 'Array-oriented programming language',
         link: 'https://www.dyalog.com/apl.htm'
-    },    
+    },
+    {
+        name: 'B',
+        description: 'Programming language developed at Bell Labs & Predecessor to C',
+        link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'
+    },
     {
         name: 'BASIC',
         description: 'Langage de programmation classique pour débutants',
@@ -73,6 +83,11 @@ const languages = [
         name: 'Bicep',
         description: 'Langage déclaratif pour Azure',
         link: 'https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview'
+    },
+    {
+        name: 'Blaz',
+        description: 'Programming language for Data Analytics',
+        link: 'https://github.com/vladimirdabic/Blaze'
     },
     {
         name: 'Boo',
@@ -110,6 +125,16 @@ const languages = [
         link: 'https://dart.dev/'
     },
     {
+        name: 'E',
+        description: 'Object oriented programming language',
+        link: 'http://www.erights.org/'
+    },
+     {
+        name: 'Delphi',
+        description: 'Object oriented programming Language created by Borland ',
+        link: 'https://learndelphi.org/'
+    },
+    {
         name: 'Eiffel',
         description: 'Langage de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/Eiffel_(programming_language)'
@@ -133,6 +158,11 @@ const languages = [
         name: 'Fortran',
         description: 'Langage de programmation haut niveau',
         link: 'https://en.wikipedia.org/wiki/Fortran'
+    },
+    {
+        name: 'Fantom',
+        description: 'Programming language for multi-platform applications (JVM, .NET, JavaScript)',
+        link: 'https://fantom.org/'
     },
     {
         name: 'GML',
@@ -173,6 +203,11 @@ const languages = [
         name: 'Kotlin',
         description: 'Langage de programmation orienté objet',
         link: 'https://kotlinlang.org/'
+    },
+    {
+        name: 'KornShell',
+        description: 'Unix shell and scripting language',
+        link: 'http://kornshell.com/'
     },
     {
         name: 'Lisp',
@@ -254,6 +289,11 @@ const languages = [
         description: 'Langage de programmation client-side',
         link: 'https://www.typescriptlang.org/'
     },
+      {
+        name: 'Transact-SQL',
+        description: 'Microsoft SQL Server',
+        link: 'https://learn.massstreet.net/transact-sql/basic/hello-world.html'
+    },
     {
         name: 'Visual Basic',
         description: 'Langage de programmation classique pour débutants',
@@ -263,6 +303,11 @@ const languages = [
         name: 'Zig',
         description: 'Langage système moderne et performant',
         link: 'https://ziglang.org/'
+    },
+    {
+        name: 'Zsh',
+        description: 'Unix shell and scripting language',
+        link: 'https://zsh.sourceforge.io/'
     },
     {
         name: 'Cangjie',
@@ -405,6 +450,11 @@ const languages = [
         link: 'https://janet-lang.org/'
     },
     {
+        name: 'JavaServer Pages',
+        description: 'A server-side programming technology',
+        link: 'https://www.oracle.com/java/technologies/jspt.html'
+    },
+    {
         name: 'K',
         description: 'Langage de programmation array',
         link: 'https://kx.com/'
@@ -510,6 +560,11 @@ const languages = [
         link: 'https://en.wikipedia.org/wiki/SPARK_(programming_language)'
     },
     {
+        name: 'Stata',
+        description: 'A programming Language for Statistical language',
+        link: 'https://www.stata.com/'
+    },
+    {
         name: 'Thue',
         description: 'Langage de programmation ésotérique',
         link: 'https://esolangs.org/wiki/Thue'
@@ -523,6 +578,11 @@ const languages = [
         name: 'Vala',
         description: 'Langage de programmation orienté objet',
         link: 'https://vala.dev/'
+    },
+    {
+        name: 'VB.NET',
+        description: 'Programming language developed by Microsoft',
+        link: 'https://learn.microsoft.com/en-us/dotnet/visual-basic/'
     },
     {
         name: 'VBScript',
@@ -548,6 +608,11 @@ const languages = [
         name: 'Xquery',
         description: 'Langage de requête XML',
         link: 'https://www.w3.org/TR/xquery-31/'
+    },
+     {
+        name: 'Xojo',
+        description: 'Build Native, Cross-Platform Apps',
+        link: 'https://www.xojo.com'
     },
     {
         name: 'COOL',
@@ -615,6 +680,16 @@ const languages = [
         link: 'https://www.iso.org/standard/76583.html'
     },
     {
+        name: 'Simula',
+        description: 'Early object-oriented programming language',
+        link: 'https://en.wikipedia.org/wiki/Simula'
+    },
+    {
+        name: 'TADS',
+        description: 'Programming language developed by High Energy Software',
+        link: 'https://www.tads.org/index.htm'
+    },
+    {
         name: 'Tcl',
         description: 'Tool Command Language',
         link: 'https://www.tcl.tk/about/language.html'
@@ -638,7 +713,88 @@ const languages = [
         name: 'LOL',
         description: 'LOLCODE is an esoteric programming language',
         link: 'https://gist.github.com/sharmaeklavya2/8a0e2581baf969be0f64'
+    },
+    {
+        name: 'YAML',
+        description: 'A simple data serialization language',
+        link: 'https://yaml.org/'
+    },
+    {
+        name: 'Wren',
+        description: 'Lightweight scripting language for embedding in applications',
+        link: 'https://wren.io/'
+    },
+    {
+        name: 'ChucK',  
+        description: 'Strongly-timed, concurrent audio programming language',
+        link: 'https://chuck.cs.princeton.edu/'  
+    },
+    {
+        name: 'COBOLScript',
+        description: 'Scripting variant of COBOL',
+        link: 'https://sites.google.com/view/cobolscripting'  
+    },
+    {
+        name: 'LiveCode',
+        description: 'Visual, high-level programming language',
+        link: 'https://livecode.com/'  
+    },
+    {
+        name: 'Monkey X',
+        description: 'Programming language for game development',
+        link: 'https://monkeycoder.co.nz/'  
+    },
+    {
+        name: 'MQL',
+        description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
+        link: 'https://www.mql5.com/'  
+    },
+    {
+        name: 'Oberon',
+        description: 'Programming language from the Pascal family',
+        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
+    },
+    {
+        name: 'OpenCL',
+        description: 'Programming language for parallel programming',
+        link: 'https://www.khronos.org/opencl/'  
+    },
+    {
+        name: 'Pico',
+        description: 'Minimal programming language',
+        link: 'http://pico.vub.ac.be/'
+    },
+    {
+        name: 'PL/I',
+        description: 'Programming language designed for data processing and scientific computation',
+        link: 'https://www.ibm.com/products/pli-compiler-zos'
+    },
+    {
+        name: 'Processing',
+        description: 'Visual arts-focused programming language and environment',
+        link: 'https://processing.org/' 
+    },
+    {
+        name: 'Rebol',
+        description: 'Relative Expression-Based Object Language for lightweight scripting',
+        link: 'http://www.rebol.com/' 
+    },
+    {
+        name: 'SPIN',
+        description: 'Programming language for Propeller microcontrollers',
+        link: 'https://parallax.com/downloads/spin-programming-language/' 
+    },
+    {   
+        name: 'Dragon',
+        description: 'A multi-paradigm, general-purpose programming language ',
+        link: 'https://dragon-lang.org/'
+    },
+    {
+        name: 'Rockstar',
+        description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
+        link: 'https://codewithrockstar.com/'
     }
+
 ];
 
 function createAlphabetFilter() {
