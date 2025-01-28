@@ -1,26 +1,25 @@
-To print Hello World using Velato:
-   1. Understand Velato Basics:
-    Velato is a programming language where code is written as MIDI music. The instructions are encoded using the intervals between musical notes.
+1. Understand Velato Basics:
+Velato is a programming language where code is written as MIDI music. The instructions are encoded using the intervals between musical notes.
 
-   2. Set Up the Tools:
-    To work with Velato, you need:
-        - A MIDI editor (e.g., MuseScore, FL Studio, LMMS) to compose the music.
-        - A Velato interpreter (e.g., one available on GitHub) to execute the MIDI as a program.
-          Compose the Music:
+2. Set Up the Tools:
+To work with Velato, you need:
+    - A MIDI editor (e.g., MuseScore, FL Studio, LMMS) to compose the music.
+    - A Velato interpreter (e.g., one available on GitHub) to execute the MIDI as a program.
+        Compose the Music:
 
-   3. Start with a reference note (e.g., C4).
-    Use specific note intervals to encode commands. For example:
-        - A certain interval might encode the "Print" command.
-        - Follow it with intervals that represent the string "Hello, World!" in ASCII format.
-        - Save and Run the MIDI File:
+3. Start with a reference note (e.g., C4).
+Use specific note intervals to encode commands. For example:
+    - A certain interval might encode the "Print" command.
+    - Follow it with intervals that represent the string "Hello, World!" in ASCII format.
+    - Save and Run the MIDI File:
 
-    4. Save your composition as a MIDI file.
-        - Open the file in the Velato interpreter.
-        - Run the program, and it will print "Hello, World!".
-        - Example for a MIDI File
-        - To print "Hello, World!", a MIDI file might encode:
+4. Save your composition as a MIDI file.
+    - Open the file in the Velato interpreter.
+    - Run the program, and it will print "Hello, World!".
+    - Example for a MIDI File
+    - To print "Hello, World!", a MIDI file might encode:
 
-    - Starting reference note: C4.
-    - Command notes: E4 → G4 → A4, which would translate to:
-    - Print command.
-    String "Hello, World!".
+- Starting reference note: C4.
+- Command notes: E4 → G4 → A4, which would translate to:
+- Print command.
+String "Hello, World!".
