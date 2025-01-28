@@ -888,6 +888,11 @@ const languages = [
         name: 'ATS',
         description: 'ATS is a statically typed programming language that unifies implementation with formal specification.',
         link: 'https://ats-lang.sourceforge.net/'
+    },
+    {
+        name: 'BITBITJUMP',
+        description: 'BitBitJump is one of the simplest OISC languages. It allows calculations by only bit copying process without using conventional logic operations like AND, OR, XOR, NAND, or NOT.',
+        link: 'https://esolangs.org/wiki/BitBitJump'
     }
 ];
 
