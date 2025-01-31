@@ -21,26 +21,28 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [ActionScript](source/basic/hello_world.as) - [ActionScript Language](https://en.wikipedia.org/wiki/ActionScript)
 3. [Ada](source/basic/hello_world.adb) - [Ada-lang](https://ada-lang.io/)
 4. [ALGOL 68](source/basic/hello_world.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
-5. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
-6. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
-7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
-9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+5. [APL](source/basic/hello_world.apl) - [APL Wiki](https://aplwiki.com/)
+6. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+7. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+8. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+9. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
+10. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
 
 
 ### B
 
 1. [B](source/basic/hello_world.b) - [B](https://www.bell-labs.com/usr/dmr/www/bintro.html)
 2. [Ballerina](source/basic/hello_world.bal) - [Ballerina Language](https://ballerina.io/)
-3. [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
+3.  [BASIC](source/basic/hello_world.bas) - [Classic BASIC](https://www.vintage-basic.net/)  
 4. [Bash](source/basic/hello_world.sh) - [GNU Bash](https://www.gnu.org/software/bash/)  
 5. [Batch](source/basic/hello_world.bat) - [Windows Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
-6. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)  
-7. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
-8. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-9. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
-10. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
-11. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+6. [BCPL](source/basic/hello_world.bcpl) - [Basic Combined Programming Language](https://bcpl.org/)
+7. [Befunge 93](source/basic/helloworld.bfg) - [Befunge](https://catseye.tc/article/Languages.md#befunge-93)
+8. [Bhailang](source/hello_world.bhai) - [Bhailang.js.org](https://bhailang.js.org)  
+9. [Bicep](source/basic/hello.bicep) - [Bicep Language](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+10. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
+11. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
+12. [Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
 
 
 ### C
@@ -63,6 +65,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 16. [cypher](source/basic/hello_world.cypher) - [Cypher (query language)](https://neo4j.com/docs/cypher-manual/current/introduction/)
 17. [ChucK](source/basic/helloworld.ck) - [ChucK](https://chuck.cs.princeton.edu/) 
 18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
+19. [COW](source/basic/helloworld.cow) - [COW](https://bigzaphod.github.io/COW/)  
 
 ### D
 
@@ -91,6 +94,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 5. [forth](source/basic/hello_world.fth) - [Forth-standard.org](https://forth-standard.org/)
 6. [Fortran](source/basic/hello_world.f90) - [Fortran-lang.org](https://fortran-lang.org/)
 7. [Futhark](source/basic/hello_world.fut) - [Futhark-lang.org](https://futhark-lang.org/)
+8. [False](source/basic/helloworld.fls) - [False](https://strlen.com/files/lang/false/false.txt)
 
 ### G
 
@@ -154,11 +158,12 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### O
 
-1. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-2. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
-3. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
-4. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
-5. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/)
+1. [OAK](source/basic/helloworld.oak) - [OAK](https://oaklang.org/) 
+2. [Objective-C](source/basic/hello_world.m) - [Objective-C Apple Documentation](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+3. [OCaml](source/basic/hello_world.ml) - [OCaml.org](https://ocaml.org/)
+4. [Occam](source/basic/hello_world.occ) - [Occam Tutorial](https://www.cs.kent.ac.uk/projects/ofa/kroc/)
+5. [Oberon](source/basic/helloworld.obr) - [Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/index.html)
+6. [OpenCL](source/basic/helloworld.cl) - [OpenCL](https://www.khronos.org/opencl/) 
 
 ### P
 
@@ -191,6 +196,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [Ruby](source/basic/hello_world.rb) - [Ruby-lang.org](https://www.ruby-lang.org/en/)
 7. [Rust](source/basic/hello_world.rs) - [Rust-lang.org](https://www.rust-lang.org/)
 8. [Rebol](source/basic/helloworld.reb) - [Rebol](http://www.rebol.com/)
+9. [Rockstar](source/basic/helloworld.rks) - [Rockstar](http://www.rebol.com/)
 
 ### S
 

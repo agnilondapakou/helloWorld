@@ -11,7 +11,7 @@ const languages = [
     },
     {
         name: 'Ada',
-        description: 'Langage de programmation structuré pour systèmes embarqués',
+        description: 'Structured programming language for embedded systems',
         link: 'https://ada-lang.io/'
     },
     {
@@ -43,6 +43,11 @@ const languages = [
         name: 'Azle',
         description: 'Framework de développement moderne',
         link: 'https://demergent-labs.github.io/azle/'
+    },
+    {
+        name: 'APL',
+        description: 'Array-oriented programming language',
+        link: 'https://www.dyalog.com/apl.htm'
     },
     {
         name: 'B',
@@ -783,10 +788,36 @@ const languages = [
         name: 'SPIN',
         description: 'Programming language for Propeller microcontrollers',
         link: 'https://parallax.com/downloads/spin-programming-language/' 
-    }   
+    },
+    {   
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
+    },
+    {
+        name: 'Rockstar',
+        description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
+        link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'COW',
+        description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
+        link: 'https://bigzaphod.github.io/COW/'
+    },
+    {
+        name: 'OAK',
+        description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
+        link: 'https://oaklang.org/'
+    },
+    {
+        name: 'Befunge 93',
+        description: 'Befunge 93 is a two-dimensional esoteric programming language with the goal of being as difficult to compile as possible.',
+        link: 'https://catseye.tc/article/Languages.md#befunge-93'
+    },
+    {
+        name: 'False',
+        description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
+        link: 'https://strlen.com/files/lang/false/false.txt'
     }
 
 ];
