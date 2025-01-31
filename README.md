@@ -255,8 +255,9 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### Z
 
-1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
-2. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
+1. [Zenoh](source/basic/hello_world(Zenoh).py) - [Zenoh](https://zenoh.io/docs/getting-started/first-app/)
+2. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
+3. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
 
 ## Features
 
