@@ -903,6 +903,11 @@ const languages = [
         name: 'BoolFuck',
         description: 'Boolfuck is an esoteric programming language based on Brainfuck, but operating only on bits',
         link: 'https://samuelhughes.com/boof/'
+    },
+    {
+        name: 'BrainGolf',
+        description: 'Braingolf is a simple, symbol-based language.Every symbol in Braingolf is either an operator, a modifier, or a literal.',
+        link: 'https://github.com/dylanrenwick/braingolf'
     }
 ];
 
