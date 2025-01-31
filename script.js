@@ -938,6 +938,11 @@ const languages = [
         name: 'Burlesque',
         description: 'Burlesque is a concatenative, dynamic typed, lazy, probably esoteric programming language.',
         link: 'https://github.com/FMNSSun/Burlesque'
+    },
+    {
+        name: 'Caboose',
+        description: 'Caboose aims to be a simple and easy to learn language while still being powerful enough for everyday use.',
+        link: 'https://github.com/CabooseLang/Caboose'
     }
 ];
 
