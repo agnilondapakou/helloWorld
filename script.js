@@ -55,6 +55,11 @@ const languages = [
         link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'
     },
     {
+        name: 'Ballerina',
+        description: 'Langage de programmation orienté objet',
+        link: 'https://ballerina.io/'
+    },
+    {
         name: 'BASIC',
         description: 'Langage de programmation classique pour débutants',
         link: 'https://www.vintage-basic.net/'
