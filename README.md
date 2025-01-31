@@ -98,10 +98,11 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### G
 
-1. [GDScript](source/basic/helloworld.gd) - [Godot Engine](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-2. [GML](source/basic/helloWorld.gml) - [GameMaker](https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm)
-3. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
-4. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
+1. [Gambas](source/basic/hello_world.gambas) - [Gambas.sourceforge](https://gambas.sourceforge.net/)
+2. [GDScript](source/basic/helloworld.gd) - [Godot Engine](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
+3. [GML](source/basic/helloWorld.gml) - [GameMaker](https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm)
+4. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
+5. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
 
 ### H
 

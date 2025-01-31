@@ -800,6 +800,11 @@ const languages = [
         link: 'https://codewithrockstar.com/'
     },
     {
+        name: 'Gambas',
+        description: 'An object-oriented dialect of the BASIC programming language',
+        link: 'https://gambas.sourceforge.net/'
+    },
+    {
         name: 'NASM',
         description: 'An open-source assembler for x86 and x86-64 architectures ',
         link: 'https://cratecode.com/info/nasm'
