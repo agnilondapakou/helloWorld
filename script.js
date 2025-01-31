@@ -800,6 +800,11 @@ const languages = [
         link: 'https://codewithrockstar.com/'
     },
     {
+        name: 'NASM',
+        description: 'An open-source assembler for x86 and x86-64 architectures ',
+        link: 'https://cratecode.com/info/nasm'
+    },
+    {
         name: 'COW',
         description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
         link: 'https://bigzaphod.github.io/COW/'
@@ -819,7 +824,6 @@ const languages = [
         description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
         link: 'https://strlen.com/files/lang/false/false.txt'
     }
-
 ];
 
 function createAlphabetFilter() {

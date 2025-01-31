@@ -154,7 +154,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 ### N
 
-1. [Nim](source/basic/hello_world.nim) - [Nim-lang.org](https://nim-lang.org/)
+1. [NASM(Netwide-Assembler)](source/basic/hello_world_nasm.asm) - [NASM](https://cratecode.com/info/nasm)
+2. [Nim](source/basic/hello_world.nim) - [Nim-lang.org](https://nim-lang.org/)
 
 ### O
 
