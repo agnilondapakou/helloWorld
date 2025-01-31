@@ -908,6 +908,11 @@ const languages = [
         name: 'BrainGolf',
         description: 'Braingolf is a simple, symbol-based language.Every symbol in Braingolf is either an operator, a modifier, or a literal.',
         link: 'https://github.com/dylanrenwick/braingolf'
+    },
+    {
+        name: 'BrachyLog',
+        description: 'Brachylog is a declarative golfing language based on SWI-Prolog. It was created by Fatalize in 2015.',
+        link: 'https://github.com/JCumin/Brachylog'
     }
 ];
 
