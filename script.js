@@ -11,7 +11,7 @@ const languages = [
     },
     {
         name: 'Ada',
-        description: 'Langage de programmation structuré pour systèmes embarqués',
+        description: 'Structured programming language for embedded systems',
         link: 'https://ada-lang.io/'
     },
     {
@@ -45,9 +45,19 @@ const languages = [
         link: 'https://demergent-labs.github.io/azle/'
     },
     {
+        name: 'APL',
+        description: 'Array-oriented programming language',
+        link: 'https://www.dyalog.com/apl.htm'
+    },
+    {
         name: 'B',
         description: 'Programming language developed at Bell Labs & Predecessor to C',
         link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'
+    },
+    {
+        name: 'Ballerina',
+        description: 'Langage de programmation orienté objet',
+        link: 'https://ballerina.io/'
     },
     {
         name: 'BASIC',
@@ -793,6 +803,26 @@ const languages = [
         name: 'NASM',
         description: 'An open-source assembler for x86 and x86-64 architectures ',
         link: 'https://cratecode.com/info/nasm'
+    },
+    {
+        name: 'COW',
+        description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
+        link: 'https://bigzaphod.github.io/COW/'
+    },
+    {
+        name: 'OAK',
+        description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
+        link: 'https://oaklang.org/'
+    },
+    {
+        name: 'Befunge 93',
+        description: 'Befunge 93 is a two-dimensional esoteric programming language with the goal of being as difficult to compile as possible.',
+        link: 'https://catseye.tc/article/Languages.md#befunge-93'
+    },
+    {
+        name: 'False',
+        description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
+        link: 'https://strlen.com/files/lang/false/false.txt'
     }
 ];
 
