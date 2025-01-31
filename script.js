@@ -898,6 +898,11 @@ const languages = [
         name: 'BITBITJUMP',
         description: 'BitBitJump is one of the simplest OISC languages. It allows calculations by only bit copying process without using conventional logic operations like AND, OR, XOR, NAND, or NOT.',
         link: 'https://esolangs.org/wiki/BitBitJump'
+    },
+    {
+        name: 'BoolFuck',
+        description: 'Boolfuck is an esoteric programming language based on Brainfuck, but operating only on bits',
+        link: 'https://samuelhughes.com/boof/'
     }
 ];
 
