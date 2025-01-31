@@ -933,6 +933,11 @@ const languages = [
         name: 'Broccoli',
         description: 'Broccoli is an exciting new programming language that is guaranteed to make you pee your pants (in a good way)',
         link: 'https://github.com/broccoli-lang/broccoli'
+    },
+    {
+        name: 'Burlesque',
+        description: 'Burlesque is a concatenative, dynamic typed, lazy, probably esoteric programming language.',
+        link: 'https://github.com/FMNSSun/Burlesque'
     }
 ];
 

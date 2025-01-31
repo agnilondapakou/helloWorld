@@ -56,6 +56,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 15.[BrainGolf](source/basic/helloworld.bg) - [BrainGolf](https://github.com/dylanrenwick/braingolf)
 16.[BrachyLog](source/basic/helloworld.bcl) - [BrachyLog](https://github.com/JCumin/Brachylog)
 17.[Broccoli](source/basic/helloworld.brcl) - [Broccoli](https://github.com/broccoli-lang/broccoli)
+18.[Burlesque](source/basic/helloworld.brlsq) - [Burlesque](https://github.com/FMNSSun/Burlesque)
 
 
 ### C
