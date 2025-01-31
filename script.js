@@ -918,6 +918,11 @@ const languages = [
         name: 'BrachyLog',
         description: 'Brachylog is a declarative golfing language based on SWI-Prolog. It was created by Fatalize in 2015.',
         link: 'https://github.com/JCumin/Brachylog'
+    },
+    {
+        name: 'Broccoli',
+        description: 'Broccoli is an exciting new programming language that is guaranteed to make you pee your pants (in a good way)',
+        link: 'https://github.com/broccoli-lang/broccoli'
     }
 ];
 
