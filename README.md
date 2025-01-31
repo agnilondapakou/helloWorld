@@ -21,13 +21,20 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [ActionScript](source/basic/hello_world.as) - [ActionScript Language](https://en.wikipedia.org/wiki/ActionScript)
 3. [Ada](source/basic/hello_world.adb) - [Ada-lang](https://ada-lang.io/)
 4. [ALGOL 68](source/basic/hello_world.a68) - [ALGOL 68 Genie](https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html)
-5. [APL](source/basic/hello_world.apl) - [APL Wiki](https://aplwiki.com/)
-6. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
-7. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
-8. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
-9. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
-10. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
-
+5. [Applescript](source/basic/hello_world.scpt) - [Applescript-lang](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+6. [Assembly](source/basic/hello_world.asm) - [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+7. [AutoIt](source/basic/hello_world.au3) - [AutoIt](https://www.autoitscript.com/site/autoit/)
+8. [Awk](source/basic/hello_world.awk) - [Awklang.org](http://www.awklang.org/)
+9. [Azle](source/basic/hello_world.ts) - [Demergent Labs](https://demergent-labs.github.io/azle/)
+10.[ArnoldC](source/basic/helloworld.arnl) - [ArnoldC](https://banhawy.github.io/ArnoldC-Technical-Documentation/)
+11. [A Pear Tree](source/basic/helloworld.prtr) - [A Pear Tree](https://esolangs.org/wiki/A_Pear_Tree)
+12.[ABC](source/basic/helloworld.arnl) - [ABC](https://homepages.cwi.nl/~steven/abc/)
+13.[Aceto](source/basic/helloworld.act) - [Aceto](https://esolangs.org/wiki/Aceto)
+14.[Agda](source/basic/helloworld.agd) - [Agda](https://agda.readthedocs.io/en/latest/overview.html)
+15.[Agony](source/basic/helloworld.agn) - [Agony](https://esolangs.org/wiki/Agony)
+16.[Aheui](source/basic/helloworld.ah) - [Aheui](https://esolangs.org/wiki/Aheui#:~:text=Aheui%20(%EC%95%84%ED%9D%AC%20in%20Korean%20language,26%20stacks%20and%20one%20queue.)
+15.[Alchemist](source/basic/helloworld.almst) - [Alchemist](https://esolangs.org/wiki/Alchemist)
+16.[ATS](source/basic/helloworld.ats) - [ATS](https://ats-lang.sourceforge.net/)
 
 ### B
 
@@ -42,6 +49,10 @@ A modern web interface showcasing "Hello World" examples in various programming 
 9. [Blaz](source/hello_world.blaz) - [Blaze](https://github.com/vladimirdabic/Blaze)  
 10. [boo](source/basic/hello_world.boo) - [Boo](https://boo-language.github.io/)  
 10.[Brainfuck](source/basic/hello_world.bf) - [Brainfuck.org](https://brainfuck.org/)
+11.[Befunge 93](source/basic/helloworld.bfg) - [Befunge](https://catseye.tc/article/Languages.md#befunge-93)
+12.[Brain-Flak](source/basic/helloworld.brflk) - [Brain-Flak](https://github.com/DJMcMayhem/Brain-Flak)
+13.[BITBITJUMP](source/basic/helloworld.btbtjp) - [BITBITJUMP](https://esolangs.org/wiki/BitBitJump)
+14.[BoolFuck](source/basic/helloworld.blfk) - [BoolFuck](https://samuelhughes.com/boof/)
 
 
 ### C
@@ -101,6 +112,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [GML](source/basic/helloWorld.gml) - [GameMaker](https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm)
 3. [Go](source/basic/helloworld.go) - [Go.dev](https://go.dev/)
 4. [Groovy](source/basic/helloworld.groovy) - [Groovy-lang.org](https://groovy-lang.org/)
+5. [GolfScript](source/basic/helloworld.gs) - [GolfScript](https://www.golfscript.com/golfscript/index.html)
 
 ### H
 
@@ -125,12 +137,14 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Javascript](source/basic/hello_world.js) - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 5. [JavaServer Pages](source/basic/hello_world.jsp) - [JavaServer Pages Oracle](https://www.oracle.com/java/technologies/jspt.html)
 6. [Julia](source/basic/hello_world.jl) - [JuliaLang.org](https://julialang.org)
+7. [Jelly](source/basic/helloworld.jl) - [Jelly](https://docs.jellycuts.com/Getting_Started/language_overview.html)
 
 ### K
 
 1. [K](source/basic/hello_world.k) - [Kx.com](https://kx.com/)
 2. [KornShell](source/basic/hello_world.ksh) - [Kornshell.com](http://kornshell.com/)
 3. [Kotlin](source/basic/hello_world.kt) - [Kotlinlang.org](https://kotlinlang.org/)
+4. [Kipple](source/basic/helloworld.kpl) - [Kipple](https://www.pvv.ntnu.no/~runeberg/kipple/index.html)
 
 ### L
 
@@ -154,6 +168,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 ### N
 
 1. [Nim](source/basic/hello_world.nim) - [Nim-lang.org](https://nim-lang.org/)
+2. [NASM](source/basic/helloworld.nasm) - [NASM](https://cratecode.com/info/nasm)
 
 ### O
 
@@ -213,6 +228,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 12. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
 13. [Stata](source/basic/hello_world.do) - [Stata.com](https://www.stata.com/)
 14. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+15. [Seed](source/basic/helloworld.seed) - [Seed](https://esolangs.org/wiki/Seed)
 
 ### T
 
@@ -233,6 +249,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
 7. [VIM](source/basic/hello_world.vim) - [Vim-lang](https://www.vim.org/)
 8. [VisualBasic](source/basic/hello_world.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+8. [Velato](source/basic/helloworld.vlt) - [Velato](http://velato.net/)
 
 ### W
 
