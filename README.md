@@ -85,7 +85,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 23.[Ceylon](source/basic/helloworld.cyln) - [Ceylon](https://projects.eclipse.org/projects/technology.ceylon)
 24.[Charcol](source/basic/helloworld.crcl) - [Charcol](https://github.com/charcoal-lang/Charcoal)
 25.[Charm](source/basic/helloworld.chrm) - [Charm](https://en.wikipedia.org/wiki/Charm_(programming_language))
-
+26.[Checked C](source/basic/helloworld.chkdc) - [Checked C](https://github.com/checkedc/checkedc)
 
 ### D
 

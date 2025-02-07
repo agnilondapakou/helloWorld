@@ -968,6 +968,11 @@ const languages = [
         name: 'Charm',
         description: 'A computer programming language devised in the early 1990s with similarities to the RTL/2, Pascal and C languages in addition to containing some unique features of its own.',
         link: 'https://en.wikipedia.org/wiki/Charm_(programming_language)'
+    },
+    {
+        name: 'Checked C',
+        description: 'It extends C with bounds checking and improved type safety. It helps programmers retrofit existing C code to be more secure.',
+        link: 'https://github.com/checkedc/checkedc'
     }
 ];
 
