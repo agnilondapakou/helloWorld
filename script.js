@@ -958,6 +958,11 @@ const languages = [
         name: 'Ceylon',
         description: 'An object-oriented, strongly statically typed programming language with an emphasis on immutability, created by Red Hat.',
         link: 'https://projects.eclipse.org/projects/technology.ceylon'
+    },
+    {
+        name: 'Charcol',
+        description: 'An ASCII-art oriented prefix golfing language designed by the Programming Puzzles and Code Golf',
+        link: 'https://github.com/charcoal-lang/Charcoal'
     }
 ];
 
