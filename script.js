@@ -948,6 +948,11 @@ const languages = [
         name: 'Cardinal',
         description: 'An esoteric programming language by User:Madk, named for the directions that the instruction pointers can travel. Execution takes place on a 2D grid.',
         link: 'https://esolangs.org/wiki/Cardinal'
+    },
+    {
+        name: 'Carrot',
+        description: 'Carrot is an esoteric string-based programming language made for code-golfing. Its memory is based around a two-dimensional tape called a garden.',
+        link: 'https://github.com/kritixilithos/Carrot'
     }
 ];
 

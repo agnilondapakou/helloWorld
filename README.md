@@ -81,6 +81,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 19. [COW](source/basic/helloworld.cow) - [COW](https://bigzaphod.github.io/COW/)  
 20.[Caboose](source/basic/helloworld.cbs) - [Caboose](https://github.com/CabooseLang/Caboose)
 21.[Cardinal](source/basic/helloworld.crdnl) - [Cardinal](https://esolangs.org/wiki/Cardinal)
+22.[Carrot](source/basic/helloworld.crt) - [Carrot](https://github.com/kritixilithos/Carrot)
 
 
 ### D
