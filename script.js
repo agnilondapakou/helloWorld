@@ -943,6 +943,11 @@ const languages = [
         name: 'Caboose',
         description: 'Caboose aims to be a simple and easy to learn language while still being powerful enough for everyday use.',
         link: 'https://github.com/CabooseLang/Caboose'
+    },
+    {
+        name: 'Cardinal',
+        description: 'An esoteric programming language by User:Madk, named for the directions that the instruction pointers can travel. Execution takes place on a 2D grid.',
+        link: 'https://esolangs.org/wiki/Cardinal'
     }
 ];
 

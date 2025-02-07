@@ -80,6 +80,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 18. [COBOLScript](source/basic/helloworld.cbls) - [COBOLScript](https://sites.google.com/view/cobolscripting)  
 19. [COW](source/basic/helloworld.cow) - [COW](https://bigzaphod.github.io/COW/)  
 20.[Caboose](source/basic/helloworld.cbs) - [Caboose](https://github.com/CabooseLang/Caboose)
+21.[Cardinal](source/basic/helloworld.crdnl) - [Cardinal](https://esolangs.org/wiki/Cardinal)
 
 
 ### D
