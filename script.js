@@ -953,6 +953,11 @@ const languages = [
         name: 'Carrot',
         description: 'Carrot is an esoteric string-based programming language made for code-golfing. Its memory is based around a two-dimensional tape called a garden.',
         link: 'https://github.com/kritixilithos/Carrot'
+    },
+    {
+        name: 'Ceylon',
+        description: 'An object-oriented, strongly statically typed programming language with an emphasis on immutability, created by Red Hat.',
+        link: 'https://projects.eclipse.org/projects/technology.ceylon'
     }
 ];
 
