@@ -963,6 +963,11 @@ const languages = [
         name: 'Charcol',
         description: 'An ASCII-art oriented prefix golfing language designed by the Programming Puzzles and Code Golf',
         link: 'https://github.com/charcoal-lang/Charcoal'
+    },
+    {
+        name: 'Charm',
+        description: 'A computer programming language devised in the early 1990s with similarities to the RTL/2, Pascal and C languages in addition to containing some unique features of its own.',
+        link: 'https://en.wikipedia.org/wiki/Charm_(programming_language)'
     }
 ];
 
