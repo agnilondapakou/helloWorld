@@ -973,6 +973,11 @@ const languages = [
         name: 'Checked C',
         description: 'It extends C with bounds checking and improved type safety. It helps programmers retrofit existing C code to be more secure.',
         link: 'https://github.com/checkedc/checkedc'
+    },
+    {
+        name: 'Cheddar',
+        description: 'The goal of Cheddar is to be a fast, powerful, extensible programming language.',
+        link: 'https://cheddar.vihan.org/#:~:text=The%20goal%20of%20Cheddar%20is,the%20least%20syntax%20overhead%20possible.'
     }
 ];
 
