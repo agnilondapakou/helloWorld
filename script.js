@@ -978,6 +978,11 @@ const languages = [
         name: 'Cheddar',
         description: 'The goal of Cheddar is to be a fast, powerful, extensible programming language.',
         link: 'https://cheddar.vihan.org/#:~:text=The%20goal%20of%20Cheddar%20is,the%20least%20syntax%20overhead%20possible.'
+    },
+    {
+        name: 'Chez Scheme',
+        description: 'It is both a programming language and an implementation of that language, with supporting tools and documentation.',
+        link: 'https://cisco.github.io/ChezScheme/'
     }
 ];
 

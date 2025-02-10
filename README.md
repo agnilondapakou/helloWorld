@@ -87,6 +87,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 25.[Charm](source/basic/helloworld.chrm) - [Charm](https://en.wikipedia.org/wiki/Charm_(programming_language))
 26.[Checked C](source/basic/helloworld.chkdc) - [Checked C](https://github.com/checkedc/checkedc)
 27.[Cheddar](source/basic/helloworld.chdr) - [Cheddar](https://cheddar.vihan.org/#:~:text=The%20goal%20of%20Cheddar%20is,the%20least%20syntax%20overhead%20possible.)
+28.[Chez Scheme](source/basic/helloworld.chzshm) - [Chez Scheme](https://cisco.github.io/ChezScheme/)
 
 ### D
 
