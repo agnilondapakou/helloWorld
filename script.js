@@ -993,6 +993,11 @@ const languages = [
         name: 'Chip',
         description: 'Chip is a language that processes streams of bytes in a manner not dissimilar to an integrated circuit. A Chip circuit is a 3-dimensional specification; most computation occurring in 2-dimensions, with pins to allow layers to interact. ',
         link: 'https://github.com/Phlarx/chip'
+    },
+    {
+        name: 'CIL (Mono IL Assembler)',
+        description: 'The Common Intermediate Language is object-oriented and stack-based, which means that instruction parameters and results are kept on a single stack instead of in several registers or other memory locations, as in most programming languages.',
+        link: 'https://www.mono-project.com/docs/tools+libraries/tools/monodis/'
     }
 ];
 
