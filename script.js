@@ -983,6 +983,11 @@ const languages = [
         name: 'Chez Scheme',
         description: 'It is both a programming language and an implementation of that language, with supporting tools and documentation.',
         link: 'https://cisco.github.io/ChezScheme/'
+    },
+    {
+        name: 'Chicken Scheme',
+        description: 'It is a compiler for the Scheme programming language. It produces portable and efficient C and supports the R5RS and R7RS (work in progress) standards, and many extensions',
+        link: 'https://www.call-cc.org/'
     }
 ];
 
