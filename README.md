@@ -91,6 +91,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 29.[Chicken Scheme](source/basic/helloworld.chcnshm) - [Chicken Scheme](https://www.call-cc.org/)
 30.[Chip](source/basic/helloworld.chip) - [Chip](https://github.com/Phlarx/chip)
 31.[CIL (Mono IL Assembler)](source/basic/helloworld.cilmia) - [CIL (Mono IL Assembler)](https://www.mono-project.com/docs/tools+libraries/tools/monodis/)
+32.[Clam)](source/basic/helloworld.clam) - [Clam](https://github.com/dylanrenwick/Clam)
 
 ### D
 

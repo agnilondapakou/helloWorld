@@ -998,6 +998,11 @@ const languages = [
         name: 'CIL (Mono IL Assembler)',
         description: 'The Common Intermediate Language is object-oriented and stack-based, which means that instruction parameters and results are kept on a single stack instead of in several registers or other memory locations, as in most programming languages.',
         link: 'https://www.mono-project.com/docs/tools+libraries/tools/monodis/'
+    },
+    {
+        name: 'Clam',
+        description: 'It is a token-based language. The transpiler iterates through each character of source code one by one and, provided it is a valid Clam token, calls a function that will output JS code corresponding to that token. Some',
+        link: 'https://github.com/dylanrenwick/Clam'
     }
 ];
 
