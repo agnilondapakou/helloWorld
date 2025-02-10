@@ -988,6 +988,11 @@ const languages = [
         name: 'Chicken Scheme',
         description: 'It is a compiler for the Scheme programming language. It produces portable and efficient C and supports the R5RS and R7RS (work in progress) standards, and many extensions',
         link: 'https://www.call-cc.org/'
+    },
+    {
+        name: 'Chip',
+        description: 'Chip is a language that processes streams of bytes in a manner not dissimilar to an integrated circuit. A Chip circuit is a 3-dimensional specification; most computation occurring in 2-dimensions, with pins to allow layers to interact. ',
+        link: 'https://github.com/Phlarx/chip'
     }
 ];
 

@@ -89,6 +89,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 27.[Cheddar](source/basic/helloworld.chdr) - [Cheddar](https://cheddar.vihan.org/#:~:text=The%20goal%20of%20Cheddar%20is,the%20least%20syntax%20overhead%20possible.)
 28.[Chez Scheme](source/basic/helloworld.chzshm) - [Chez Scheme](https://cisco.github.io/ChezScheme/)
 29.[Chicken Scheme](source/basic/helloworld.chcnshm) - [Chicken Scheme](https://www.call-cc.org/)
+30.[Chip](source/basic/helloworld.chip) - [Chip](https://github.com/Phlarx/chip)
 
 ### D
 
