@@ -1023,6 +1023,11 @@ const languages = [
         name: 'Condit',
         description: 'An esoteric programming language "condit", created by Paul Equinox Collins.',
         link: 'https://github.com/TryItOnline/condit'
+    },
+    {
+        name: 'CPY',
+        description: 'It is a (Pre)Compiler of .cpy files, those are basically C++ without redundancy.',
+        link: 'https://github.com/vrsperanza/CPY'
     }
 ];
 

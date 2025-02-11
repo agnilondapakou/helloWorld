@@ -96,6 +96,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 34.[Coconut)](source/basic/helloworld.ccnt) - [Coconut](https://coconut.readthedocs.io/en/latest/DOCS.html)
 35.[Common LISP)](source/basic/helloworld.clisp) - [Common LISP](https://clisp.sourceforge.io/)
 36.[Condit)](source/basic/helloworld.cndt) - [Condit](https://github.com/TryItOnline/condit)
+37.[CPY)](source/basic/helloworld.cpy) - [CPY](https://github.com/vrsperanza/CPY)
 
 ### D
 
