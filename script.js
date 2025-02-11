@@ -1038,6 +1038,11 @@ const languages = [
         name: 'CY',
         description: 'Cy (pronounced like "sigh") is a development environment for the World Wide Hack -- a worldwide collaborative search through the space of useful software components.',
         link: 'https://github.com/cyoce/Cy'
+    },
+    {
+        name: 'Dafny',
+        description: "It is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications",
+        link: 'https://github.com/dafny-lang/dafny'
     }
 ];
 
