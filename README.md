@@ -98,6 +98,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 36.[Condit)](source/basic/helloworld.cndt) - [Condit](https://github.com/TryItOnline/condit)
 37.[CPY)](source/basic/helloworld.cpy) - [CPY](https://github.com/vrsperanza/CPY)
 38.[Cubix)](source/basic/helloworld.cbx) - [Cubix](https://github.com/ETHproductions/cubix)
+39.[CY)](source/basic/helloworld.cy) - [CY](https://github.com/cyoce/Cy)
 
 ### D
 

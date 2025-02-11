@@ -1033,6 +1033,11 @@ const languages = [
         name: 'Cubix',
         description: 'A 2D esoteric language wrapped around the faces of a cube. Online interpreter, Code design helper',
         link: 'https://github.com/ETHproductions/cubix'
+    },
+    {
+        name: 'CY',
+        description: 'Cy (pronounced like "sigh") is a development environment for the World Wide Hack -- a worldwide collaborative search through the space of useful software components.',
+        link: 'https://github.com/cyoce/Cy'
     }
 ];
 
