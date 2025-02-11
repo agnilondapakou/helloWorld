@@ -1008,6 +1008,11 @@ const languages = [
         name: 'Cobra',
         description: 'It is an imperative, high-level, object-oriented language with direct support for contracts, unit tests and compile-time nil tracking',
         link: 'http://cobra-language.com/'
+    },
+    {
+        name: 'Coconut',
+        description: 'It is a variant of Python built for simple, elegant, Pythonic functional programming. Coconut syntax is a strict superset of the latest Python 3 syntax.',
+        link: 'https://coconut.readthedocs.io/en/latest/DOCS.html'
     }
 ];
 

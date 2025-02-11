@@ -93,6 +93,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 31.[CIL (Mono IL Assembler)](source/basic/helloworld.cilmia) - [CIL (Mono IL Assembler)](https://www.mono-project.com/docs/tools+libraries/tools/monodis/)
 32.[Clam)](source/basic/helloworld.clam) - [Clam](https://github.com/dylanrenwick/Clam)
 33.[Cobra)](source/basic/helloworld.cbra) - [Cobra](http://cobra-language.com/)
+34.[Coconut)](source/basic/helloworld.ccnt) - [Coconut](https://coconut.readthedocs.io/en/latest/DOCS.html)
 
 ### D
 
