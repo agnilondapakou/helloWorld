@@ -1,0 +1,6 @@
+ext proc write_string (ref array char);
+module hello;
+    ent proc start ();
+        write_string ("Hello world");
+    end_proc;
+end_module;
