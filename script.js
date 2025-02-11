@@ -1013,6 +1013,11 @@ const languages = [
         name: 'Coconut',
         description: 'It is a variant of Python built for simple, elegant, Pythonic functional programming. Coconut syntax is a strict superset of the latest Python 3 syntax.',
         link: 'https://coconut.readthedocs.io/en/latest/DOCS.html'
+    },
+    {
+        name: 'Common LISP',
+        description: 'It is a high-level, general-purpose, object-oriented, dynamic, functional programming language.',
+        link: 'https://clisp.sourceforge.io/'
     }
 ];
 

@@ -94,6 +94,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 32.[Clam)](source/basic/helloworld.clam) - [Clam](https://github.com/dylanrenwick/Clam)
 33.[Cobra)](source/basic/helloworld.cbra) - [Cobra](http://cobra-language.com/)
 34.[Coconut)](source/basic/helloworld.ccnt) - [Coconut](https://coconut.readthedocs.io/en/latest/DOCS.html)
+35.[Common LISP)](source/basic/helloworld.clisp) - [Common LISP](https://clisp.sourceforge.io/)
 
 ### D
 
