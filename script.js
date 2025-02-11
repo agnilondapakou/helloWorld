@@ -1018,6 +1018,11 @@ const languages = [
         name: 'Common LISP',
         description: 'It is a high-level, general-purpose, object-oriented, dynamic, functional programming language.',
         link: 'https://clisp.sourceforge.io/'
+    },
+    {
+        name: 'Condit',
+        description: 'An esoteric programming language "condit", created by Paul Equinox Collins.',
+        link: 'https://github.com/TryItOnline/condit'
     }
 ];
 

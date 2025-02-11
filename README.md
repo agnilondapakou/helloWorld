@@ -95,6 +95,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 33.[Cobra)](source/basic/helloworld.cbra) - [Cobra](http://cobra-language.com/)
 34.[Coconut)](source/basic/helloworld.ccnt) - [Coconut](https://coconut.readthedocs.io/en/latest/DOCS.html)
 35.[Common LISP)](source/basic/helloworld.clisp) - [Common LISP](https://clisp.sourceforge.io/)
+36.[Condit)](source/basic/helloworld.cndt) - [Condit](https://github.com/TryItOnline/condit)
 
 ### D
 
