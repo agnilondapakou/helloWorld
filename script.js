@@ -1003,6 +1003,11 @@ const languages = [
         name: 'Clam',
         description: 'It is a token-based language. The transpiler iterates through each character of source code one by one and, provided it is a valid Clam token, calls a function that will output JS code corresponding to that token. Some',
         link: 'https://github.com/dylanrenwick/Clam'
+    },
+    {
+        name: 'Cobra',
+        description: 'It is an imperative, high-level, object-oriented language with direct support for contracts, unit tests and compile-time nil tracking',
+        link: 'http://cobra-language.com/'
     }
 ];
 
