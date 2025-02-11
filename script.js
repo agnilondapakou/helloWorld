@@ -1028,6 +1028,11 @@ const languages = [
         name: 'CPY',
         description: 'It is a (Pre)Compiler of .cpy files, those are basically C++ without redundancy.',
         link: 'https://github.com/vrsperanza/CPY'
+    },
+    {
+        name: 'Cubix',
+        description: 'A 2D esoteric language wrapped around the faces of a cube. Online interpreter, Code design helper',
+        link: 'https://github.com/ETHproductions/cubix'
     }
 ];
 
