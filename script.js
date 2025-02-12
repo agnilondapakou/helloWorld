@@ -1078,6 +1078,11 @@ const languages = [
         name: 'ELVM-IR',
         description: "It is similar to LLVM but dedicated to Esoteric Languages. This project consists of two components - frontend and backend. ",
         link: 'https://github.com/shinh/elvm'
+    },
+    {
+        name: 'Emacs-Lisp',
+        description: "It is Reference Manual and several other manuals documenting major modes and other optional features",
+        link: 'https://www.gnu.org/software/emacs/manual/eintr.html'
     }
 ];
 
