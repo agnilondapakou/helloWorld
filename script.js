@@ -1063,6 +1063,11 @@ const languages = [
         name: 'Dyvil',
         description: "It is a multi-paradigm, general purpose programming language that is based on Java and the JVM.",
         link: 'https://github.com/dyvil/dyvil'
+    },
+    {
+        name: 'Egel',
+        description: "It is an untyped concurrent functional scripting language based on eager combinator rewriting with a concise but remarkably powerful syntax.",
+        link: 'https://github.com/egel-lang/egel'
     }
 ];
 
