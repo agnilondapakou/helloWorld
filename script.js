@@ -1048,6 +1048,11 @@ const languages = [
         name: 'Detour',
         description: "An Esoteric Language with 2D data flow",
         link: 'https://github.com/cyoce/detour'
+    },
+    {
+        name: 'Dirty',
+        description: "A two-dimensional, lazily evaluated recreational language, implemented in Clean.",
+        link: 'https://github.com/Ourous/dirty'
     }
 ];
 

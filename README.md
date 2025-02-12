@@ -110,6 +110,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 6. [Dylan](source/basic/hello_world.dylan) - [OpenDylan.org](https://opendylan.org/)
 7. [Dafny](source/basic/hello_world.dfny) - [Dafny](https://github.com/dafny-lang/dafny)
 8. [Detour](source/basic/hello_world.dtr) - [Detour](https://github.com/cyoce/detour)
+9. [Dirty](source/basic/hello_world.dtry) - [Dirty](https://github.com/Ourous/dirty)
 
 ### E
 
