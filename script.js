@@ -1043,6 +1043,11 @@ const languages = [
         name: 'Dafny',
         description: "It is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications",
         link: 'https://github.com/dafny-lang/dafny'
+    },
+    {
+        name: 'Detour',
+        description: "An Esoteric Language with 2D data flow",
+        link: 'https://github.com/cyoce/detour'
     }
 ];
 
