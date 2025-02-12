@@ -115,6 +115,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 11. [Dyvil](source/basic/hello_world.dyvl) - [Dyvil](https://github.com/dyvil/dyvil)
 12. [Egel](source/basic/hello_world.egl) - [Egel](https://github.com/egel-lang/egel)
 13. [Element](source/basic/hello_world.elmnt) - [Element](https://github.com/PhiNotPi/Element)
+14. [ELVM-IR](source/basic/hello_world.elvmir) - [ELVM-IR](https://github.com/shinh/elvm)
 
 ### E
 

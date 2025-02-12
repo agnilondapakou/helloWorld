@@ -1073,6 +1073,11 @@ const languages = [
         name: 'Element',
         description: "It is a simple golfing language that compiles to Perl. It was first created in March 2012.",
         link: 'https://github.com/PhiNotPi/Element'
+    },
+    {
+        name: 'ELVM-IR',
+        description: "It is similar to LLVM but dedicated to Esoteric Languages. This project consists of two components - frontend and backend. ",
+        link: 'https://github.com/shinh/elvm'
     }
 ];
 
