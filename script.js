@@ -1058,6 +1058,11 @@ const languages = [
         name: 'DStack',
         description: "It is a stack-based esoteric language created by User:-Dark-Phantom- on November, 2015. ",
         link: 'https://github.com/alejandrocoria/DStack'
+    },
+    {
+        name: 'Dyvil',
+        description: "It is a multi-paradigm, general purpose programming language that is based on Java and the JVM.",
+        link: 'https://github.com/dyvil/dyvil'
     }
 ];
 
