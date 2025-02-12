@@ -114,6 +114,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 10. [DStack](source/basic/hello_world.dstk) - [DStack](https://github.com/alejandrocoria/DStack)
 11. [Dyvil](source/basic/hello_world.dyvl) - [Dyvil](https://github.com/dyvil/dyvil)
 12. [Egel](source/basic/hello_world.egl) - [Egel](https://github.com/egel-lang/egel)
+13. [Element](source/basic/hello_world.elmnt) - [Element](https://github.com/PhiNotPi/Element)
 
 ### E
 

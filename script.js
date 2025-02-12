@@ -1068,6 +1068,11 @@ const languages = [
         name: 'Egel',
         description: "It is an untyped concurrent functional scripting language based on eager combinator rewriting with a concise but remarkably powerful syntax.",
         link: 'https://github.com/egel-lang/egel'
+    },
+    {
+        name: 'Element',
+        description: "It is a simple golfing language that compiles to Perl. It was first created in March 2012.",
+        link: 'https://github.com/PhiNotPi/Element'
     }
 ];
 
