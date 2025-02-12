@@ -1053,6 +1053,11 @@ const languages = [
         name: 'Dirty',
         description: "A two-dimensional, lazily evaluated recreational language, implemented in Clean.",
         link: 'https://github.com/Ourous/dirty'
+    },
+    {
+        name: 'DStack',
+        description: "It is a stack-based esoteric language created by User:-Dark-Phantom- on November, 2015. ",
+        link: 'https://github.com/alejandrocoria/DStack'
     }
 ];
 

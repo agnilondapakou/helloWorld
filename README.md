@@ -111,6 +111,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 7. [Dafny](source/basic/hello_world.dfny) - [Dafny](https://github.com/dafny-lang/dafny)
 8. [Detour](source/basic/hello_world.dtr) - [Detour](https://github.com/cyoce/detour)
 9. [Dirty](source/basic/hello_world.dtry) - [Dirty](https://github.com/Ourous/dirty)
+10. [DStack](source/basic/hello_world.dstk) - [DStack](https://github.com/alejandrocoria/DStack)
 
 ### E
 
