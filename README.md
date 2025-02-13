@@ -133,6 +133,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 15. [Emotif**k](source/basic/hello_world.emtfck) - [Emotif**k](https://github.com/Romulus10/emotif___)
 16. [Emotinomicon](source/basic/hello_world.emtnmcn) - [Emotinomicon](https://github.com/ConorOBrien-Foxx/Emotinomicon)
 17. [ES](source/basic/hello_world.es) - [ES](https://github.com/wryun/es-shell)
+18. [ETA](source/basic/hello_world.eta) - [ETA](https://www.miketaylor.org.uk/tech/eta/doc/)
 
 ### F
 

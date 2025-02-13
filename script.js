@@ -1118,6 +1118,11 @@ const languages = [
         name: 'ES',
         description: "It is an extensible shell. The language was derived from the Plan 9 shell, rc, and was influenced by functional programming languages, such as Scheme, and the Tcl embeddable programming language.",
         link: 'https://github.com/wryun/es-shell'
+    },
+    {
+        name: 'ETA',
+        description: "The programming language that not only resembles natural language, but can resemble whatever specific natural language you want (with the exception of those that require non-Latin characters: apologies to Chinese and Japanese programmers.)",
+        link: 'https://www.miketaylor.org.uk/tech/eta/doc/'
     }
 ];
 
