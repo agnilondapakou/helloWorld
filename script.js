@@ -1113,6 +1113,11 @@ const languages = [
         name: 'Emotinomicon',
         description: "It is a stack-based language by User:Conor O'Brien. Source code in this language is text built from emoticon characters. ",
         link: 'https://github.com/ConorOBrien-Foxx/Emotinomicon'
+    },
+    {
+        name: 'ES',
+        description: "It is an extensible shell. The language was derived from the Plan 9 shell, rc, and was influenced by functional programming languages, such as Scheme, and the Tcl embeddable programming language.",
+        link: 'https://github.com/wryun/es-shell'
     }
 ];
 
