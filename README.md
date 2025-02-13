@@ -131,6 +131,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 13. [EmojiCode](source/basic/hello_world.emjcd) - [EmojiCode](https://www.emojicode.org/)
 14. [EmojiCoder](source/basic/hello_world.emjcdr) - [EmojiCoder](https://esolangs.org/wiki/EmojiCoder)
 15. [Emotif**k](source/basic/hello_world.emtfck) - [Emotif**k](https://github.com/Romulus10/emotif___)
+16. [Emotinomicon](source/basic/hello_world.emtnmcn) - [Emotinomicon](https://github.com/ConorOBrien-Foxx/Emotinomicon)
 
 ### F
 

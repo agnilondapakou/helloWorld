@@ -1108,6 +1108,11 @@ const languages = [
         name: 'Emotif**k',
         description: "It is an esoteric, Turing-complete programming language created in 1993 by Urban Müller. It consists of 8 commands and an instruction pointer.",
         link: 'https://github.com/Romulus10/emotif___'
+    },
+    {
+        name: 'Emotinomicon',
+        description: "It is a stack-based language by User:Conor O'Brien. Source code in this language is text built from emoticon characters. ",
+        link: 'https://github.com/ConorOBrien-Foxx/Emotinomicon'
     }
 ];
 
