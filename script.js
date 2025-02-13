@@ -1083,6 +1083,11 @@ const languages = [
         name: 'Emacs-Lisp',
         description: "It is Reference Manual and several other manuals documenting major modes and other optional features",
         link: 'https://www.gnu.org/software/emacs/manual/eintr.html'
+    },
+    {
+        name: 'Emoji',
+        description: "It is a stack-based esoteric programming language that uses emoji to manipulate the stack. In most cases, non-emoji characters are ignored.",
+        link: 'https://esolangs.org/wiki/Emoji'
     }
 ];
 
