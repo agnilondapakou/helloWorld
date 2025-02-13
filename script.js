@@ -1103,6 +1103,11 @@ const languages = [
         name: 'EmojiCoder',
         description: "It is an esoteric programming language that uses emoji to represent commands and arguments.",
         link: 'https://esolangs.org/wiki/EmojiCoder'
+    },
+    {
+        name: 'Emotif**k',
+        description: "It is an esoteric, Turing-complete programming language created in 1993 by Urban Müller. It consists of 8 commands and an instruction pointer.",
+        link: 'https://github.com/Romulus10/emotif___'
     }
 ];
 
