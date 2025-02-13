@@ -128,6 +128,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 10. [Emacs-Lisp](source/basic/hello_world.emclsp) - [Emacs-Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 11. [Emoji](source/basic/hello_world.emj) - [Emoji](https://esolangs.org/wiki/Emoji)
 12. [Emoji Gramming](source/basic/hello_world.emjgrmng) - [Emoji Gramming](https://esolangs.org/wiki/Emoji-gramming)
+13. [EmojiCode](source/basic/hello_world.emjcd) - [EmojiCode](https://www.emojicode.org/)
 
 ### F
 

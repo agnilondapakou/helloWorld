@@ -1093,6 +1093,11 @@ const languages = [
         name: 'Emoji Gramming',
         description: "It (proper name 💻) is a simple emoji-based esolang.",
         link: 'https://esolangs.org/wiki/Emoji-gramming'
+    },
+    {
+        name: 'EmojiCode',
+        description: "It is an open-source,full-blown programming languageconsisting of emojis.",
+        link: 'https://www.emojicode.org/'
     }
 ];
 
