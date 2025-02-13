@@ -135,6 +135,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 17. [ES](source/basic/hello_world.es) - [ES](https://github.com/wryun/es-shell)
 18. [ETA](source/basic/hello_world.eta) - [ETA](https://www.miketaylor.org.uk/tech/eta/doc/)
 19. [Evil](source/basic/hello_world.evl) - [Evil](https://web.archive.org/web/20070103000858/www1.pacific.edu/~twrensch/evil/index.html)
+20. [Explode](source/basic/hello_world.expld) - [Explode](https://github.com/stestoltz/Explode)
 
 ### F
 

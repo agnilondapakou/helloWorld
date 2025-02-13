@@ -1128,6 +1128,11 @@ const languages = [
         name: 'Evil',
         description: "It is a programming language with a simple execution model and an even simpler syntax. The cost for this is that writing programs is quite painful. A good language for masocistic computer scientists.",
         link: 'https://web.archive.org/web/20070103000858/www1.pacific.edu/~twrensch/evil/index.html'
+    },
+    {
+        name: 'Explode',
+        description: "It is a WIP tape-based esolang that is probably not Turing complete. Explore Explode at your own risk, because anything non-trivial may frustrate you more than you wish.",
+        link: 'https://github.com/stestoltz/Explode'
     }
 ];
 
