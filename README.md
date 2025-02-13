@@ -129,6 +129,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 11. [Emoji](source/basic/hello_world.emj) - [Emoji](https://esolangs.org/wiki/Emoji)
 12. [Emoji Gramming](source/basic/hello_world.emjgrmng) - [Emoji Gramming](https://esolangs.org/wiki/Emoji-gramming)
 13. [EmojiCode](source/basic/hello_world.emjcd) - [EmojiCode](https://www.emojicode.org/)
+14. [EmojiCoder](source/basic/hello_world.emjcdr) - [EmojiCoder](https://esolangs.org/wiki/EmojiCoder)
 
 ### F
 

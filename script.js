@@ -1098,6 +1098,11 @@ const languages = [
         name: 'EmojiCode',
         description: "It is an open-source,full-blown programming languageconsisting of emojis.",
         link: 'https://www.emojicode.org/'
+    },
+    {
+        name: 'EmojiCoder',
+        description: "It is an esoteric programming language that uses emoji to represent commands and arguments.",
+        link: 'https://esolangs.org/wiki/EmojiCoder'
     }
 ];
 
