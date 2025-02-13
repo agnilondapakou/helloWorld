@@ -1123,6 +1123,11 @@ const languages = [
         name: 'ETA',
         description: "The programming language that not only resembles natural language, but can resemble whatever specific natural language you want (with the exception of those that require non-Latin characters: apologies to Chinese and Japanese programmers.)",
         link: 'https://www.miketaylor.org.uk/tech/eta/doc/'
+    },
+    {
+        name: 'Evil',
+        description: "It is a programming language with a simple execution model and an even simpler syntax. The cost for this is that writing programs is quite painful. A good language for masocistic computer scientists.",
+        link: 'https://web.archive.org/web/20070103000858/www1.pacific.edu/~twrensch/evil/index.html'
     }
 ];
 
