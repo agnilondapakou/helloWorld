@@ -1088,6 +1088,11 @@ const languages = [
         name: 'Emoji',
         description: "It is a stack-based esoteric programming language that uses emoji to manipulate the stack. In most cases, non-emoji characters are ignored.",
         link: 'https://esolangs.org/wiki/Emoji'
+    },
+    {
+        name: 'Emoji Gramming',
+        description: "It (proper name 💻) is a simple emoji-based esolang.",
+        link: 'https://esolangs.org/wiki/Emoji-gramming'
     }
 ];
 
