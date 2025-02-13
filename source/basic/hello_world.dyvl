@@ -1,0 +1,4 @@
+class Main
+{
+	static func main(args: [String]) = print 'Hello, World!'
+}
