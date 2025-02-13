@@ -113,9 +113,6 @@ A modern web interface showcasing "Hello World" examples in various programming 
 9. [Dirty](source/basic/hello_world.dtry) - [Dirty](https://github.com/Ourous/dirty)
 10. [DStack](source/basic/hello_world.dstk) - [DStack](https://github.com/alejandrocoria/DStack)
 11. [Dyvil](source/basic/hello_world.dyvl) - [Dyvil](https://github.com/dyvil/dyvil)
-12. [Egel](source/basic/hello_world.egl) - [Egel](https://github.com/egel-lang/egel)
-13. [Element](source/basic/hello_world.elmnt) - [Element](https://github.com/PhiNotPi/Element)
-14. [ELVM-IR](source/basic/hello_world.elvmir) - [ELVM-IR](https://github.com/shinh/elvm)
 
 ### E
 
@@ -125,6 +122,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
 5. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
 6. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
+7. [ELVM-IR](source/basic/hello_world.elvmir) - [ELVM-IR](https://github.com/shinh/elvm)
 
 ### F
 
