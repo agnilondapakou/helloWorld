@@ -122,7 +122,8 @@ A modern web interface showcasing "Hello World" examples in various programming 
 4. [Elm](source/basic/hello_world.elm) - [Guide.elm-lang.org](https://guide.elm-lang.org/)
 5. [Erlang](source/basic/hello_world.erl) - [Erlang.org](https://www.erlang.org/)
 6. [Euphoria](source/basic/hello_world.ex) - [openeuphoria.org](https://openeuphoria.org/)
-7. [Element](source/basic/hello_world.elmnt) - [Element](https://github.com/PhiNotPi/Element)
+7. [Egel](source/basic/hello_world.egl) - [Egel](https://github.com/egel-lang/egel)
+8. [Element](source/basic/hello_world.elmnt) - [Element](https://github.com/PhiNotPi/Element)
 
 ### F
 
