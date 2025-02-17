@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Zennode',
+        description: 'A high-level, object-oriented programming language designed for building enterprise-level applications.',
+        link: 'https://archive.org/details/zennode?utm_source=chatgpt.com'
     }
 
 ];
