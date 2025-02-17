@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    }, 
+    {
+        name: 'ZigZag',
+        description: 'A hardware architecture (hardware)-mapping design space exploration (DSE) framework for deep learning (DL) accelerators',
+        link: 'https://kuleuven-micas.github.io/zigzag/'
     }
 
 ];
