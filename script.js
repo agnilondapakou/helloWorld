@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'ZIMPL',
+        description: 'little language to translate the mathematical model of a problem into code',
+        link: 'https://zimpl.zib.de/'
     }
 
 ];
