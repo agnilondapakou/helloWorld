@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Zenoh',
+        description: 'A protocol and middleware for distributed systems',
+        link: 'https://zenoh.io/docs/getting-started/first-app/'
     }
 
 ];
