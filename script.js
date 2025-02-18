@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Zonnon',
+        description: 'A programming language in the Pascal/Modula family, with added object-oriented and concurrency features',
+        link: 'https://zonnon.org/'
     }
 
 ];
