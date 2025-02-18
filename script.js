@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Zeno',
+        description: 'an esoteric programming language.',
+        link: 'https://esolangs.org/wiki/Zeno_(Archived)'
     }
 
 ];
