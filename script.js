@@ -134,7 +134,7 @@ const languages = [
         description: 'Object oriented programming language',
         link: 'http://www.erights.org/'
     },
-     {
+    {
         name: 'Delphi',
         description: 'Object oriented programming Language created by Borland ',
         link: 'https://learndelphi.org/'
@@ -294,7 +294,7 @@ const languages = [
         description: 'Langage de programmation client-side',
         link: 'https://www.typescriptlang.org/'
     },
-      {
+    {
         name: 'Transact-SQL',
         description: 'Microsoft SQL Server',
         link: 'https://learn.massstreet.net/transact-sql/basic/hello-world.html'
@@ -614,7 +614,7 @@ const languages = [
         description: 'Langage de requête XML',
         link: 'https://www.w3.org/TR/xquery-31/'
     },
-     {
+    {
         name: 'Xojo',
         description: 'Build Native, Cross-Platform Apps',
         link: 'https://www.xojo.com'
@@ -730,39 +730,39 @@ const languages = [
         link: 'https://wren.io/'
     },
     {
-        name: 'ChucK',  
+        name: 'ChucK',
         description: 'Strongly-timed, concurrent audio programming language',
-        link: 'https://chuck.cs.princeton.edu/'  
+        link: 'https://chuck.cs.princeton.edu/'
     },
     {
         name: 'COBOLScript',
         description: 'Scripting variant of COBOL',
-        link: 'https://sites.google.com/view/cobolscripting'  
+        link: 'https://sites.google.com/view/cobolscripting'
     },
     {
         name: 'LiveCode',
         description: 'Visual, high-level programming language',
-        link: 'https://livecode.com/'  
+        link: 'https://livecode.com/'
     },
     {
         name: 'Monkey X',
         description: 'Programming language for game development',
-        link: 'https://monkeycoder.co.nz/'  
+        link: 'https://monkeycoder.co.nz/'
     },
     {
         name: 'MQL',
         description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
-        link: 'https://www.mql5.com/'  
+        link: 'https://www.mql5.com/'
     },
     {
         name: 'Oberon',
         description: 'Programming language from the Pascal family',
-        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
+        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html'
     },
     {
         name: 'OpenCL',
         description: 'Programming language for parallel programming',
-        link: 'https://www.khronos.org/opencl/'  
+        link: 'https://www.khronos.org/opencl/'
     },
     {
         name: 'Pico',
@@ -777,19 +777,19 @@ const languages = [
     {
         name: 'Processing',
         description: 'Visual arts-focused programming language and environment',
-        link: 'https://processing.org/' 
+        link: 'https://processing.org/'
     },
     {
         name: 'Rebol',
         description: 'Relative Expression-Based Object Language for lightweight scripting',
-        link: 'http://www.rebol.com/' 
+        link: 'http://www.rebol.com/'
     },
     {
         name: 'SPIN',
         description: 'Programming language for Propeller microcontrollers',
-        link: 'https://parallax.com/downloads/spin-programming-language/' 
+        link: 'https://parallax.com/downloads/spin-programming-language/'
     },
-    {   
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
@@ -811,7 +811,7 @@ const languages = [
     },
     {
         name: 'COW',
-        description: 'An esoteric programming language.It is a Brainfuck variant designed humorously with Bovinae in mind',
+        description: 'An esoteric programming language. It is a Brainfuck variant designed humorously with Bovinae in mind',
         link: 'https://bigzaphod.github.io/COW/'
     },
     {
@@ -901,8 +901,30 @@ function showError() {
     errorMessage.textContent = 'Unable to load languages. Please try again later.';
 }
 
+function setupBackToTop() {
+    const backToTopButton = document.getElementById('backToTop');
+
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) { // Show button after scrolling 300px
+            backToTopButton.classList.add('visible');
+        } else {
+            backToTopButton.classList.remove('visible');
+        }
+    });
+
+    // Scroll to top when clicked
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth' // Smooth scrolling
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     createAlphabetFilter();
     createLanguageCards();
     setupSearch();
-}); 
+    setupBackToTop();
+});
