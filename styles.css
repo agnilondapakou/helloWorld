@@ -77,19 +77,6 @@ h1 span.documentation {
     color: var(--text-light);
 }
 
-#searchInput::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -1;
-    margin: -2px;
-    border-radius: inherit;
-    background: var(--gradient-text);
-}
-
 #searchInput:focus {
     border-color: var(--primary-hover);
     box-shadow: 0 0 20px var(--shadow-dark);
@@ -211,7 +198,6 @@ h1 span.documentation {
     transform: translateX(5px);
 }
 
-/* Animation de pulsation pour les éléments actifs */
 @keyframes pulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.05); }
@@ -222,7 +208,6 @@ h1 span.documentation {
     animation: pulse 2s infinite;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
     .container {
         padding: 1rem;
@@ -242,7 +227,6 @@ h1 span.documentation {
     }
 }
 
-/* Scrollbar personnalisée */
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -260,7 +244,6 @@ h1 span.documentation {
     background: var(--primary-hover);
 }
 
-/* Style pour le message descriptif */
 .description {
     text-align: center;
     color: var(--text-gray);
@@ -268,7 +251,6 @@ h1 span.documentation {
     font-size: 1.1rem;
 }
 
-/* Style pour le message d'erreur */
 .error-message {
     background-color: rgba(239, 68, 68, 0.1);
     color: var(--error-color);
@@ -278,7 +260,6 @@ h1 span.documentation {
     margin: 1rem 0;
 }
 
-/* Style pour le lien source */
 .source-link {
     background: var(--gradient-text);
     -webkit-background-clip: text;
@@ -292,7 +273,6 @@ h1 span.documentation {
     text-decoration: underline;
 }
 
-/* Ajouter une animation de dégradé en arrière-plan */
 @keyframes gradientBG {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -308,4 +288,78 @@ h1 span.documentation {
 .language-card:hover .language-link {
     color: var(--text-light);
     background-color: var(--primary-color);
-} 
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: var(--gradient-bg);
+    color: var(--text-light);
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 10px var(--shadow-dark);
+    z-index: 1000;
+}
+
+.back-to-top:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px var(--shadow-dark);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: var(--gradient-bg);
+    color: var(--text-light);
+    border: none;
+    border-radius: 50%;
+    width: 50px; 
+    height: 60px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 10px var(--shadow-dark);
+    z-index: 1000;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+}
+
+.back-to-top:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px var(--shadow-dark);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.arrow {
+    font-size: 1.5rem; 
+    line-height: 1; 
+}
+
+.top-text {
+    font-size: 0.9rem; 
+    line-height: 1; 
+}
