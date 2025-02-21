@@ -249,6 +249,7 @@ A modern web interface showcasing "Hello World" examples in various programming 
 
 1. [Zig](source/basic/hello_world.zig) - [Ziglang.org](https://ziglang.org/)
 2. [Zonnon](source/basic/hello_world.NET) - [Zonnon](https://zonnon.org/)
+3. [Zsh](source/basic/hello_world.zsh) - [Z shell](https://zsh.sourceforge.io/)
 
 ## Features
 
