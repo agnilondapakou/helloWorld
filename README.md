@@ -229,11 +229,11 @@ A modern web interface showcasing "Hello World" examples in various programming 
 2. [Vala](source/basic/hello_world.vala) - [Vala-lang](https://vala.dev/)
 3. [VB.NET](source/basic/hello_world(VB.NET).vb) - [VB.NET]([https://vala.dev/](https://learn.microsoft.com/en-us/dotnet/visual-basic/))
 4. [VBScript](source/basic/hello_world.vbs) - [Microsoft VBScript](<https://docs.microsoft.com/en-us/previous-versions//d1wf56tt(v=vs.85)>)
-5. [Verilog](source/basic/hello_world.sv) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
-6. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
-7. [VIM](source/basic/hello_world.vim) - [Vim-lang](https://www.vim.org/)
-8. [VisualBasic](source/basic/hello_world.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
-8. [Velato](source/basic/helloworld.vlt) - [Velato](http://velato.net/)
+5. [Velato](source/basic/helloworld.vlt) - [Velato](http://velato.net/)
+6. [Verilog](source/basic/hello_world.sv) - [Verilog](https://en.wikipedia.org/wiki/Verilog)
+7. [VHDL](source/basic/hello_world.vhdl) - [VHDL](https://en.wikipedia.org/wiki/VHDL)
+8. [VIM](source/basic/hello_world.vim) - [Vim-lang](https://www.vim.org/)
+9. [VisualBasic](source/basic/hello_world.vb) - [Microsoft Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 ### W
 
