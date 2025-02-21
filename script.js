@@ -833,6 +833,126 @@ const languages = [
         name: 'False',
         description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
         link: 'https://strlen.com/files/lang/false/false.txt'
+    },
+    {
+        name: 'Velato',
+        description: 'Velato is an esoteric programming language that uses MIDI files as source code. Programs in Velato are defined by the pitch and order of notes.',
+        link: 'http://velato.net/'
+    },
+    {
+        name: 'ArnoldC',
+        description: 'ArnoldC is an esoteric programming language created with Scala by Lauri Hartikka.',
+        link: 'https://banhawy.github.io/ArnoldC-Technical-Documentation/'
+    },
+    {
+        name: 'Kipple',
+        description: 'Kipple is a minimalistic esoteric programming language with a set of stacks, four operators, and a single control structure.',
+        link: 'https://www.pvv.ntnu.no/~runeberg/kipple/index.html'
+    },
+    {
+        name: 'GolfScript',
+        description: 'GolfScript is a stack oriented esoteric programming language aimed at solving problems (holes) in as few keystrokes as possible.',
+        link: 'https://www.golfscript.com/golfscript/index.html'
+    },
+    {
+        name: 'Jelly',
+        description: 'The Jelly programming language was created to code Siri Shortcuts in a text base language. ',
+        link: 'https://docs.jellycuts.com/Getting_Started/language_overview.html'
+    },
+    {
+        name: 'Brain-Flak',
+        description: 'Stack-based esoteric language designed by Programming Puzzles and Code-Golf user, DJMcMayhem. The name is a cross between "brainfuck", which was a big inspiration for the language, and "flak-overstow", since the language is confusing and stack-based.',
+        link: 'https://github.com/DJMcMayhem/Brain-Flak'
+    },
+    {
+        name: 'Seed',
+        description: 'Seed is a language based on random seeds. Actually, programs only contain two instructions: length and random seed, separated by a space.',
+        link: 'https://esolangs.org/wiki/Seed'
+    },
+    {
+        name: 'NASM',
+        description: 'NASM (netwide assembler), is an assembler and disassembler for the Intel x86 architecture.',
+        link: 'https://cratecode.com/info/nasm'
+    },
+    {
+        name: 'A Pear Tree',
+        description: 'The trivial derivative of Perl created by User:ais523 in 2016, mostly as a joke. It aims to mildly modify the language to make it more suitable for writing polyglots particularly with Python 3.',
+        link: 'https://esolangs.org/wiki/A_Pear_Tree'
+    },
+    {
+        name: 'ABC',
+        description: 'Interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC.',
+        link: 'https://homepages.cwi.nl/~steven/abc/'
+    },
+    {
+        name: 'Aceto',
+        description: 'An esoteric programming language made by L3viathan, designed according to the wishes of @sarnthil. The name has no meaning other than being a reference to OIL.',
+        link: 'https://esolangs.org/wiki/Aceto'
+    },
+    {
+        name: 'Agda',
+        description: 'Agda is a dependently typed programming language. It is an extension of Martin-Löfs type theory and is the latest in the tradition of languages developed in the programming logic group at Chalmers.',
+        link: 'https://agda.readthedocs.io/en/latest/overview.html'
+    },
+    {
+        name: 'Agony',
+        description: 'An esoteric programming language and It is based on, most of the time backwards compatible with Brainfuck.',
+        link: 'https://esolangs.org/wiki/Agony'
+    },
+    {
+        name: 'Aheui',
+        description: 'Aheui (아희 in Korean language) is the first esoteric programming language ever to be designed for Hangul, the Korean alphabet, designed by User:Puzzlet Chung.',
+        link: 'https://esolangs.org/wiki/Aheui#:~:text=Aheui%20(%EC%95%84%ED%9D%AC%20in%20Korean%20language,26%20stacks%20and%20one%20queue.'
+    },
+    {
+        name: 'Alchemist',
+        description: 'Alchemist is a non-deterministic programming language based on chemical reaction networks. A program is a (multi-)set of rules of the form LHS -> RHS, where the LHS consists of simple atoms separated by + and the RHS consists of atoms separated by +.',
+        link: 'https://esolangs.org/wiki/Alchemist'
+    },
+    {
+        name: 'ATS',
+        description: 'ATS is a statically typed programming language that unifies implementation with formal specification.',
+        link: 'https://ats-lang.sourceforge.net/'
+    },
+    {
+        name: 'BITBITJUMP',
+        description: 'BitBitJump is one of the simplest OISC languages. It allows calculations by only bit copying process without using conventional logic operations like AND, OR, XOR, NAND, or NOT.',
+        link: 'https://esolangs.org/wiki/BitBitJump'
+    },
+    {
+        name: 'BoolFuck',
+        description: 'Boolfuck is an esoteric programming language based on Brainfuck, but operating only on bits',
+        link: 'https://samuelhughes.com/boof/'
+    },
+    {
+        name: 'BrainGolf',
+        description: 'Braingolf is a simple, symbol-based language.Every symbol in Braingolf is either an operator, a modifier, or a literal.',
+        link: 'https://github.com/dylanrenwick/braingolf'
+    },
+    {
+        name: 'BrachyLog',
+        description: 'Brachylog is a declarative golfing language based on SWI-Prolog. It was created by Fatalize in 2015.',
+        link: 'https://github.com/JCumin/Brachylog'
+    },
+    {
+        name: 'Broccoli',
+        description: 'Broccoli is an exciting new programming language that is guaranteed to make you pee your pants (in a good way)',
+        link: 'https://github.com/broccoli-lang/broccoli'
+    },
+    {
+        name: 'Burlesque',
+        description: 'Burlesque is a concatenative, dynamic typed, lazy, probably esoteric programming language.',
+        link: 'https://github.com/FMNSSun/Burlesque'
+    },
+    {
+        name: 'Caboose',
+        description: 'Caboose aims to be a simple and easy to learn language while still being powerful enough for everyday use.',
+        link: 'https://github.com/CabooseLang/Caboose'
+    },
+    {
+        name: 'Cardinal',
+        description: 'An esoteric programming language by User:Madk, named for the directions that the instruction pointers can travel. Execution takes place on a 2D grid.',
+        link: 'https://esolangs.org/wiki/Cardinal'
     }
 ];
 
