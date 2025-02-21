@@ -800,6 +800,11 @@ const languages = [
         link: 'https://codewithrockstar.com/'
     },
     {
+        name: 'Zonnon',
+        description: 'A programming language in the Pascal/Modula family, with added object-oriented and concurrency features',
+        link: 'https://zonnon.org/'
+    },
+    {
         name: 'Gambas',
         description: 'An object-oriented dialect of the BASIC programming language',
         link: 'https://gambas.sourceforge.net/'
