@@ -11,7 +11,7 @@ const languages = [
     },
     {
         name: 'Ada',
-        description: 'Langage de programmation structuré pour systèmes embarqués',
+        description: 'Structured programming language for embedded systems',
         link: 'https://ada-lang.io/'
     },
     {
@@ -45,9 +45,19 @@ const languages = [
         link: 'https://demergent-labs.github.io/azle/'
     },
     {
+        name: 'APL',
+        description: 'Array-oriented programming language',
+        link: 'https://www.dyalog.com/apl.htm'
+    },
+    {
         name: 'B',
         description: 'Programming language developed at Bell Labs & Predecessor to C',
         link: 'https://www.bell-labs.com/usr/dmr/www/bintro.html'
+    },
+    {
+        name: 'Ballerina',
+        description: 'Langage de programmation orienté objet',
+        link: 'https://ballerina.io/'
     },
     {
         name: 'BASIC',
@@ -124,7 +134,7 @@ const languages = [
         description: 'Object oriented programming language',
         link: 'http://www.erights.org/'
     },
-     {
+    {
         name: 'Delphi',
         description: 'Object oriented programming Language created by Borland ',
         link: 'https://learndelphi.org/'
@@ -284,7 +294,7 @@ const languages = [
         description: 'Langage de programmation client-side',
         link: 'https://www.typescriptlang.org/'
     },
-      {
+    {
         name: 'Transact-SQL',
         description: 'Microsoft SQL Server',
         link: 'https://learn.massstreet.net/transact-sql/basic/hello-world.html'
@@ -604,7 +614,7 @@ const languages = [
         description: 'Langage de requête XML',
         link: 'https://www.w3.org/TR/xquery-31/'
     },
-     {
+    {
         name: 'Xojo',
         description: 'Build Native, Cross-Platform Apps',
         link: 'https://www.xojo.com'
@@ -720,39 +730,39 @@ const languages = [
         link: 'https://wren.io/'
     },
     {
-        name: 'ChucK',  
+        name: 'ChucK',
         description: 'Strongly-timed, concurrent audio programming language',
-        link: 'https://chuck.cs.princeton.edu/'  
+        link: 'https://chuck.cs.princeton.edu/'
     },
     {
         name: 'COBOLScript',
         description: 'Scripting variant of COBOL',
-        link: 'https://sites.google.com/view/cobolscripting'  
+        link: 'https://sites.google.com/view/cobolscripting'
     },
     {
         name: 'LiveCode',
         description: 'Visual, high-level programming language',
-        link: 'https://livecode.com/'  
+        link: 'https://livecode.com/'
     },
     {
         name: 'Monkey X',
         description: 'Programming language for game development',
-        link: 'https://monkeycoder.co.nz/'  
+        link: 'https://monkeycoder.co.nz/'
     },
     {
         name: 'MQL',
         description: 'Programming language for MetaTrader platforms (MQL4, MQL5)',
-        link: 'https://www.mql5.com/'  
+        link: 'https://www.mql5.com/'
     },
     {
         name: 'Oberon',
         description: 'Programming language from the Pascal family',
-        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html' 
+        link: 'https://www.inf.ethz.ch/personal/wirth/Oberon/index.html'
     },
     {
         name: 'OpenCL',
         description: 'Programming language for parallel programming',
-        link: 'https://www.khronos.org/opencl/'  
+        link: 'https://www.khronos.org/opencl/'
     },
     {
         name: 'Pico',
@@ -767,19 +777,19 @@ const languages = [
     {
         name: 'Processing',
         description: 'Visual arts-focused programming language and environment',
-        link: 'https://processing.org/' 
+        link: 'https://processing.org/'
     },
     {
         name: 'Rebol',
         description: 'Relative Expression-Based Object Language for lightweight scripting',
-        link: 'http://www.rebol.com/' 
+        link: 'http://www.rebol.com/'
     },
     {
         name: 'SPIN',
         description: 'Programming language for Propeller microcontrollers',
-        link: 'https://parallax.com/downloads/spin-programming-language/' 
+        link: 'https://parallax.com/downloads/spin-programming-language/'
     },
-    {   
+    {
         name: 'Dragon',
         description: 'A multi-paradigm, general-purpose programming language ',
         link: 'https://dragon-lang.org/'
@@ -793,8 +803,37 @@ const languages = [
         name: 'Zonnon',
         description: 'A programming language in the Pascal/Modula family, with added object-oriented and concurrency features',
         link: 'https://zonnon.org/'
+    },
+    {
+        name: 'Gambas',
+        description: 'An object-oriented dialect of the BASIC programming language',
+        link: 'https://gambas.sourceforge.net/'
+    },
+    {
+        name: 'NASM',
+        description: 'An open-source assembler for x86 and x86-64 architectures ',
+        link: 'https://cratecode.com/info/nasm'
+    },
+    {
+        name: 'COW',
+        description: 'An esoteric programming language. It is a Brainfuck variant designed humorously with Bovinae in mind',
+        link: 'https://bigzaphod.github.io/COW/'
+    },
+    {
+        name: 'OAK',
+        description: 'Oak is a low-level translated/compiled programming language with compile-time syntax modification.',
+        link: 'https://oaklang.org/'
+    },
+    {
+        name: 'Befunge 93',
+        description: 'Befunge 93 is a two-dimensional esoteric programming language with the goal of being as difficult to compile as possible.',
+        link: 'https://catseye.tc/article/Languages.md#befunge-93'
+    },
+    {
+        name: 'False',
+        description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
+        link: 'https://strlen.com/files/lang/false/false.txt'
     }
-
 ];
 
 function createAlphabetFilter() {
@@ -867,8 +906,30 @@ function showError() {
     errorMessage.textContent = 'Unable to load languages. Please try again later.';
 }
 
+function setupBackToTop() {
+    const backToTopButton = document.getElementById('backToTop');
+
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) { // Show button after scrolling 300px
+            backToTopButton.classList.add('visible');
+        } else {
+            backToTopButton.classList.remove('visible');
+        }
+    });
+
+    // Scroll to top when clicked
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth' // Smooth scrolling
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     createAlphabetFilter();
     createLanguageCards();
     setupSearch();
-}); 
+    setupBackToTop();
+});
