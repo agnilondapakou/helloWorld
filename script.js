@@ -788,6 +788,11 @@ const languages = [
         name: 'Rockstar',
         description: 'An esoteric programming language inspired by rock song lyrics, designed to turn code into poetic expressions',
         link: 'https://codewithrockstar.com/'
+    },
+    {
+        name: 'Z++',
+        description: 'an object-oriented extension of the Z specification language',
+        link: 'https://pldb.io/concepts/zpp.html'
     }
 
 ];
