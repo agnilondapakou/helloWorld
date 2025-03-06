@@ -833,6 +833,11 @@ const languages = [
         name: 'False',
         description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
         link: 'https://strlen.com/files/lang/false/false.txt'
+    },
+    {
+        name: 'C++',
+        description: 'C++ is both high-level and low-level, making it great for performance-intensive applications',
+        link: ' https://www.stroustrup.com/C++book.html'
     }
 ];
 
