@@ -4,6 +4,11 @@ const languages = [
         description: 'Programming language developed by SAP',
         link: 'https://pages.community.sap.com/topics/abap'
     },
+  {
+    name: 'Kotlin Script',
+    description: 'Scripting variant of Kotlin that allows top-level statements without needing a main function',
+    link: 'https://kotlinlang.org/docs/command-line.html#run-scripts'  // Official documentation for running scripts
+},
     {
         name: 'ActionScript',
         description: 'Programming language for Flash applications',
