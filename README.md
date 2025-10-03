@@ -209,13 +209,14 @@ A modern web interface showcasing "Hello World" examples in various programming 
 5. [Simula](source/basic/hello_world.sim) - [Simula language](https://en.wikipedia.org/wiki/Simula)
 6. [Smalltalk](source/basic/hello_world.st) - [Squeak.org](https://squeak.org/)
 7. [SNOBOL](source/basic/hello_world.sno) - [SNOBOL4](https://www.regressive.org/snobol4/)
-8. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
-9. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
-10. [Spin](source/basic/helloworld.spin) - [Spin](https://parallax.com/downloads/spin-programming-language/)
-11. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
-12. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
-13. [Stata](source/basic/hello_world.do) - [Stata.com](https://www.stata.com/)
-14. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+8. [Solidity](source/basic/HelloWorld.sol) - [Solidity](https://docs.soliditylang.org/en/v0.8.30/)
+9. [Soroban](source/basic/hello_world.rs) - [Stellar Developers](https://developers.stellar.org/)
+10. [SPARK](source/basic/hello_world.adb) - [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
+11. [Spin](source/basic/helloworld.spin) - [Spin](https://parallax.com/downloads/spin-programming-language/)
+12. [SQL](source/basic/hello_world.sql) - [ISO SQL](https://www.iso.org/standard/76583.html)
+13. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
+14. [Stata](source/basic/hello_world.do) - [Stata.com](https://www.stata.com/)
+15. [Swift](source/basic/hello_world.swift) - [Swift.org](https://www.swift.org/)
 
 ### T
 

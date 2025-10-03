@@ -833,6 +833,11 @@ const languages = [
         name: 'False',
         description: 'An early Forth-like esoteric programming language with the goal of creating a powerful language with as small a compiler as possible.',
         link: 'https://strlen.com/files/lang/false/false.txt'
+    },
+    {
+        name: 'Solidity',
+        description: 'Solidity is a high-level programming language designed for implementing smart contracts. It is the primary language for blockchains running platforms.',
+        link: 'https://docs.soliditylang.org/en/v0.8.30/'
     }
 ];
 
