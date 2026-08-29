@@ -555,6 +555,11 @@ const languages = [
         link: 'https://www.regressive.org/snobol4/'
     },
     {
+        name: 'Solidity',
+        description: 'Langage orienté objet pour les smart contracts sur Ethereum',
+        link: 'https://soliditylang.org/'
+    },
+    {
         name: 'Soroban',
         description: 'Framework pour Stellar blockchain',
         link: 'https://developers.stellar.org/'
