@@ -198,6 +198,43 @@ h1 span.documentation {
     transform: translateX(5px);
 }
 
+.code-toggle {
+    display: block;
+    margin-top: 0.75rem;
+    color: var(--primary-color);
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-dark);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.code-toggle:hover {
+    color: var(--text-light);
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.code-block {
+    margin-top: 0.75rem;
+    padding: 1rem;
+    background-color: var(--bg-dark);
+    border: 1px solid var(--border-dark);
+    border-radius: 5px;
+    color: var(--text-light);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
 @keyframes pulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.05); }
