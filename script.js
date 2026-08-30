@@ -555,6 +555,11 @@ const languages = [
         link: 'https://www.regressive.org/snobol4/'
     },
     {
+        name: 'Solidity',
+        description: 'Langage orienté objet pour les smart contracts sur Ethereum',
+        link: 'https://soliditylang.org/'
+    },
+    {
         name: 'Soroban',
         description: 'Framework pour Stellar blockchain',
         link: 'https://developers.stellar.org/'
@@ -836,6 +841,180 @@ const languages = [
     }
 ];
 
+const languageFiles = {
+    'ABAP': 'source/basic/hello_world.abap',
+    'ActionScript': 'source/basic/hello_world.as',
+    'Ada': 'source/basic/hello_world.adb',
+    'ALGOL 68': 'source/basic/hello_world.a68',
+    'APL': 'source/basic/hello_world.apl',
+    'Applescript': 'source/basic/hello_world.scpt',
+    'Assembly': 'source/basic/hello_world.asm',
+    'AutoIt': 'source/basic/hello_world.au3',
+    'Awk': 'source/basic/hello_world.awk',
+    'Azle': 'source/basic/hello_world.ts',
+    'B': 'source/basic/hello_world.b',
+    'Babel': 'source/basic/hello_world.babel',
+    'Ballerina': 'source/basic/hello_world.bal',
+    'BASIC': 'source/basic/hello_world.bas',
+    'Bash': 'source/basic/hello_world.sh',
+    'Batch': 'source/basic/hello_world.bat',
+    'BCPL': 'source/basic/hello_world.bcpl',
+    'Befunge 93': 'source/basic/helloworld.bfg',
+    'Bhailang': 'source/hello_world.bhai',
+    'Bicep': 'source/basic/hello.bicep',
+    'Blaz': 'source/hello_world.blaz',
+    'boo': 'source/basic/hello_world.boo',
+    'Brainfuck': 'source/basic/hello_world.bf',
+    'C': 'source/basic/hello_world.c',
+    'C++': 'source/basic/hello_world.cpp',
+    'C#': 'source/basic/hello_world.cs',
+    'Cangjie': 'source/basic/hello_world.cj',
+    'Carbon': 'source/basic/hello_world.carbon',
+    'Cairo': 'source/basic/hello_world.cairo',
+    'Cecil': 'source/basic/hello_world.cecil',
+    'Chapel': 'source/basic/hello_world.chpl',
+    'Clojure': 'source/basic/hello_world.clj',
+    'CLIPS': 'source/basic/hello_world.clp',
+    'COBOL': 'source/basic/hello_world.cob',
+    'Coffeescript': 'source/basic/hello_world.coffee',
+    'COOL': 'source/basic/hello_world.cl',
+    'Crystal': 'source/basic/hello_world.cr',
+    'Curl': 'source/basic/hello_world.curl',
+    'cypher': 'source/basic/hello_world.cypher',
+    'ChucK': 'source/basic/helloworld.ck',
+    'COBOLScript': 'source/basic/helloworld.cbls',
+    'COW': 'source/basic/helloworld.cow',
+    'D': 'source/basic/hello_world.d',
+    'Dart': 'source/basic/hello_world.dart',
+    'Daytona': 'source/basic/hello_world(daytona).io',
+    'Delphi': 'source/basic/hello_world.dpr',
+    'Dragon': 'source/basic/hello_world.dragon',
+    'Dylan': 'source/basic/hello_world.dylan',
+    'E': 'source/basic/hello_world(E).e',
+    'Eiffel': 'source/basic/hello_world.e',
+    'Elixir': 'source/basic/hello_world.exs',
+    'Elm': 'source/basic/hello_world.elm',
+    'Erlang': 'source/basic/hello_world.erl',
+    'Euphoria': 'source/basic/hello_world.ex',
+    'Factor': 'source/basic/hello_world.factor',
+    'Falcon': 'source/basic/hello_world.fcn',
+    'Fantom': 'source/basic/hello_world.fan',
+    'F#': 'source/basic/hello_world.fs',
+    'forth': 'source/basic/hello_world.fth',
+    'Fortran': 'source/basic/hello_world.f90',
+    'Futhark': 'source/basic/hello_world.fut',
+    'False': 'source/basic/helloworld.fls',
+    'Gambas': 'source/basic/hello_world.gambas',
+    'GDScript': 'source/basic/helloworld.gd',
+    'GML': 'source/basic/helloWorld.gml',
+    'Go': 'source/basic/helloworld.go',
+    'Groovy': 'source/basic/helloworld.groovy',
+    'Hack': 'source/basic/hello_world.hack',
+    'Haskell': 'source/basic/hello_world.hs',
+    'Haxe': 'source/basic/hello_world.hx',
+    'HolyC': 'source/basic/hello_world.HC',
+    'HTML': 'source/basic/hello_world.html',
+    'Icon': 'source/basic/hello_world.icn',
+    'Idris': 'source/basic/hello_world.idr',
+    'INTERCAL': 'source/basic/hello_world.i',
+    'io': 'source/basic/hello_world.io',
+    'J': 'source/basic/hello_world.j',
+    'Janet': 'source/basic/hello_world.janet',
+    'Java': 'source/basic/hello_world.java',
+    'Javascript': 'source/basic/hello_world.js',
+    'JavaServer Pages': 'source/basic/hello_world.jsp',
+    'Julia': 'source/basic/hello_world.jl',
+    'K': 'source/basic/hello_world.k',
+    'KornShell': 'source/basic/hello_world.ksh',
+    'Kotlin': 'source/basic/hello_world.kt',
+    'Lisk': 'source/basic/hello_world-lisk.js',
+    'Logo': 'source/basic/hello_world.logo',
+    'Lua': 'source/basic/hello_world.lua',
+    'Lol': 'source/basic/Hello_World.lol',
+    'LiveCode': 'source/basic/helloworld.livecode',
+    'Maple': 'source/basic/hello_world.mpl',
+    'MATLAB': 'source/basic/hello_world.m',
+    'Mercury': 'source/basic/hello_world.m',
+    'Miranda': 'source/basic/hello_world.m',
+    'Modula-2': 'source/basic/hello_world.mod',
+    'Motoko': 'source/basic/hello_world.mo',
+    'Monkey X': 'source/basic/helloworld.monkey',
+    'MQL': 'source/basic/helloworld.mq5',
+    'NASM(Netwide-Assembler)': 'source/basic/hello_world_nasm.asm',
+    'Nim': 'source/basic/hello_world.nim',
+    'OAK': 'source/basic/helloworld.oak',
+    'Objective-C': 'source/basic/hello_world.m',
+    'OCaml': 'source/basic/hello_world.ml',
+    'Occam': 'source/basic/hello_world.occ',
+    'Oberon': 'source/basic/helloworld.obr',
+    'OpenCL': 'source/basic/helloworld.cl',
+    'Pascal': 'source/basic/hello_world.pas',
+    'Perl': 'source/basic/hello_world.pl',
+    'PHP': 'source/basic/hello_world.php',
+    'Pike': 'source/basic/hello_world.pike',
+    'Plug': 'source/basic/hello_world.plug',
+    'Pony': 'source/basic/hello_world.pony',
+    'PostScript': 'source/basic/hello_world.ps',
+    'PowerShell': 'source/basic/hello_world.ps1',
+    'Prolog': 'source/basic/hello_world.pl',
+    'Pug': 'source/basic/hello_world.pug',
+    'Python': 'source/basic/hello_world.py',
+    'Pico': 'source/basic/helloworld.pico',
+    'PL/I': 'source/basic/helloworld.pli',
+    'Processing': 'source/basic/helloworld.pde',
+    'Q': 'source/basic/hello_world.q',
+    'R': 'source/basic/hello_world.r',
+    'Racket': 'source/basic/hello_world.rkt',
+    'Raku': 'source/basic/hello_world.raku',
+    'ReasonML': 'source/basic/hello_world.re',
+    'Red': 'source/basic/hello_world.red',
+    'Ruby': 'source/basic/hello_world.rb',
+    'Rust': 'source/basic/hello_world.rs',
+    'Rebol': 'source/basic/helloworld.reb',
+    'Rexx': 'source/basic/hello_world.rexx',
+    'Ring': 'source/basic/hello_world.ring',
+    'Rockstar': 'source/basic/helloworld.rks',
+    'SAS': 'source/basic/hello_world.sas',
+    'Sather': 'source/basic/hello_world.sather',
+    'Scala': 'source/basic/hello_world.scala',
+    'Scheme': 'source/basic/hello_world.scm',
+    'Simula': 'source/basic/hello_world.sim',
+    'Smalltalk': 'source/basic/hello_world.st',
+    'SNOBOL': 'source/basic/hello_world.sno',
+    'Solidity': 'source/basic/hello_world.sol',
+    'Soroban': 'source/basic/hello_world.rs',
+    'SPARK': 'source/basic/hello_world.adb',
+    'Spin': 'source/basic/helloworld.spin',
+    'SQL': 'source/basic/hello_world.sql',
+    'Squirrel': 'source/basic/hello_world.nut',
+    'Swift': 'source/basic/hello_world.swift',
+    'Stata': 'source/basic/hello_world.do',
+    'TADS': 'source/basic/hello_world(TADS).t',
+    'Tcl': 'source/basic/hello_world.tcl',
+    'Thue': 'source/basic/hello_world.thue',
+    'Transact-SQL': 'source/basic/HelloWorld.sql',
+    'Turing': 'source/basic/hello_world.t',
+    'Typescript': 'source/basic/hello_world.ts',
+    'V': 'source/basic/hello_world.v',
+    'Vala': 'source/basic/hello_world.vala',
+    'VB.NET': 'source/basic/hello_world(VB.NET).vb',
+    'VBScript': 'source/basic/hello_world.vbs',
+    'Verilog': 'source/basic/hello_world.sv',
+    'VHDL': 'source/basic/hello_world.vhdl',
+    'VIM': 'source/basic/hello_world.vim',
+    'VisualBasic': 'source/basic/hello_world.vb',
+    'WhiteSpace': 'source/basic/hello_world.ws',
+    'Wolfram': 'source/basic/hello_world.wl',
+    'Wren': 'source/basic/hello_world.wren',
+    'Xamarin': 'source/basic/hello_world.xaml',
+    'Xojo': 'source/basic/HelloWorld.xojo_project',
+    'Xquery': 'source/basic/hello_world.xquery',
+    'YAML': 'source/basic/hello_world.yaml',
+    'Zig': 'source/basic/hello_world.zig',
+    'Zonnon': 'source/basic/hello_world.NET',
+    'Zsh': 'source/basic/hello_world.zsh'
+};
+
 function createAlphabetFilter() {
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
     const filterContainer = document.querySelector('.alphabet-filter');
@@ -877,10 +1056,52 @@ function createLanguageCards() {
                class="language-link" 
                target="_blank" 
                rel="noopener noreferrer">Official Documentation</a>
+            <button type="button" class="code-toggle" aria-expanded="false">View Code</button>
+            <pre class="code-block" hidden></pre>
         `;
         
         card.addEventListener('click', () => {
             window.open(language.link, '_blank', 'noopener,noreferrer');
+        });
+
+        const codeToggle = card.querySelector('.code-toggle');
+        const codeBlock = card.querySelector('.code-block');
+
+        codeToggle.addEventListener('click', (event) => {
+            event.stopPropagation();
+            if (!codeBlock.dataset.loaded) {
+                codeBlock.dataset.loaded = 'true';
+                const file = languageFiles[language.name];
+                if (!file) {
+                    codeBlock.textContent = 'No example file is registered for this language.';
+                    codeBlock.hidden = false;
+                    codeToggle.textContent = 'Hide Code';
+                    codeToggle.setAttribute('aria-expanded', 'true');
+                    return;
+                }
+                fetch(file)
+                    .then(response => {
+                        if (!response.ok) throw new Error(`Failed to load ${file}`);
+                        return response.text();
+                    })
+                    .then(code => {
+                        codeBlock.textContent = code.trimEnd();
+                        codeBlock.hidden = false;
+                        codeToggle.textContent = 'Hide Code';
+                        codeToggle.setAttribute('aria-expanded', 'true');
+                    })
+                    .catch(() => {
+                        codeBlock.textContent = 'Code cannot be fetched from a local file. Open the deployed site or serve the page over HTTP to view the example (see source/basic/ in the repository).';
+                        codeBlock.hidden = false;
+                        codeToggle.textContent = 'Hide Code';
+                        codeToggle.setAttribute('aria-expanded', 'true');
+                    });
+            } else {
+                const show = codeBlock.hidden;
+                codeBlock.hidden = !show;
+                codeToggle.textContent = show ? 'Hide Code' : 'View Code';
+                codeToggle.setAttribute('aria-expanded', show ? 'true' : 'false');
+            }
         });
         
         languagesGrid.appendChild(card);
